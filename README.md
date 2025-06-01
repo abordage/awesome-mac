@@ -1,7 +1,7 @@
 # Awesome Mac
 
-![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)
-![License](https://img.shields.io/github/license/abordage/awesome-mac)
+[![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)](README.md)
+[![License](https://img.shields.io/github/license/abordage/awesome-mac)](LICENSE)
 
 
 This curated list is based on several awesome lists and community contributions.
