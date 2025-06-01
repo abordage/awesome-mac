@@ -1,0 +1,22 @@
+name: Validate repositories.yaml
+
+on:
+  push:
+    paths: [ 'repositories.yaml' ]
+  pull_request:
+    paths: [ 'repositories.yaml' ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Validate YAML against JSON Schema
+      uses: cardinalby/schema-validator-action@v3
+      with:
+        file: 'repositories.yaml'
+        schema: 'https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json'
