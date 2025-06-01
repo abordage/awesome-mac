@@ -1,7 +1,8 @@
-# Awesome !!!
+# Awesome Mac
 
-![Last update](https://img.shields.io/github/last-commit/abordage/awesome-!!!?label=last%20update)
-![License](https://img.shields.io/github/license/abordage/awesome-!!!)
+![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)
+![License](https://img.shields.io/github/license/abordage/awesome-mac)
+
 
 This curated list is based on several awesome lists and community contributions.
 All repositories are automatically verified daily to exclude abandoned, archived, or deleted projects, as well as repositories that are not mature enough.
@@ -435,8 +436,8 @@ Found something wrong? Open an issue or submit a pull request — contributions 
 
 ## Credits
 
-- [!!!](https://github.com/!!!!!!)
-- [All Contributors](https://github.com/abordage/awesome-!!!/graphs/contributors)
+- [avelino/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [All Contributors](https://github.com/abordage/awesome-mac/graphs/contributors)
 
 ## License
 
