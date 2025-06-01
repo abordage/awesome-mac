@@ -1,0 +1,439 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
+$schema: "https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json"
+
+categories:
+    - name: Audio and Video Tools
+      repos:
+        - url: https://github.com/Aegisub/Aegisub
+        - url: https://github.com/Ardour/ardour
+        - url: https://github.com/audacity/audacity
+        - url: https://github.com/ExistentialAudio/BlackHole
+        - url: https://github.com/chidiwilliams/buzz
+        - url: https://github.com/AnaghSharma/Carol
+        - url: https://github.com/losnoco/cog
+        - url: https://github.com/FreeTubeApp/FreeTube
+        - url: https://github.com/sindresorhus/Gifski
+        - url: https://github.com/HandBrake/HandBrake
+        - url: https://github.com/hydrogen-music/hydrogen
+        - url: https://github.com/iina/iina
+        - url: https://github.com/jellyfin/jellyfin
+        - url: https://github.com/xbmc/xbmc
+        - url: https://github.com/lmms/lmms
+        - url: https://github.com/mifi/lossless-cut
+        - url: https://github.com/ddddxxx/LyricsX
+        - url: https://github.com/samzong/macmusicplayer
+        - url: https://github.com/section83/MacYTDL
+        - url: https://github.com/TheAcharya/MarkerData
+        - url: https://github.com/mixxxdj/mixxx
+        - url: https://github.com/EvilCult/moviecatcher
+        - url: https://github.com/mpv-player/mpv
+        - url: https://github.com/musescore/MuseScore
+        - url: https://github.com/martpie/museeks
+        - url: https://github.com/MrKepzie/Natron
+        - url: https://github.com/nukeop/nuclear
+        - url: https://github.com/metabrainz/picard
+        - url: https://github.com/wulkano/Plug
+        - url: https://github.com/popcorn-official/popcorn-desktop
+        - url: https://github.com/vincehi/pulp
+        - url: https://github.com/mltframework/shotcut
+        - url: https://github.com/sonoramac/Sonora
+        - url: https://github.com/kmikiy/SpotMenu
+        - url: https://github.com/synfig/synfig
+        - url: https://github.com/videolan/vlc
+        - url: https://github.com/th-ch/youtube-music
+        - url: https://github.com/ytmdesktop/ytmdesktop
+        - url: https://github.com/stargatedaw/stargate
+        - url: https://github.com/lihaoyun6/QuickRecorder
+          description: 'A lightweight screen recorder based on ScreenCapture Kit for macOS'
+    - name: Browsers
+      repos:
+        - url: https://github.com/brave/brave-browser
+        - url: https://github.com/ungoogled-software/ungoogled-chromium
+        - url: https://github.com/minbrowser/min
+        - url: https://github.com/qutebrowser/qutebrowser
+        - url: https://github.com/getstation/desktop-app
+        - url: https://github.com/zen-browser/desktop
+    - name: Communication
+      subcategories:
+        - name: Collaboration and Team Tools
+          repos:
+            - url: https://github.com/sindresorhus/caprine
+            - url: https://github.com/ferdium/ferdium-app
+            - url: https://github.com/mastodon/mastodon
+            - url: https://github.com/mattermost/mattermost
+            - url: https://github.com/misskey-dev/misskey
+            - url: https://github.com/signalapp/Signal-Desktop
+            - url: https://github.com/overtake/TelegramSwift
+            - url: https://github.com/Codeux-Software/Textual
+        - name: Email Clients
+          repos:
+            - url: https://github.com/vladimiry/ElectronMail
+            - url: https://github.com/Foundry376/Mailspring
+            - url: https://github.com/tutao/tutanota
+            - url: https://github.com/skiff-org/skiff-apps
+        - name: File Sharing
+          repos:
+            - url: https://github.com/localsend/localsend
+            - url: https://github.com/grishka/NearDrop
+    - name: Design and Product
+      subcategories:
+        - name: Design Tools
+          repos:
+            - url: https://github.com/toinane/colorpicker
+            - url: https://github.com/darktable-org/darktable
+            - url: https://github.com/jgraph/drawio-desktop
+            - url: https://github.com/KDE/krita
+            - url: https://github.com/dsward2/macSVG
+            - url: https://github.com/pencil2d/pencil
+            - url: https://github.com/RawTherapee/RawTherapee
+            - url: https://github.com/duyquoc/ScreenToLayers
+            - url: https://github.com/abynim/UserFlows
+            - url: https://github.com/sindresorhus/System-Color-Picker
+            - url: https://github.com/cartesiancs/nugget-app
+        - name: Other Tools
+          repos:
+            - url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+            - url: https://github.com/szTheory/exifcleaner
+            - url: https://github.com/netdcy/FlowVision
+            - url: https://github.com/ImageOptim/ImageOptim
+            - url: https://github.com/jurplel/qView
+            - url: https://github.com/kyleduo/TinyPNG4Mac
+            - url: https://github.com/tropy/tropy
+            - url: https://github.com/Molunerfinn/PicGo
+            - url: https://github.com/gee1k/uPic
+        - name: Screencapturing Software
+          repos:
+            - url: https://github.com/wulkano/kap
+            - url: https://github.com/keycastr/keycastr
+            - url: https://github.com/vishaltelangre/Kyapchar
+            - url: https://github.com/justinfrankel/licecap
+            - url: https://github.com/obsproject/obs-studio
+    - name: Developer Tools
+      subcategories:
+        - name: API Development and Analysis
+          repos:
+            - url: https://github.com/hoppscotch/hoppscotch
+              description: 'Open source API development ecosystem - alternative to Postman, Insomnia'
+            - url: https://github.com/Kong/insomnia
+            - url: https://github.com/mountain-loop/yaak
+        - name: Databases
+          repos:
+            - url: https://github.com/beekeeper-studio/beekeeper-studio
+            - url: https://github.com/bdash-app/bdash
+            - url: https://github.com/ChristianKienle/Core-Data-Editor
+            - url: https://github.com/sqlitebrowser/sqlitebrowser
+            - url: https://github.com/garrylachman/ElectroCRUD
+            - url: https://github.com/gcollazo/mongodbapp
+            - url: https://github.com/pgmodeler/pgmodeler
+            - url: https://github.com/PostgresApp/PostgresApp
+            - url: https://github.com/Sequel-Ace/Sequel-Ace
+            - url: https://github.com/surrealdb/surrealdb
+            - url: https://github.com/trailbaseio/trailbase
+            - url: https://github.com/cmushroom/redis-pro
+              description: 'redis-pro is a simple and easy to use management of redis written in SwiftUI'
+        - name: Developer Utilities
+          repos:
+            - url: https://github.com/isaced/CubicBezier
+            - url: https://github.com/hschmidt/EnvPane
+            - url: https://github.com/onmyway133/FinderGo
+            - url: https://github.com/johnste/finicky
+            - url: https://github.com/HexFiend/HexFiend
+            - url: https://github.com/specialunderwear/Hosts.prefpane
+            - url: https://github.com/illacloud/illa-builder
+            - url: https://github.com/WerWolv/ImHex
+            - url: https://github.com/kaunteya/MacSystemColors
+            - url: https://github.com/mjmlio/mjml
+            - url: https://github.com/sindresorhus/Pasteboard-Viewer
+            - url: https://github.com/jkpang/PPRows
+            - url: https://github.com/responsively-org/responsively-app
+            - url: https://github.com/scmbreeze/scm_breeze
+            - url: https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension
+            - url: https://github.com/oldj/SwitchHosts
+            - url: https://github.com/zqqf16/SYM
+              description: ''
+            - url: https://github.com/insidegui/WWDC
+            - url: https://github.com/XcodesOrg/XcodesApp
+            - url: https://github.com/MarcoEidinger/XCSnippetsApp
+        - name: Frameworks For Hybrid Applications
+          repos:
+            - url: https://github.com/sindresorhus/create-dmg
+            - url: https://github.com/electron/electron
+            - url: https://github.com/ionic-team/ionic-framework
+            - url: https://github.com/nwjs/nw.js
+            - url: https://github.com/tauri-apps/tauri
+        - name: IDEs
+          repos:
+            - url: https://github.com/apache/netbeans
+            - url: https://github.com/Microsoft/vscode
+            - url: https://github.com/zed-industries/zed
+        - name: Network Analysis
+          repos:
+            - url: https://github.com/GyulyVGC/sniffnet
+            - url: https://github.com/wireshark/wireshark
+              description: 'Wireshark is a network traffic analyzer, or "sniffer"'
+        - name: Version Control
+          repos:
+            - url: https://github.com/Shikkic/gitbar
+            - url: https://github.com/desktop/desktop
+            - url: https://github.com/git-up/GitUp
+            - url: https://github.com/relagit/relagit
+            - url: https://github.com/maoyama/Tempo
+        - name: Virtualization
+          repos:
+            - url: https://github.com/canonical/multipass
+            - url: https://github.com/lima-vm/lima
+            - url: https://github.com/qemu/qemu
+              description: 'generic and open source machine & userspace emulator and virtualizer'
+            - url: https://github.com/utmapp/UTM
+            - url: https://github.com/hashicorp/vagrant
+    - name: Download Management Tools
+      repos:
+        - url: https://github.com/agalwood/Motrix
+        - url: https://github.com/qbittorrent/qBittorrent
+        - url: https://github.com/transmission/transmission
+        - url: https://github.com/soimort/you-get
+    - name: Encryption
+      repos:
+        - url: https://github.com/cryptomator/cryptomator
+        - url: https://github.com/alichtman/deadbolt
+    - name: Gaming Software
+      repos:
+        - url: https://github.com/OpenEmu/OpenEmu
+        - url: https://github.com/PlayCover/PlayCover
+        - url: https://github.com/hrydgard/ppsspp
+          description: 'A PSP emulator for Android, Windows, Mac and Linux, written in C++'
+        - url: https://github.com/RPCS3/rpcs3
+    - name: Input Methods
+      repos:
+        - url: https://github.com/Serpentiel/betterglobekey
+    - name: Proxy and VPN Tools
+      repos:
+        - url: https://github.com/hiddify/hiddify-app
+        - url: https://github.com/getlantern/lantern
+          description: 'Censorship circumvention tool available for free download on any operating system'
+        - url: https://github.com/mullvad/mullvadvpn-app
+        - url: https://github.com/shadowsocks/ShadowsocksX-NG
+    - name: QuickLook Plugins
+      repos:
+        - url: https://github.com/sbarex/QLMarkdown
+        - url: https://github.com/sindresorhus/quick-look-plugins
+        - url: https://github.com/sbarex/SourceCodeSyntaxHighlight
+    - name: Reading and Writing Tools
+      subcategories:
+        - name: Ebooks
+          repos:
+            - url: https://github.com/kovidgoyal/calibre
+            - url: https://github.com/NSGod/ichm
+            - url: https://github.com/koodo-reader/koodo-reader
+            - url: https://github.com/readest/readest
+            - url: https://github.com/Sigil-Ebook/Sigil
+            - url: https://github.com/MaddTheSane/Simple-Comic
+        - name: Markdown Tools Awesome List
+          repos:
+            - url: https://github.com/MacDownApp/macdown
+            - url: https://github.com/Zettlr/Zettlr
+        - name: Note-taking
+          repos:
+            - url: https://github.com/toeverything/AFFiNE
+              description: 'a next-gen knowledge base that brings planning, sorting and creating all together'
+            - url: https://github.com/AppFlowy-IO/appflowy
+            - url: https://github.com/dnote/dnote
+            - url: https://github.com/glushchenko/fsnotes
+            - url: https://github.com/laurent22/joplin
+            - url: https://github.com/logseq/logseq
+              description: 'A privacy-first, open-source platform for knowledge management and collaboration'
+            - url: https://github.com/massCodeIO/massCode
+            - url: https://github.com/nuttyartist/notes
+            - url: https://github.com/saber-notes/saber
+            - url: https://github.com/standardnotes/app
+              description: 'Think fearlessly with end-to-end encrypted notes and files'
+            - url: https://github.com/pbek/QOwnNotes
+            - url: https://github.com/vnotex/vnote
+        - name: Office
+          repos:
+            - url: https://github.com/ONLYOFFICE/DesktopEditors
+        - name: Others
+          repos:
+            - url: https://github.com/vishaltelangre/bindPDF
+            - url: https://github.com/antonycourtney/tad
+            - url: https://github.com/zotero/zotero
+        - name: RSS
+          repos:
+            - url: https://github.com/RSSNext/Folo
+            - url: https://github.com/Ranchero-Software/NetNewsWire
+            - url: https://github.com/dyerc/Doughnut
+            - url: https://github.com/ViennaRSS/vienna-rss
+        - name: Text Editors
+          repos:
+            - url: https://github.com/AuroraEditor/AuroraEditor
+            - url: https://github.com/CodeEditApp/CodeEdit
+            - url: https://github.com/coteditor/CotEditor
+            - url: https://github.com/haystackeditor/haystack-editor
+            - url: https://github.com/helix-editor/helix
+            - url: https://github.com/lapce/lapce
+            - url: https://github.com/macvim-dev/macvim
+            - url: https://github.com/react-page/react-page
+            - url: https://github.com/neovim/neovim
+            - url: https://github.com/subethaedit/SubEthaEdit
+            - url: https://github.com/vim/vim
+            - url: https://github.com/qvacua/vimr
+            - url: https://github.com/zed-industries/zed
+        - name: Writing
+          repos:
+            - url: https://github.com/vkbo/novelWriter
+    - name: Remote Login Software
+      repos:
+        - url: https://github.com/moonlight-stream/moonlight-qt
+        - url: https://github.com/rustdesk/rustdesk
+        - url: https://github.com/LizardByte/Sunshine
+    - name: Security Tools
+      repos:
+        - url: https://github.com/objective-see/BlockBlock
+        - url: https://github.com/objective-see/DylibHijackScanner
+        - url: https://github.com/objective-see/KextViewr
+        - url: https://github.com/objective-see/KnockKnock
+        - url: https://github.com/halo/LinkLiar
+        - url: https://github.com/objective-see/LuLu
+        - url: https://github.com/objective-see/OverSight
+        - url: https://github.com/ParetoSecurity/pareto-mac
+        - url: https://github.com/objective-see/RansomWhere
+        - url: https://github.com/Lennolium/swiftGuard
+        - url: https://github.com/objective-see/TaskExplorer
+        - url: https://github.com/objective-see/WhatsYourSign
+    - name: Terminal Apps
+      repos:
+        - url: https://github.com/alacritty/alacritty
+        - url: https://github.com/electerm/electerm
+        - url: https://github.com/ghostty-org/ghostty
+        - url: https://github.com/gnachman/iTerm2
+        - url: https://github.com/kovidgoyal/kitty
+        - url: https://github.com/Eugeny/tabby
+        - url: https://github.com/wavetermdev/waveterm
+        - url: https://github.com/wezterm/wezterm
+    - name: Third Party App Markets
+      subcategories:
+        - name: Package Managers
+          repos:
+            - url: https://github.com/milanvarady/Applite
+            - url: https://github.com/buresdv/cork
+            - url: https://github.com/Homebrew/brew
+    - name: Translation Tools
+      repos:
+        - url: https://github.com/tisfeng/Easydict
+          description: 'A concise and elegant Dictionary and Translator macOS App for looking up words and translating text'
+        - url: https://github.com/openai-translator/openai-translator
+          description: 'Browser extension and cross-platform desktop application for translation based on ChatGPT API'
+    - name: Utilities
+      repos:
+        - url: https://github.com/glinford/dns-easy-switcher
+      subcategories:
+        - name: Clipboard Tools
+          repos:
+            - url: https://github.com/IvanMathy/Boop
+            - url: https://github.com/Slackadays/Clipboard
+              description: 'The Clipboard Project is a fast and lightweight, feature packed, and user friendly tool that lets you do more on the computer'
+            - url: https://github.com/naotaka/ClipMenu
+            - url: https://github.com/Clipy/Clipy
+            - url: https://github.com/hluk/CopyQ
+            - url: https://github.com/PasteBar/PasteBarApp
+            - url: https://github.com/TermiT/Flycut
+            - url: https://github.com/p0deje/Maccy
+            - url: https://github.com/mattDavo/Yippy
+        - name: File Organization Tools
+          repos:
+            - url: https://github.com/mucommander/mucommander
+            - url: https://github.com/raguay/ModalFileManager
+            - url: https://github.com/PDF-Archiver/PDF-Archiver
+        - name: Finder Tools
+          repos:
+            - url: https://github.com/wflixu/RClick
+        - name: General Tools
+          repos:
+            - url: https://github.com/balena-io/etcher
+            - url: https://github.com/rlxone/Equinox
+            - url: https://github.com/mangerlahn/Latest
+            - url: https://github.com/kaunteya/MacCacheCleaner
+            - url: https://github.com/sindresorhus/Plash
+            - url: https://github.com/jasonjmcghee/rem
+            - url: https://github.com/dteoh/SlowQuitApps
+            - url: https://github.com/Swift-open-source/UltraTabSaver
+            - url: https://github.com/upscayl/upscayl
+              description: 'Free and Open Source AI Image Upscaler for Linux, MacOS and Windows'
+            - url: https://github.com/gkpln3/CapsLockNoDelay
+        - name: Menu Bar Tools
+          repos:
+            - url: https://github.com/Mortennn/Dozer
+            - url: https://github.com/jordanbaird/Ice
+            - url: https://github.com/sfsam/itsycal
+              description: 'Itsycal is a tiny calendar for menu bar'
+            - url: https://github.com/leits/MeetingBar
+            - url: https://github.com/MonitorControl/MonitorControl
+            - url: https://github.com/jacklandrin/OnlySwitch
+            - url: https://github.com/Celve/Peninsula
+            - url: https://github.com/DamascenoRafael/reminders-menubar
+            - url: https://github.com/FelixKratz/SketchyBar
+            - url: https://github.com/jamieweavis/streaker
+            - url: https://github.com/swiftbar/SwiftBar
+            - url: https://github.com/ivoronin/TomatoBar
+        - name: Password Management
+          repos:
+            - url: https://github.com/keepassxreboot/keepassxc
+            - url: https://github.com/strongbox-password-safe/Strongbox
+        - name: Productivity
+          repos:
+            - url: https://github.com/ActivityWatch/activitywatch
+            - url: https://github.com/viarotel-org/escrcpy
+            - url: https://github.com/mattermost-community/focalboard
+            - url: https://github.com/FreeterApp/Freeter
+            - url: https://github.com/Hammerspoon/hammerspoon
+            - url: https://github.com/niw/HapticKey
+            - url: https://github.com/zenangst/KeyboardCowboy
+            - url: https://github.com/linearmouse/linearmouse
+            - url: https://github.com/noah-nuebling/mac-mouse-fix
+            - url: https://github.com/Caldis/Mos
+              description: 'A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS'
+            - url: https://github.com/koekeishiya/skhd
+            - url: https://github.com/khrykin/StrategrDesktop
+            - url: https://github.com/WINBIGFOX/TimeScribe
+              description: 'a modern, flexible time tracking app for capturing and managing personal working hours'
+            - url: https://github.com/rupa/z
+        - name: Quality of Life Improvements
+          repos:
+            - url: https://github.com/sindresorhus/Actions
+            - url: https://github.com/keycastr/keycastr
+            - url: https://github.com/alin23/Lunar
+            - url: https://github.com/thompsonate/Shifty
+        - name: System Related Tools
+          repos:
+            - url: https://github.com/AppHouseKitchen/AlDente-Charge-Limiter
+            - url: https://github.com/ThatGuySam/doesitarm
+            - url: https://github.com/kyleneideck/BackgroundMusic
+            - url: https://github.com/zenangst/Gray
+            - url: https://github.com/Chris911/iStats
+            - url: https://github.com/brianmichel/Juice
+            - url: https://github.com/newmarcel/KeepingYouAwake
+            - url: https://github.com/BigBerny/magicquit
+            - url: https://github.com/alienator88/Pearcleaner
+            - url: https://github.com/exelban/stats
+            - url: https://github.com/sveinbjornt/Sloth
+            - url: https://github.com/probablykasper/time-machine-inspector
+            - url: https://github.com/KrauseFx/overkill-for-mac
+        - name: To-Do Lists
+          repos:
+            - url: https://github.com/johannesjo/super-productivity
+        - name: Window Management
+          repos:
+            - url: https://github.com/nikitabobko/AeroSpace
+            - url: https://github.com/lwouis/alt-tab-macos
+            - url: https://github.com/ianyh/Amethyst
+            - url: https://github.com/XiCheng148/Dockit
+            - url: https://github.com/finestructure/Hummingbird
+            - url: https://github.com/FelixKratz/JankyBorders
+            - url: https://github.com/MrKai77/Loop
+            - url: https://github.com/Geckos-Ink/MakeItHome
+            - url: https://github.com/rxhanson/Rectangle
+            - url: https://github.com/fikovnik/ShiftIt
+            - url: https://github.com/pablopunk/swiftshift
+            - url: https://github.com/lihaoyun6/Topit
+              description: 'Pin any window to the top of your screen'
+            - url: https://github.com/koekeishiya/yabai
