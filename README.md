@@ -6,10 +6,9 @@
 
 **Automated. Curated. Ranked.**
 
-This awesome list is automatically maintained with daily GitHub API updates.
-Projects are re-ranked daily based on current activity metrics.
+macOS software and tools from the open-source community. This awesome list is automatically maintained with daily GitHub API updates. Projects are re-ranked daily based on current activity metrics.
 
-**Daily process:** Get community PRs → Check activity → Filter active projects → Recalculate rankings → Update list
+**Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
 - [Audio and Video Tools](#audio-and-video-tools)
 - [Browsers](#browsers)
