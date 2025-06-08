@@ -338,7 +338,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Homebrew/brew](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`43,834`
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) — User-friendly GUI macOS application for Homebrew Casks ☆`5,021`
 - [buresdv/Cork](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,305`
-- [buresdv/Cork](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,305`
 ## Translation Tools
 
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) — Browser extension and cross-platform desktop application for translation based on ChatGPT API ☆`24,457`
