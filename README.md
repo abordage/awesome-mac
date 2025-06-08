@@ -10,6 +10,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
+- [Android Tools](#android-tools)
 - [Audio and Video Tools](#audio-and-video-tools)
 - [Browsers](#browsers)
 - [Communication](#communication)
@@ -51,6 +52,7 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Package Managers](#package-managers)
 - [Translation Tools](#translation-tools)
 - [Utilities](#utilities)
+  - [CLI Tools](#cli-tools)
   - [Clipboard Tools](#clipboard-tools)
   - [File Organization Tools](#file-organization-tools)
   - [Finder Tools](#finder-tools)
@@ -64,6 +66,9 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Window Management](#window-management)
 
 
+## Android Tools
+
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`4,875`
 ## Audio and Video Tools
 
 - [iina/iina](https://github.com/iina/iina) — The modern video player for macOS. ☆`40,682`
@@ -75,7 +80,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) — HandBrake's main development repository ☆`19,778`
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`17,960`
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) — BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. ☆`16,619`
-- [videolan/vlc](https://github.com/videolan/vlc) — VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc ☆`15,649`
+- [videolan/vlc](https://github.com/videolan/vlc) — VLC media player ☆`15,649`
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. ☆`14,594`
 - [audacity/audacity](https://github.com/audacity/audacity) — Audio Editor ☆`13,735`
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) — MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! ☆`13,239`
@@ -290,6 +295,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [helix-editor/helix](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`37,906`
 - [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`36,544`
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`21,832`
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`10,402`
 - [react-page/react-page](https://github.com/react-page/react-page) — Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids. ☆`9,520`
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,637`
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`6,962`
@@ -332,6 +338,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Homebrew/brew](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`43,834`
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) — User-friendly GUI macOS application for Homebrew Casks ☆`5,021`
 - [buresdv/Cork](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,305`
+- [buresdv/Cork](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,305`
 ## Translation Tools
 
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) — Browser extension and cross-platform desktop application for translation based on ChatGPT API ☆`24,457`
@@ -339,6 +346,10 @@ macOS software and tools from the open-source community. This awesome list is au
 ## Utilities
 
 - [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) — DNS Easy Switcher (for MacOS) ☆`195`
+### CLI Tools
+
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`24,931`
+- [lihaoyun6/xHistory](https://github.com/lihaoyun6/xHistory) — A powerful command line history manager ☆`150`
 ### Clipboard Tools
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`15,493`
@@ -363,7 +374,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`1,428`
 ### Menu Bar Tools
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`30,099`
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`19,569`
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) — A highly customizable macOS status bar replacement ☆`8,983`
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) — Your meetings at your fingertips in the macOS menu bar ☆`4,851`
@@ -372,6 +382,9 @@ macOS software and tools from the open-source community. This awesome list is au
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`3,292`
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. ☆`3,250`
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`2,711`
+- [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`1,790`
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS ☆`1,585`
+- [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) — Change the style of the Apple logo in macOS menu bar ☆`580`
 - [Celve/Peninsula](https://github.com/Celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`388`
 - [jamieweavis/streaker](https://github.com/jamieweavis/streaker) — Cross-platform GitHub contribution streak/statistic tracking menu bar application with reminder notification ☆`188`
 ### Password Management
@@ -392,7 +405,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [niw/HapticKey](https://github.com/niw/HapticKey) — A simple utility application to trigger haptic feedback when tapping Touch Bar. ☆`1,655`
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) — The missing keyboard shortcut utility for macOS ☆`1,264`
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`551`
-- [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) — a modern, flexible time tracking app for capturing and managing personal working hours ☆`408`
+- [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) — A modern, flexible time tracking app for capturing and managing personal working hours ☆`408`
 ### Quality of Life Improvements
 
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`13,781`
@@ -401,6 +414,9 @@ macOS software and tools from the open-source community. This awesome list is au
 ### System Related Tools
 
 - [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`31,796`
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`30,099`
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`24,960`
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`20,106`
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ☆`17,434`
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) — Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. ☆`8,492`
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) — Menubar Tool to set Charge Limits and Prolong Battery Lifespan ☆`8,410`
