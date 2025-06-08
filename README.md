@@ -423,7 +423,9 @@ macOS software and tools from the open-source community. This awesome list is au
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) — Prevents your Mac from going to sleep. ☆`5,880`
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) — A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs ☆`3,787`
 - [BigBerny/magicquit](https://github.com/BigBerny/magicquit) —  ☆`297`
+- [sanketk2020/MacSpaceCleaner](https://github.com/sanketk2020/MacSpaceCleaner) — Lightweight and efficient macOS app designed to free up disk space by removing unnecessary files, caches, and temporary data. ☆`118`
 - [probablykasper/time-machine-inspector](https://github.com/probablykasper/time-machine-inspector) — Time Machine backup size inspector app ☆`100`
+- [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`67`
 ### To-Do Lists
 
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) — Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. ☆`13,853`
