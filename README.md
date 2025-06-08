@@ -103,6 +103,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [losnoco/Cog](https://github.com/losnoco/Cog) — Cog - A Free and Open Source Audio Player for macOS 10.13+ ☆`799`
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) — Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor ☆`736`
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`685`
+- [wulkano/Plug](https://github.com/wulkano/Plug) — macOS app for Hype Machine ☆`217`
 - [TheAcharya/MarkerData](https://github.com/TheAcharya/MarkerData) — The avant-garde Marker extraction application crafted for Final Cut Pro ☆`47`
 - [samzong/MacMusicPlayer](https://github.com/samzong/MacMusicPlayer) — A clean, lightweight music player for macOS. ☆`26`
 - [vincehi/pulp](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`44`
@@ -146,6 +147,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [cartesiancs/nugget-app](https://github.com/cartesiancs/nugget-app) — Electron based video editing software. Focusing on adding motion effects using a layered editing system. ☆`393`
 ### Other Tools
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) — A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder ☆`25,248`
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. ☆`13,254`
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`9,461`
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,886`
@@ -155,6 +157,7 @@ macOS software and tools from the open-source community. This awesome list is au
 ### Screencapturing Software
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recording ☆`64,767`
+- [wulkano/Kap](https://github.com/wulkano/Kap) — An open-source screen recorder built with web technology ☆`18,628`
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`13,781`
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) — LICEcap simple animated screen capture tool for Windows and OS X ☆`5,445`
 ## Developer Tools
@@ -173,6 +176,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) — MySQL/MariaDB database management for macOS ☆`6,975`
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) — Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! ☆`3,282`
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) — A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8. ☆`2,449`
+- [garrylachman/ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) — Database CRUD Application Built on Electron | MySQL, Postgres, SQLite ☆`1,545`
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) — Simple SQL Client for lightweight data analysis. ☆`1,506`
 - [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) — redis-pro is a simple and easy to use management of redis written in SwiftUI ☆`664`
 - [gcollazo/mongodbapp](https://github.com/gcollazo/mongodbapp) — The easiest way to get started with MongoDB on the Mac ☆`531`
@@ -188,6 +192,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,596`
 - [johnste/finicky](https://github.com/johnste/finicky) — A macOS app for customizing which browser to start ☆`4,049`
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) — Adds numbered shortcuts to the output git status, and much more ☆`2,862`
+- [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) — EnvPane - An OS X preference pane for environment variables ☆`787`
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`765`
 - [MarcoEidinger/SwiftPlantUML-Xcode-Extension](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) — Xcode Extension for generating class diagrams from Swift code (powered by PlantUML) ☆`449`
 ### Frameworks For Hybrid Applications
@@ -222,6 +227,7 @@ macOS software and tools from the open-source community. This awesome list is au
 ## Download Management Tools
 
 - [soimort/you-get](https://github.com/soimort/you-get) — Dumb downloader that scrapes the web ☆`55,696`
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`47,948`
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`31,483`
 - [transmission/transmission](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`13,141`
 ## Encryption
@@ -243,6 +249,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,209`
 ### Disk Usage Analysis Tools
 
+- [adileo/squirreldisk](https://github.com/adileo/squirreldisk) — Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust ☆`1,007`
 - [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`67`
 ### Utils
 
@@ -333,6 +340,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for PCs (Windows, Mac, Linux, and Steam Link) ☆`13,351`
 ## Screenshots and Screen Recorder Tools
 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`26,428`
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`6,449`
 ## Security Tools
 
@@ -387,6 +395,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) — Make any website your Mac desktop wallpaper ☆`3,700`
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) — An open source approach to locally record and enable searching everything you view on your Mac. ☆`2,410`
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`1,428`
+- [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) — Eliminates delay when activating caps lock on macOS OSX ☆`605`
 - [wflixu/RClick](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`261`
 ### Menu Bar Tools
 
