@@ -2,6 +2,9 @@
 $schema: "https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json"
 
 categories:
+    - name: Android Tools
+      repos:
+        - url: https://github.com/ganeshrvel/openmtp
     - name: Audio and Video Tools
       repos:
         - url: https://github.com/Aegisub/Aegisub
@@ -40,6 +43,7 @@ categories:
         - url: https://github.com/kmikiy/SpotMenu
         - url: https://github.com/synfig/synfig
         - url: https://github.com/videolan/vlc
+          description: 'VLC media player'
         - url: https://github.com/th-ch/youtube-music
         - url: https://github.com/ytmdesktop/ytmdesktop
         - url: https://github.com/stargatedaw/stargate
@@ -278,6 +282,8 @@ categories:
             - url: https://github.com/vim/vim
             - url: https://github.com/qvacua/vimr
             - url: https://github.com/zed-industries/zed
+            - url: https://github.com/dail8859/NotepadNext
+              description: 'Notepad++ for macOS'
         - name: Writing
           repos:
             - url: https://github.com/vkbo/novelWriter
@@ -327,6 +333,11 @@ categories:
       repos:
         - url: https://github.com/glinford/dns-easy-switcher
       subcategories:
+        - name: CLI Tools
+          repos:
+            - url: https://github.com/withfig/autocomplete
+            - url: https://github.com/lihaoyun6/xHistory
+              description: 'A powerful command line history manager'
         - name: Clipboard Tools
           repos:
             - url: https://github.com/IvanMathy/Boop
@@ -367,7 +378,6 @@ categories:
             - url: https://github.com/sfsam/itsycal
               description: 'Itsycal is a tiny calendar for menu bar'
             - url: https://github.com/leits/MeetingBar
-            - url: https://github.com/MonitorControl/MonitorControl
             - url: https://github.com/jacklandrin/OnlySwitch
             - url: https://github.com/Celve/Peninsula
             - url: https://github.com/DamascenoRafael/reminders-menubar
@@ -375,6 +385,11 @@ categories:
             - url: https://github.com/jamieweavis/streaker
             - url: https://github.com/swiftbar/SwiftBar
             - url: https://github.com/ivoronin/TomatoBar
+            - url: https://github.com/lihaoyun6/Logoer
+              description: 'Change the style of the Apple logo in macOS menu bar'
+            - url: https://github.com/lihaoyun6/AirBattery
+              description: 'Get battery usage of all devices on Mac and show them on the Dock / StatusBar'
+            - url: https://github.com/pakerwreah/Calendr
         - name: Password Management
           repos:
             - url: https://github.com/keepassxreboot/keepassxc
@@ -395,7 +410,7 @@ categories:
             - url: https://github.com/koekeishiya/skhd
             - url: https://github.com/khrykin/StrategrDesktop
             - url: https://github.com/WINBIGFOX/TimeScribe
-              description: 'a modern, flexible time tracking app for capturing and managing personal working hours'
+              description: 'A modern, flexible time tracking app for capturing and managing personal working hours'
             - url: https://github.com/rupa/z
         - name: Quality of Life Improvements
           repos:
@@ -418,6 +433,9 @@ categories:
             - url: https://github.com/sveinbjornt/Sloth
             - url: https://github.com/probablykasper/time-machine-inspector
             - url: https://github.com/KrauseFx/overkill-for-mac
+            - url: https://github.com/MonitorControl/MonitorControl
+            - url: https://github.com/waydabber/BetterDisplay
+            - url: https://github.com/pqrs-org/Karabiner-Elements
         - name: To-Do Lists
           repos:
             - url: https://github.com/johannesjo/super-productivity
