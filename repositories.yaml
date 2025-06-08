@@ -47,8 +47,6 @@ categories:
         - url: https://github.com/th-ch/youtube-music
         - url: https://github.com/ytmdesktop/ytmdesktop
         - url: https://github.com/stargatedaw/stargate
-        - url: https://github.com/lihaoyun6/QuickRecorder
-          description: 'A lightweight screen recorder based on ScreenCapture Kit for macOS'
     - name: Browsers
       repos:
         - url: https://github.com/brave/brave-browser
@@ -75,10 +73,6 @@ categories:
             - url: https://github.com/Foundry376/Mailspring
             - url: https://github.com/tutao/tutanota
             - url: https://github.com/skiff-org/skiff-apps
-        - name: File Sharing
-          repos:
-            - url: https://github.com/localsend/localsend
-            - url: https://github.com/grishka/NearDrop
     - name: Design and Product
       subcategories:
         - name: Design Tools
@@ -153,8 +147,6 @@ categories:
             - url: https://github.com/scmbreeze/scm_breeze
             - url: https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension
             - url: https://github.com/oldj/SwitchHosts
-            - url: https://github.com/zqqf16/SYM
-              description: ''
             - url: https://github.com/insidegui/WWDC
             - url: https://github.com/XcodesOrg/XcodesApp
             - url: https://github.com/MarcoEidinger/XCSnippetsApp
@@ -200,6 +192,28 @@ categories:
       repos:
         - url: https://github.com/cryptomator/cryptomator
         - url: https://github.com/alichtman/deadbolt
+    - name: File Management Tools
+      subcategories:
+        - name: File Managers
+          repos:
+            - url: https://github.com/mucommander/mucommander
+            - url: https://github.com/raguay/ModalFileManager
+        - name: Android
+          repos:
+            - url: https://github.com/ganeshrvel/openmtp
+        - name: File Sharing
+          repos:
+            - url: https://github.com/localsend/localsend
+            - url: https://github.com/grishka/NearDrop
+        - name: Disk Usage Analysis Tools
+          repos:
+            - url: https://github.com/adileo/squirreldisk
+            - url: https://github.com/RobinNaumann/disko
+        - name: Utils
+          repos:
+            - url: https://github.com/tfeldmann/organize
+            - url: https://github.com/PDF-Archiver/PDF-Archiver
+            - url: https://github.com/nohajc/anylinuxfs
     - name: Gaming Software
       repos:
         - url: https://github.com/OpenEmu/OpenEmu
@@ -267,6 +281,7 @@ categories:
             - url: https://github.com/Ranchero-Software/NetNewsWire
             - url: https://github.com/dyerc/Doughnut
             - url: https://github.com/ViennaRSS/vienna-rss
+            - url: https://github.com/sopaco/saga-reader
         - name: Text Editors
           repos:
             - url: https://github.com/AuroraEditor/AuroraEditor
@@ -292,6 +307,11 @@ categories:
         - url: https://github.com/moonlight-stream/moonlight-qt
         - url: https://github.com/rustdesk/rustdesk
         - url: https://github.com/LizardByte/Sunshine
+    - name: Screenshots and Screen Recorder Tools
+      repos:
+        - url: https://github.com/flameshot-org/flameshot
+        - url: https://github.com/lihaoyun6/QuickRecorder
+          description: 'A lightweight screen recorder based on ScreenCapture Kit for macOS'
     - name: Security Tools
       repos:
         - url: https://github.com/objective-see/BlockBlock
@@ -350,14 +370,6 @@ categories:
             - url: https://github.com/TermiT/Flycut
             - url: https://github.com/p0deje/Maccy
             - url: https://github.com/mattDavo/Yippy
-        - name: File Organization Tools
-          repos:
-            - url: https://github.com/mucommander/mucommander
-            - url: https://github.com/raguay/ModalFileManager
-            - url: https://github.com/PDF-Archiver/PDF-Archiver
-        - name: Finder Tools
-          repos:
-            - url: https://github.com/wflixu/RClick
         - name: General Tools
           repos:
             - url: https://github.com/balena-io/etcher
@@ -371,6 +383,7 @@ categories:
             - url: https://github.com/upscayl/upscayl
               description: 'Free and Open Source AI Image Upscaler for Linux, MacOS and Windows'
             - url: https://github.com/gkpln3/CapsLockNoDelay
+            - url: https://github.com/wflixu/RClick
         - name: Menu Bar Tools
           repos:
             - url: https://github.com/Mortennn/Dozer
@@ -436,7 +449,6 @@ categories:
             - url: https://github.com/MonitorControl/MonitorControl
             - url: https://github.com/waydabber/BetterDisplay
             - url: https://github.com/pqrs-org/Karabiner-Elements
-            - url: https://github.com/RobinNaumann/disko
             - url: https://github.com/sanketk2020/MacSpaceCleaner
         - name: To-Do Lists
           repos:
