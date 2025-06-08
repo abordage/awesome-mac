@@ -16,7 +16,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Communication](#communication)
   - [Collaboration and Team Tools](#collaboration-and-team-tools)
   - [Email Clients](#email-clients)
-  - [File Sharing](#file-sharing)
 - [Design and Product](#design-and-product)
   - [Design Tools](#design-tools)
   - [Other Tools](#other-tools)
@@ -32,6 +31,12 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Virtualization](#virtualization)
 - [Download Management Tools](#download-management-tools)
 - [Encryption](#encryption)
+- [File Management Tools](#file-management-tools)
+  - [File Managers](#file-managers)
+  - [Android](#android)
+  - [File Sharing](#file-sharing)
+  - [Disk Usage Analysis Tools](#disk-usage-analysis-tools)
+  - [Utils](#utils)
 - [Gaming Software](#gaming-software)
 - [Input Methods](#input-methods)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
@@ -46,6 +51,7 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Text Editors](#text-editors)
   - [Writing](#writing)
 - [Remote Login Software](#remote-login-software)
+- [Screenshots and Screen Recorder Tools](#screenshots-and-screen-recorder-tools)
 - [Security Tools](#security-tools)
 - [Terminal Apps](#terminal-apps)
 - [Third Party App Markets](#third-party-app-markets)
@@ -54,8 +60,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Utilities](#utilities)
   - [CLI Tools](#cli-tools)
   - [Clipboard Tools](#clipboard-tools)
-  - [File Organization Tools](#file-organization-tools)
-  - [Finder Tools](#finder-tools)
   - [General Tools](#general-tools)
   - [Menu Bar Tools](#menu-bar-tools)
   - [Password Management](#password-management)
@@ -88,7 +92,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`12,091`
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) — Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork ☆`9,785`
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) — Convert videos to high-quality GIFs on your Mac ☆`8,050`
-- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`6,449`
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mixes. ☆`5,491`
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`4,519`
 - [Ardour/ardour](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`4,253`
@@ -129,10 +132,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [tutao/tutanota](https://github.com/tutao/tutanota) — Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. ☆`6,616`
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) — Unofficial ProtonMail Desktop App ☆`1,577`
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) — Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. ☆`795`
-### File Sharing
-
-- [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`62,171`
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,209`
 ## Design and Product
 
 ### Design Tools
@@ -229,6 +228,27 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) — Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. ☆`12,937`
 - [alichtman/deadbolt](https://github.com/alichtman/deadbolt) — Dead-simple file encryption for any OS ☆`362`
+## File Management Tools
+
+### File Managers
+
+- [mucommander/mucommander](https://github.com/mucommander/mucommander) — A lightweight, cross-platform file manager with a dual-pane interface ☆`1,081`
+- [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`151`
+### Android
+
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`4,875`
+### File Sharing
+
+- [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`62,171`
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,209`
+### Disk Usage Analysis Tools
+
+- [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`67`
+### Utils
+
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,619`
+- [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`315`
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`209`
 ## Gaming Software
 
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`16,969`
@@ -287,6 +307,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) — Follow everything in one place ☆`26,452`
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`8,847`
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Vienna is a free and open-source RSS/Atom newsreader for macOS. ☆`1,906`
+- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`191`
 ### Text Editors
 
 - [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`90,149`
@@ -310,6 +331,9 @@ macOS software and tools from the open-source community. This awesome list is au
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ☆`90,111`
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`26,095`
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for PCs (Windows, Mac, Linux, and Steam Link) ☆`13,351`
+## Screenshots and Screen Recorder Tools
+
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`6,449`
 ## Security Tools
 
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`10,937`
@@ -355,14 +379,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) — Clipboard manager with advanced features ☆`9,865`
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) — The Clipboard Project is a fast and lightweight, feature packed, and user friendly tool that lets you do more on the computer ☆`5,245`
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) — PasteBar - Limitless, Free Clipboard Manager for Mac and Windows ☆`1,416`
-### File Organization Tools
-
-- [mucommander/mucommander](https://github.com/mucommander/mucommander) — A lightweight, cross-platform file manager with a dual-pane interface ☆`1,081`
-- [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`315`
-- [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`151`
-### Finder Tools
-
-- [wflixu/RClick](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`261`
 ### General Tools
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`37,291`
@@ -371,6 +387,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) — Make any website your Mac desktop wallpaper ☆`3,700`
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) — An open source approach to locally record and enable searching everything you view on your Mac. ☆`2,410`
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`1,428`
+- [wflixu/RClick](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`261`
 ### Menu Bar Tools
 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`19,569`
@@ -425,7 +442,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [BigBerny/magicquit](https://github.com/BigBerny/magicquit) —  ☆`297`
 - [sanketk2020/MacSpaceCleaner](https://github.com/sanketk2020/MacSpaceCleaner) — Lightweight and efficient macOS app designed to free up disk space by removing unnecessary files, caches, and temporary data. ☆`118`
 - [probablykasper/time-machine-inspector](https://github.com/probablykasper/time-machine-inspector) — Time Machine backup size inspector app ☆`100`
-- [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`67`
 ### To-Do Lists
 
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) — Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. ☆`13,853`
