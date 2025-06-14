@@ -249,11 +249,11 @@ macOS software and tools from the open-source community. This awesome list is au
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,228`
 ### Disk Usage Analysis Tools
 
-- [adileo/squirreldisk](https://github.com/adileo/squirreldisk) — Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust ☆`1,011`
+- [adileo/squirreldisk](https://github.com/adileo/squirreldisk) — Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust ☆`1,012`
 - [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`69`
 ### Utils
 
-- [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,624`
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,626`
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`316`
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`218`
 ## Gaming Software
@@ -314,7 +314,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) — Follow everything in one place ☆`26,570`
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`8,858`
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Vienna is a free and open-source RSS/Atom newsreader for macOS. ☆`1,909`
-- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`222`
+- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`228`
 ### Text Editors
 
 - [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`90,276`
@@ -340,7 +340,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for PCs (Windows, Mac, Linux, and Steam Link) ☆`13,425`
 ## Screenshots and Screen Recorder Tools
 
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`26,722`
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`26,855`
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`6,495`
 ## Security Tools
 
