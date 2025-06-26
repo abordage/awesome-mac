@@ -255,7 +255,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,637`
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`318`
-- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`249`
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`254`
 ## Gaming Software
 
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`17,059`
