@@ -224,6 +224,7 @@ categories:
     - name: Input Methods
       repos:
         - url: https://github.com/Serpentiel/betterglobekey
+        - url: https://github.com/runjuu/InputSourcePro
     - name: Proxy and VPN Tools
       repos:
         - url: https://github.com/hiddify/hiddify-app
@@ -425,6 +426,7 @@ categories:
             - url: https://github.com/WINBIGFOX/TimeScribe
               description: 'A modern, flexible time tracking app for capturing and managing personal working hours'
             - url: https://github.com/rupa/z
+            - url: https://github.com/rewhex/better-launchpad
         - name: Quality of Life Improvements
           repos:
             - url: https://github.com/sindresorhus/Actions
@@ -450,6 +452,7 @@ categories:
             - url: https://github.com/waydabber/BetterDisplay
             - url: https://github.com/pqrs-org/Karabiner-Elements
             - url: https://github.com/sanketk2020/MacSpaceCleaner
+            - url: https://github.com/appledragon/everythingByMdfind
         - name: To-Do Lists
           repos:
             - url: https://github.com/johannesjo/super-productivity
@@ -469,3 +472,4 @@ categories:
             - url: https://github.com/lihaoyun6/Topit
               description: 'Pin any window to the top of your screen'
             - url: https://github.com/koekeishiya/yabai
+            - url: https://github.com/ejbills/DockDoor
