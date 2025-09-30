@@ -72,7 +72,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 ## Android Tools
 
-- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,447`
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,448`
 ## Audio and Video Tools
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`44,035`
@@ -202,7 +202,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) — Create a good-looking DMG for your macOS app in seconds ☆`5,002`
 ### IDEs
 
-- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`177,065`
+- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`177,098`
 - [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`66,445`
 - [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,917`
 ### Network Analysis
@@ -240,7 +240,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`156`
 ### Android
 
-- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,447`
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,448`
 ### File Sharing
 
 - [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`68,170`
@@ -251,7 +251,7 @@ macOS software and tools from the open-source community. This awesome list is au
 ### Utils
 
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,752`
-- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`636`
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`639`
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`325`
 ## Gaming Software
 
@@ -312,7 +312,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) — Follow everything in one place ☆`34,492`
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`9,110`
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Vienna is a free and open-source RSS/Atom newsreader for macOS. ☆`1,932`
-- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`367`
+- [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`368`
 ### Text Editors
 
 - [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`93,082`
@@ -321,7 +321,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [vim/vim](https://github.com/vim/vim) — The official Vim repository ☆`38,994`
 - [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,406`
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,214`
-- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,348`
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,352`
 - [react-page/react-page](https://github.com/react-page/react-page) — Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids. ☆`9,538`
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,714`
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,208`
@@ -376,7 +376,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) — DNS Easy Switcher (for MacOS) ☆`236`
 ### CLI Tools
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,034`
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,035`
 - [lihaoyun6/xHistory](https://github.com/lihaoyun6/xHistory) — A powerful command line history manager ☆`171`
 ### Clipboard Tools
 
@@ -404,9 +404,9 @@ macOS software and tools from the open-source community. This awesome list is au
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`3,480`
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. ☆`3,454`
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`2,889`
-- [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`2,084`
-- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS ☆`1,803`
-- [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) — Change the style of the Apple logo in macOS menu bar ☆`606`
+- [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`2,100`
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS ☆`1,804`
+- [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) — Change the style of the Apple logo in macOS menu bar ☆`605`
 - [Celve/Peninsula](https://github.com/Celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`423`
 - [jamieweavis/streaker](https://github.com/jamieweavis/streaker) — Cross-platform GitHub contribution streak & statistic tracking menu bar application with reminder notification ☆`191`
 ### Password Management
@@ -437,8 +437,8 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`33,972`
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`31,305`
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`27,249`
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`20,729`
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`27,262`
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`20,733`
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ☆`17,950`
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) — A free, source-available and fair-code licensed mac app cleaner ☆`8,831`
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Menubar Tool to set Charge Limits and Prolong Battery Lifespan ☆`8,705`
