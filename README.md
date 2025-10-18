@@ -72,7 +72,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 ## Android Tools
 
-- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,520`
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,522`
 ## Audio and Video Tools
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`44,603`
@@ -87,7 +87,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) — BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. ☆`17,508`
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) — Streaming music player that finds free music for you ☆`16,163`
 - [audacity/audacity](https://github.com/audacity/audacity) — Audio Editor ☆`15,548`
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. ☆`15,455`
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. ☆`15,464`
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) — MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! ☆`13,813`
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`12,819`
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) — Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. ☆`9,940`
@@ -99,10 +99,10 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) — Cross-platform advanced subtitle editor ☆`3,272`
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) — Spotify & Apple Music in your macOS menu bar ☆`3,009`
 - [synfig/synfig](https://github.com/synfig/synfig) — This is the Official source code repository of Synfig Studio animation software ☆`2,077`
-- [martpie/museeks](https://github.com/martpie/museeks) — A simple, clean and cross-platform music player ☆`1,949`
+- [martpie/museeks](https://github.com/martpie/museeks) — A simple, clean and cross-platform music player ☆`1,952`
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) — The advanced drum machine for Linux, macOS, and Windows ☆`1,201`
 - [losnoco/Cog](https://github.com/losnoco/Cog) — Cog - A Free and Open Source Audio Player for macOS 10.13+ ☆`874`
-- [section83/MacYTDL](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`799`
+- [section83/MacYTDL](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`800`
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) — Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor ☆`780`
 - [wulkano/Plug](https://github.com/wulkano/Plug) — macOS app for Hype Machine ☆`222`
 - [samzong/MacMusicPlayer](https://github.com/samzong/MacMusicPlayer) — A clean, lightweight music player for macOS. ☆`54`
@@ -147,12 +147,12 @@ macOS software and tools from the open-source community. This awesome list is au
 ### Other Tools
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) — A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder ☆`25,766`
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. ☆`13,426`
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. ☆`13,428`
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`9,580`
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,932`
 - [jurplel/qView](https://github.com/jurplel/qView) — Practical and minimal image viewer ☆`2,632`
 - [tropy/tropy](https://github.com/tropy/tropy) — Research photo management ☆`1,047`
-- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience. ☆`962`
+- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience. ☆`963`
 ### Screencapturing Software
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recording ☆`67,493`
@@ -201,7 +201,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) — Create a good-looking DMG for your macOS app in seconds ☆`5,010`
 ### IDEs
 
-- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`177,594`
+- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`177,651`
 - [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`67,526`
 - [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,938`
 ### Network Analysis
@@ -239,18 +239,18 @@ macOS software and tools from the open-source community. This awesome list is au
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`156`
 ### Android
 
-- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,520`
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,522`
 ### File Sharing
 
 - [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`68,970`
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,657`
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,659`
 ### Disk Usage Analysis Tools
 
 - [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`89`
 ### Utils
 
-- [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,768`
-- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`682`
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,770`
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`686`
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`323`
 ## Gaming Software
 
@@ -260,7 +260,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) — Community fork of PlayCover ☆`10,089`
 ## Input Methods
 
-- [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`2,366`
+- [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`2,371`
 - [Serpentiel/betterglobekey](https://github.com/Serpentiel/betterglobekey) — Make macOS Globe key great again! ☆`67`
 ## Proxy and VPN Tools
 
@@ -320,7 +320,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [vim/vim](https://github.com/vim/vim) — The official Vim repository ☆`39,103`
 - [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,457`
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,288`
-- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,462`
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,466`
 - [react-page/react-page](https://github.com/react-page/react-page) — Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids. ☆`9,543`
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,726`
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,241`
@@ -337,7 +337,7 @@ macOS software and tools from the open-source community. This awesome list is au
 ## Screenshots and Screen Recorder Tools
 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`28,003`
-- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`7,233`
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`7,244`
 ## Security Tools
 
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`11,426`
@@ -377,7 +377,7 @@ macOS software and tools from the open-source community. This awesome list is au
 ### CLI Tools
 
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,043`
-- [lihaoyun6/xHistory](https://github.com/lihaoyun6/xHistory) — A powerful command line history manager ☆`172`
+- [lihaoyun6/xHistory](https://github.com/lihaoyun6/xHistory) — A powerful command line history manager ☆`173`
 ### Clipboard Tools
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`17,211`
@@ -404,8 +404,8 @@ macOS software and tools from the open-source community. This awesome list is au
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`3,503`
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. ☆`3,468`
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`2,924`
-- [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`2,275`
-- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS ☆`1,849`
+- [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`2,288`
+- [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS ☆`1,852`
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) — Change the style of the Apple logo in macOS menu bar ☆`606`
 - [Celve/Peninsula](https://github.com/Celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`427`
 - [jamieweavis/streaker](https://github.com/jamieweavis/streaker) — Cross-platform GitHub contribution streak & statistic tracking menu bar application with reminder notification ☆`190`
@@ -437,8 +437,8 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`34,263`
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`31,457`
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`27,544`
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`20,818`
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`27,562`
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`20,825`
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ☆`18,035`
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) — A free, source-available and fair-code licensed mac app cleaner ☆`9,091`
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Menubar Tool to set Charge Limits and Prolong Battery Lifespan ☆`8,745`
@@ -460,7 +460,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) — Automatic tiling window manager for macOS à la xmonad. ☆`15,752`
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) — Windows alt-tab on macOS ☆`13,489`
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) — Window management made elegant. ☆`9,350`
-- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) — Window peeking & alt-tab for macOS ☆`3,019`
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) — Window peeking & alt-tab for macOS ☆`3,021`
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`2,763`
 - [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) — Pin any window to the top of your screen ☆`1,127`
 - [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) — Sweet window management for macOS ☆`468`
