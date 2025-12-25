@@ -474,7 +474,7 @@ Found something wrong? Open an issue or submit a pull request — contributions 
 
 ## Credits
 
-- [avelino/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [All Contributors](https://github.com/abordage/awesome-mac/graphs/contributors)
 
 ## License
