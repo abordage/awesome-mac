@@ -92,7 +92,6 @@ categories:
           - url: https://github.com/ImageOptim/ImageOptim
           - url: https://github.com/jurplel/qView
           - url: https://github.com/kyleduo/TinyPNG4Mac
-          - url: https://github.com/tropy/tropy
           - url: https://github.com/Molunerfinn/PicGo
           - url: https://github.com/gee1k/uPic
           - url: https://github.com/upscayl/upscayl
@@ -115,6 +114,14 @@ categories:
             description: Open source API development ecosystem - alternative to Postman, Insomnia
           - url: https://github.com/Kong/insomnia
           - url: https://github.com/mountain-loop/yaak
+      - name: App Frameworks
+        repos:
+          - url: https://github.com/sindresorhus/create-dmg
+          - url: https://github.com/electron/electron
+          - url: https://github.com/ionic-team/ionic-framework
+          - url: https://github.com/nwjs/nw.js
+          - url: https://github.com/tauri-apps/tauri
+          - url: https://github.com/illacloud/illa-builder
       - name: Databases
         repos:
           - url: https://github.com/beekeeper-studio/beekeeper-studio
@@ -137,7 +144,6 @@ categories:
           - url: https://github.com/onmyway133/FinderGo
           - url: https://github.com/HexFiend/HexFiend
           - url: https://github.com/specialunderwear/Hosts.prefpane
-          - url: https://github.com/illacloud/illa-builder
           - url: https://github.com/WerWolv/ImHex
           - url: https://github.com/kaunteya/MacSystemColors
           - url: https://github.com/mjmlio/mjml
@@ -150,14 +156,6 @@ categories:
           - url: https://github.com/XcodesOrg/XcodesApp
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
           - url: https://github.com/massCodeIO/massCode
-          - url: https://github.com/react-page/react-page
-      - name: Frameworks For Hybrid Applications
-        repos:
-          - url: https://github.com/sindresorhus/create-dmg
-          - url: https://github.com/electron/electron
-          - url: https://github.com/ionic-team/ionic-framework
-          - url: https://github.com/nwjs/nw.js
-          - url: https://github.com/tauri-apps/tauri
       - name: IDEs
         repos:
           - url: https://github.com/apache/netbeans
@@ -195,7 +193,7 @@ categories:
           - url: https://github.com/localsend/localsend
           - url: https://github.com/grishka/NearDrop
           - url: https://github.com/viarotel-org/escrcpy
-      - name: Utils
+      - name: File Utilities
         repos:
           - url: https://github.com/tfeldmann/organize
           - url: https://github.com/PDF-Archiver/PDF-Archiver
@@ -229,6 +227,7 @@ categories:
           - url: https://github.com/moonlight-stream/moonlight-qt
           - url: https://github.com/rustdesk/rustdesk
           - url: https://github.com/LizardByte/Sunshine
+          - url: https://github.com/electerm/electerm
   - name: Productivity
     subcategories:
       - name: Automation
@@ -247,10 +246,6 @@ categories:
           - url: https://github.com/WINBIGFOX/TimeScribe
             description: A modern, flexible time tracking app for capturing and managing personal working hours
           - url: https://github.com/rewhex/better-launchpad
-      - name: Task Management
-        repos:
-          - url: https://github.com/johannesjo/super-productivity
-          - url: https://github.com/mattermost-community/focalboard
       - name: Clipboard
         repos:
           - url: https://github.com/IvanMathy/Boop
@@ -263,6 +258,10 @@ categories:
           - url: https://github.com/TermiT/Flycut
           - url: https://github.com/p0deje/Maccy
           - url: https://github.com/mattDavo/Yippy
+      - name: Task Management
+        repos:
+          - url: https://github.com/johannesjo/super-productivity
+          - url: https://github.com/mattermost-community/focalboard
       - name: Translation
         repos:
           - url: https://github.com/tisfeng/Easydict
@@ -299,11 +298,13 @@ categories:
           - url: https://github.com/Zettlr/Zettlr
           - url: https://github.com/vkbo/novelWriter
           - url: https://github.com/ONLYOFFICE/DesktopEditors
+          - url: https://github.com/react-page/react-page
       - name: Research
         repos:
           - url: https://github.com/vishaltelangre/bindPDF
           - url: https://github.com/antonycourtney/tad
           - url: https://github.com/zotero/zotero
+          - url: https://github.com/tropy/tropy
       - name: RSS
         repos:
           - url: https://github.com/RSSNext/Folo
@@ -342,8 +343,56 @@ categories:
       - url: https://github.com/objective-see/WhatsYourSign
       - url: https://github.com/cryptomator/cryptomator
       - url: https://github.com/alichtman/deadbolt
+      - url: https://github.com/keepassxreboot/keepassxc
+      - url: https://github.com/strongbox-password-safe/Strongbox
   - name: System Tools
     subcategories:
+      - name: Desktop & System
+        repos:
+          - url: https://github.com/rlxone/Equinox
+          - url: https://github.com/mangerlahn/Latest
+          - url: https://github.com/kaunteya/MacCacheCleaner
+          - url: https://github.com/sindresorhus/Plash
+          - url: https://github.com/jasonjmcghee/rem
+          - url: https://github.com/dteoh/SlowQuitApps
+          - url: https://github.com/Swift-open-source/UltraTabSaver
+          - url: https://github.com/gkpln3/CapsLockNoDelay
+          - url: https://github.com/wflixu/RClick
+          - url: https://github.com/sindresorhus/Actions
+          - url: https://github.com/alin23/Lunar
+          - url: https://github.com/thompsonate/Shifty
+          - url: https://github.com/glinford/dns-easy-switcher
+          - url: https://github.com/johnste/finicky
+      - name: Menu Bar
+        repos:
+          - url: https://github.com/Mortennn/Dozer
+          - url: https://github.com/jordanbaird/Ice
+          - url: https://github.com/sfsam/itsycal
+            description: Itsycal is a tiny calendar for menu bar
+          - url: https://github.com/leits/MeetingBar
+          - url: https://github.com/jacklandrin/OnlySwitch
+          - url: https://github.com/Celve/Peninsula
+          - url: https://github.com/DamascenoRafael/reminders-menubar
+          - url: https://github.com/FelixKratz/SketchyBar
+          - url: https://github.com/jamieweavis/streaker
+          - url: https://github.com/swiftbar/SwiftBar
+          - url: https://github.com/ivoronin/TomatoBar
+          - url: https://github.com/lihaoyun6/Logoer
+            description: Change the style of the Apple logo in macOS menu bar
+          - url: https://github.com/lihaoyun6/AirBattery
+            description: Get battery usage of all devices on Mac and show them on the Dock / StatusBar
+          - url: https://github.com/pakerwreah/Calendr
+          - url: https://github.com/kmikiy/SpotMenu
+      - name: Package Managers
+        repos:
+          - url: https://github.com/milanvarady/Applite
+          - url: https://github.com/buresdv/cork
+          - url: https://github.com/Homebrew/brew
+      - name: QuickLook Plugins
+        repos:
+          - url: https://github.com/sbarex/QLMarkdown
+          - url: https://github.com/sindresorhus/quick-look-plugins
+          - url: https://github.com/sbarex/SourceCodeSyntaxHighlight
       - name: System Utilities
         repos:
           - url: https://github.com/AppHouseKitchen/AlDente-Charge-Limiter
@@ -367,63 +416,9 @@ categories:
           - url: https://github.com/Serpentiel/betterglobekey
           - url: https://github.com/runjuu/InputSourcePro
           - url: https://github.com/balena-io/etcher
-      - name: Menu Bar
-        repos:
-          - url: https://github.com/Mortennn/Dozer
-          - url: https://github.com/jordanbaird/Ice
-          - url: https://github.com/sfsam/itsycal
-            description: Itsycal is a tiny calendar for menu bar
-          - url: https://github.com/leits/MeetingBar
-          - url: https://github.com/jacklandrin/OnlySwitch
-          - url: https://github.com/Celve/Peninsula
-          - url: https://github.com/DamascenoRafael/reminders-menubar
-          - url: https://github.com/FelixKratz/SketchyBar
-          - url: https://github.com/jamieweavis/streaker
-          - url: https://github.com/swiftbar/SwiftBar
-          - url: https://github.com/ivoronin/TomatoBar
-          - url: https://github.com/lihaoyun6/Logoer
-            description: Change the style of the Apple logo in macOS menu bar
-          - url: https://github.com/lihaoyun6/AirBattery
-            description: Get battery usage of all devices on Mac and show them on the Dock / StatusBar
-          - url: https://github.com/pakerwreah/Calendr
-          - url: https://github.com/kmikiy/SpotMenu
-      - name: General
-        repos:
-          - url: https://github.com/rlxone/Equinox
-          - url: https://github.com/mangerlahn/Latest
-          - url: https://github.com/kaunteya/MacCacheCleaner
-          - url: https://github.com/sindresorhus/Plash
-          - url: https://github.com/jasonjmcghee/rem
-          - url: https://github.com/dteoh/SlowQuitApps
-          - url: https://github.com/Swift-open-source/UltraTabSaver
-          - url: https://github.com/gkpln3/CapsLockNoDelay
-          - url: https://github.com/wflixu/RClick
-          - url: https://github.com/withfig/autocomplete
-          - url: https://github.com/lihaoyun6/xHistory
-            description: A powerful command line history manager
-          - url: https://github.com/sindresorhus/Actions
-          - url: https://github.com/alin23/Lunar
-          - url: https://github.com/thompsonate/Shifty
-          - url: https://github.com/glinford/dns-easy-switcher
-          - url: https://github.com/johnste/finicky
-      - name: Password Management
-        repos:
-          - url: https://github.com/keepassxreboot/keepassxc
-          - url: https://github.com/strongbox-password-safe/Strongbox
-      - name: QuickLook Plugins
-        repos:
-          - url: https://github.com/sbarex/QLMarkdown
-          - url: https://github.com/sindresorhus/quick-look-plugins
-          - url: https://github.com/sbarex/SourceCodeSyntaxHighlight
-      - name: Package Managers
-        repos:
-          - url: https://github.com/milanvarady/Applite
-          - url: https://github.com/buresdv/cork
-          - url: https://github.com/Homebrew/brew
   - name: Terminal
     repos:
       - url: https://github.com/alacritty/alacritty
-      - url: https://github.com/electerm/electerm
       - url: https://github.com/ghostty-org/ghostty
       - url: https://github.com/gnachman/iTerm2
       - url: https://github.com/kovidgoyal/kitty
@@ -431,6 +426,9 @@ categories:
       - url: https://github.com/wavetermdev/waveterm
       - url: https://github.com/wezterm/wezterm
       - url: https://github.com/rupa/z
+      - url: https://github.com/withfig/autocomplete
+      - url: https://github.com/lihaoyun6/xHistory
+        description: A powerful command line history manager
   - name: Window Management
     repos:
       - url: https://github.com/nikitabobko/AeroSpace
