@@ -103,7 +103,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`30,206`
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) — macOS audio loopback driver for apps ☆`17,987`
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Offline audio transcription powered by Whisper ☆`15,928`
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) — Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. ☆`10,259`
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) — All-in-one streaming media player ☆`10,259`
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) — Convert videos to high-quality GIFs on your Mac ☆`8,253`
 - [metabrainz/picard](https://github.com/metabrainz/picard) — Cross-platform music tagger with MusicBrainz ☆`4,457`
@@ -305,7 +304,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) — Todo list with time tracking ☆`16,500`
 ### Translation
 
-- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) — Browser extension and cross-platform desktop application for translation based on ChatGPT API ☆`24,766`
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) — ChatGPT-powered translation app ☆`24,766`
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) — Dictionary and translator for macOS ☆`11,257`
 ## Reading & Writing
