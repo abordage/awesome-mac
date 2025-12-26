@@ -13,6 +13,59 @@ macOS software and tools from the open-source community. This awesome list is au
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
+| # | Repository | Stars |
+|--:|------------|------:|
+| 1 | [microsoft/vscode](https://github.com/microsoft/vscode) | 179,993 |
+| 2 | [electron/electron](https://github.com/electron/electron) | 119,525 |
+| 3 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 104,733 |
+| 4 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 100,413 |
+| 5 | [neovim/neovim](https://github.com/neovim/neovim) | 95,202 |
+| 6 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 77,390 |
+| 7 | [localsend/localsend](https://github.com/localsend/localsend) | 72,221 |
+| 8 | [zed-industries/zed](https://github.com/zed-industries/zed) | 72,061 |
+| 9 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 69,264 |
+| 10 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 67,815 |
+| 11 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 67,141 |
+| 12 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 61,572 |
+| 13 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 61,055 |
+| 14 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 58,634 |
+| 15 | [soimort/you-get](https://github.com/soimort/you-get) | 56,636 |
+| 16 | [laurent22/joplin](https://github.com/laurent22/joplin) | 52,661 |
+| 17 | [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) | 52,256 |
+| 18 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | 52,100 |
+| 19 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 50,331 |
+| 20 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 49,411 |
+| 21 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 46,915 |
+| 22 | [Homebrew/brew](https://github.com/Homebrew/brew) | 45,939 |
+| 23 | [iina/iina](https://github.com/iina/iina) | 43,094 |
+| 24 | [helix-editor/helix](https://github.com/helix-editor/helix) | 42,069 |
+| 25 | [upscayl/upscayl](https://github.com/upscayl/upscayl) | 41,924 |
+| 26 | [nwjs/nw.js](https://github.com/nwjs/nw.js) | 41,542 |
+| 27 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 40,064 |
+| 28 | [logseq/logseq](https://github.com/logseq/logseq) | 39,944 |
+| 29 | [vim/vim](https://github.com/vim/vim) | 39,497 |
+| 30 | [lapce/lapce](https://github.com/lapce/lapce) | 37,781 |
+| 31 | [Kong/insomnia](https://github.com/Kong/insomnia) | 37,725 |
+| 32 | [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | 36,473 |
+| 33 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | 36,427 |
+| 34 | [exelban/stats](https://github.com/exelban/stats) | 35,430 |
+| 35 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 34,726 |
+| 36 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 34,638 |
+| 37 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33,130 |
+| 38 | [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 32,891 |
+| 39 | [balena-io/etcher](https://github.com/balena-io/etcher) | 32,803 |
+| 40 | [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 32,687 |
+| 41 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 32,216 |
+| 42 | [utmapp/UTM](https://github.com/utmapp/UTM) | 32,014 |
+| 43 | [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) | 31,955 |
+| 44 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 30,634 |
+| 45 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | 30,330 |
+| 46 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 30,213 |
+| 47 | [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | 28,796 |
+| 48 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 28,525 |
+| 49 | [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) | 28,078 |
+| 50 | [asmvik/yabai](https://github.com/asmvik/yabai) | 27,779 |
+
 - [Audio & Video](#audio--video)
   - [Editors](#editors)
   - [Players](#players)
