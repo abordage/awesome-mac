@@ -189,7 +189,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,437`
 - [qvacua/vimr](https://github.com/qvacua/vimr) — VimR — Neovim GUI for macOS in Swift ☆`6,906`
 - [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,989`
-- [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) —  ☆`1,251`
+- [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) — Canvas-based code editor for visual navigation ☆`1,251`
 ### Databases
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) — Distributed document-graph database ☆`30,630`
@@ -415,7 +415,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) — Prevents your Mac from going to sleep. ☆`6,116`
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) — Apple Silicon app compatibility list ☆`3,792`
 - [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`2,578`
-- [BigBerny/magicquit](https://github.com/BigBerny/magicquit) —  ☆`324`
+- [BigBerny/magicquit](https://github.com/BigBerny/magicquit) — Auto-quit unused apps for focus ☆`324`
 - [probablykasper/time-machine-inspector](https://github.com/probablykasper/time-machine-inspector) — Time Machine backup size inspector app ☆`192`
 - [sanketk2020/MacSpaceCleaner](https://github.com/sanketk2020/MacSpaceCleaner) — Clean disk space by removing junk ☆`131`
 - [appledragon/everythingByMdfind](https://github.com/appledragon/everythingByMdfind) — python script to search everything by mdfind on MacOS ☆`129`
