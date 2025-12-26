@@ -1,8 +1,9 @@
 # Awesome Mac
 
+![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)](README.md)
-![Repositories](https://img.shields.io/badge/repositories-272-blue)
-![Total Stars](https://img.shields.io/badge/total%20stars-4,386,323-yellow)
+![Repositories](https://img.shields.io/badge/repositories-272-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-4,386,323-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-mac)](LICENSE)
 
 
