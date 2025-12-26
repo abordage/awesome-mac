@@ -17,14 +17,14 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Utilities](#utilities)
 - [Browsers](#browsers)
 - [Communication](#communication)
-  - [Collaboration and Team Tools](#collaboration-and-team-tools)
+  - [Collaboration](#collaboration)
   - [Email Clients](#email-clients)
 - [Design & Graphics](#design--graphics)
   - [Design Tools](#design-tools)
   - [Image Tools](#image-tools)
-  - [Screencapturing Software](#screencapturing-software)
+  - [Screen Capture](#screen-capture)
 - [Developer Tools](#developer-tools)
-  - [API Development and Analysis](#api-development-and-analysis)
+  - [API Tools](#api-tools)
   - [App Frameworks](#app-frameworks)
   - [Code Editors](#code-editors)
   - [Databases](#databases)
@@ -117,7 +117,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) — One app to rule them all! ☆`1,678`
 ## Communication
 
-### Collaboration and Team Tools
+### Collaboration
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`49,408`
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. ☆`34,711`
@@ -152,7 +152,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,959`
 - [jurplel/qView](https://github.com/jurplel/qView) — Practical and minimal image viewer ☆`3,034`
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience. ☆`1,055`
-### Screencapturing Software
+### Screen Capture
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recording ☆`69,241`
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`28,521`
@@ -160,7 +160,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — A lightweight screen recorder based on ScreenCapture Kit for macOS ☆`7,666`
 ## Developer Tools
 
-### API Development and Analysis
+### API Tools
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem - alternative to Postman, Insomnia ☆`77,388`
 - [Kong/insomnia](https://github.com/Kong/insomnia) — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. ☆`37,722`
@@ -188,7 +188,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,437`
 - [qvacua/vimr](https://github.com/qvacua/vimr) — VimR — Neovim GUI for macOS in Swift ☆`6,906`
 - [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,989`
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,654`
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) —  ☆`1,251`
 ### Databases
 
@@ -222,6 +221,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [git-up/GitUp](https://github.com/git-up/GitUp) — The Git interface you've been missing all your life has finally arrived. ☆`11,828`
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) — Adds numbered shortcuts to the output git status, and much more ☆`2,884`
 - [relagit/relagit](https://github.com/relagit/relagit) — The elegant solution to graphical version control. ☆`980`
+- [jamieweavis/streaker](https://github.com/jamieweavis/streaker) — Cross-platform GitHub contribution streak and statistic tracking menu bar application with reminder notification ☆`190`
 - [maoyama/Changes](https://github.com/maoyama/Changes) — An Open Source GUI Git Client for macOS ☆`165`
 ### Virtualization
 
@@ -328,6 +328,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) — QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. ☆`5,503`
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) — Fast and beautiful note-taking app written in C++. Write down your thoughts. ☆`4,189`
 - [saber-notes/saber](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`3,908`
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,654`
 ### Research
 
 - [zotero/zotero](https://github.com/zotero/zotero) — Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. ☆`13,058`
@@ -388,7 +389,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI ☆`1,971`
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) — Change the style of the Apple logo in macOS menu bar ☆`656`
 - [celve/Peninsula](https://github.com/celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`446`
-- [jamieweavis/streaker](https://github.com/jamieweavis/streaker) — Cross-platform GitHub contribution streak and statistic tracking menu bar application with reminder notification ☆`190`
 ### Package Managers
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`45,933`
