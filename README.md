@@ -1,6 +1,8 @@
 # Awesome Mac
 
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)](README.md)
+![Repositories](https://img.shields.io/badge/repositories-272-blue)
+![Total Stars](https://img.shields.io/badge/total%20stars-4,386,323-yellow)
 [![License](https://img.shields.io/github/license/abordage/awesome-mac)](LICENSE)
 
 
