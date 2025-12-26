@@ -60,6 +60,8 @@ categories:
           - url: https://github.com/popcorn-official/popcorn-desktop
           - url: https://github.com/sonoramac/Sonora
           - url: https://github.com/th-ch/youtube-music
+          - url: https://github.com/popcorntime/popcorntime
+            description: All-in-one streaming media player
   - name: Browsers
     repos:
       - url: https://github.com/brave/brave-browser
@@ -349,6 +351,8 @@ categories:
             description: Dictionary and translator for macOS
           - url: https://github.com/openai-translator/openai-translator
             description: Browser extension and cross-platform desktop application for translation based on ChatGPT API
+          - url: https://github.com/nextai-translator/nextai-translator
+            description: ChatGPT-powered translation app
     repos:
       - url: https://github.com/ONLYOFFICE/DesktopEditors
         description: Open source office suite for documents
