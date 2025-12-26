@@ -173,6 +173,7 @@ categories:
             description: Native macOS code editor, free and open
           - url: https://github.com/coteditor/CotEditor
           - url: https://github.com/haystackeditor/haystack-editor
+            description: Canvas-based code editor for visual navigation
           - url: https://github.com/helix-editor/helix
           - url: https://github.com/lapce/lapce
           - url: https://github.com/macvim-dev/macvim
@@ -504,6 +505,7 @@ categories:
           - url: https://github.com/brianmichel/Juice
           - url: https://github.com/newmarcel/KeepingYouAwake
           - url: https://github.com/BigBerny/magicquit
+            description: Auto-quit unused apps for focus
           - url: https://github.com/alienator88/Pearcleaner
             description: Free and fair-code mac app cleaner
           - url: https://github.com/exelban/stats
