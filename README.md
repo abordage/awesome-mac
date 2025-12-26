@@ -11,6 +11,10 @@ macOS software and tools from the open-source community. This awesome list is au
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
 - [Audio & Video](#audio--video)
+  - [Editors](#editors)
+  - [Players](#players)
+  - [Production](#production)
+  - [Utilities](#utilities)
 - [Browsers](#browsers)
 - [Communication](#communication)
   - [Collaboration and Team Tools](#collaboration-and-team-tools)
@@ -22,10 +26,9 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Developer Tools](#developer-tools)
   - [API Development and Analysis](#api-development-and-analysis)
   - [App Frameworks](#app-frameworks)
+  - [Code Editors](#code-editors)
   - [Databases](#databases)
   - [Developer Utilities](#developer-utilities)
-  - [IDEs](#ides)
-  - [Network Analysis](#network-analysis)
   - [Version Control](#version-control)
   - [Virtualization](#virtualization)
 - [File Management](#file-management)
@@ -35,6 +38,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Gaming](#gaming)
 - [Networking](#networking)
   - [Download Tools](#download-tools)
+  - [Network Analysis](#network-analysis)
   - [Proxy & VPN](#proxy--vpn)
   - [Remote Access](#remote-access)
 - [Productivity](#productivity)
@@ -47,8 +51,10 @@ macOS software and tools from the open-source community. This awesome list is au
   - [Note-taking](#note-taking)
   - [Research](#research)
   - [RSS](#rss)
-  - [Text Editors](#text-editors)
 - [Security](#security)
+  - [Encryption](#encryption)
+  - [Password Managers](#password-managers)
+  - [System Security](#system-security)
 - [System Tools](#system-tools)
   - [Desktop & System](#desktop--system)
   - [Menu Bar](#menu-bar)
@@ -56,41 +62,51 @@ macOS software and tools from the open-source community. This awesome list is au
   - [QuickLook Plugins](#quicklook-plugins)
   - [System Utilities](#system-utilities)
 - [Terminal](#terminal)
+  - [Emulators](#emulators)
+  - [Shell Utilities](#shell-utilities)
 - [Window Management](#window-management)
 
 
 ## Audio & Video
 
+### Editors
+
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`36,446`
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`21,824`
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`13,151`
+- [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) — Cross-platform advanced subtitle editor ☆`3,284`
+- [cartesiancs/nugget-app](https://github.com/cartesiancs/nugget-app) — Electron based video editing software. Focusing on adding motion effects using a layered editing system. ☆`508`
+### Players
+
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`46,892`
 - [iina/iina](https://github.com/iina/iina) — The modern video player for macOS. ☆`43,074`
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`36,446`
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) — Command line media player ☆`33,110`
-- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`30,206`
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`21,824`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) — Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. ☆`20,217`
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`19,614`
 - [videolan/vlc](https://github.com/videolan/vlc) — VLC media player ☆`17,178`
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) — BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. ☆`17,987`
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) — Streaming music player that finds free music for you ☆`16,521`
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`5,245`
+- [martpie/museeks](https://github.com/martpie/museeks) — A simple, clean and cross-platform music player ☆`2,038`
+- [losnoco/Cog](https://github.com/losnoco/Cog) — Cog - A Free and Open Source Audio Player for macOS 10.14+ ☆`906`
+- [samzong/MacMusicPlayer](https://github.com/samzong/MacMusicPlayer) — A clean, lightweight music player for macOS. ☆`60`
+### Production
+
 - [audacity/audacity](https://github.com/audacity/audacity) — Audio Editor ☆`16,170`
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. ☆`15,928`
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) — MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! ☆`14,072`
-- [mltframework/shotcut](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`13,151`
+- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mixes. ☆`6,233`
+- [Ardour/ardour](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`4,618`
+- [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) — The advanced drum machine for Linux, macOS, and Windows ☆`1,232`
+- [stargatedaw/stargate](https://github.com/stargatedaw/stargate) — Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor ☆`793`
+- [vincehi/pulp](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`69`
+### Utilities
+
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`30,206`
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) — BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. ☆`17,987`
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. ☆`15,928`
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) — Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. ☆`10,259`
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) — Convert videos to high-quality GIFs on your Mac ☆`8,253`
-- [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mixes. ☆`6,233`
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`5,245`
-- [Ardour/ardour](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`4,618`
 - [metabrainz/picard](https://github.com/metabrainz/picard) — Picard is a cross-platform music tagger powered by the MusicBrainz database ☆`4,457`
-- [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) — Cross-platform advanced subtitle editor ☆`3,284`
-- [martpie/museeks](https://github.com/martpie/museeks) — A simple, clean and cross-platform music player ☆`2,038`
-- [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) — The advanced drum machine for Linux, macOS, and Windows ☆`1,232`
-- [losnoco/Cog](https://github.com/losnoco/Cog) — Cog - A Free and Open Source Audio Player for macOS 10.14+ ☆`906`
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`839`
-- [stargatedaw/stargate](https://github.com/stargatedaw/stargate) — Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor ☆`793`
-- [cartesiancs/nugget-app](https://github.com/cartesiancs/nugget-app) — Electron based video editing software. Focusing on adding motion effects using a layered editing system. ☆`508`
-- [vincehi/pulp](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`69`
-- [samzong/MacMusicPlayer](https://github.com/samzong/MacMusicPlayer) — A clean, lightweight music player for macOS. ☆`60`
 - [TheAcharya/MarkerData](https://github.com/TheAcharya/MarkerData) — The avant-garde Marker extraction application crafted for Final Cut Pro ☆`53`
 ## Browsers
 
@@ -156,7 +172,24 @@ macOS software and tools from the open-source community. This awesome list is au
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. ☆`52,257`
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) — Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. ☆`41,542`
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) — Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool. ☆`12,308`
+- [react-page/react-page](https://github.com/react-page/react-page) — Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids. ☆`9,563`
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) — Create a good-looking DMG for your macOS app in seconds ☆`5,087`
+### Code Editors
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`179,969`
+- [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`95,180`
+- [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`72,014`
+- [helix-editor/helix](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`42,041`
+- [vim/vim](https://github.com/vim/vim) — The official Vim repository ☆`39,492`
+- [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,778`
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,544`
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,955`
+- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,753`
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,437`
+- [qvacua/vimr](https://github.com/qvacua/vimr) — VimR — Neovim GUI for macOS in Swift ☆`6,906`
+- [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,989`
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,654`
+- [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) —  ☆`1,251`
 ### Databases
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) — A scalable, distributed, collaborative, document-graph database, for the realtime web ☆`30,630`
@@ -166,6 +199,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) — MySQL/MariaDB database management for macOS ☆`7,240`
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) — A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime. ☆`4,310`
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) — Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! ☆`3,439`
+- [antonycourtney/tad](https://github.com/antonycourtney/tad) — A desktop application for viewing and analyzing tabular data ☆`3,407`
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) — Simple SQL Client for lightweight data analysis. ☆`1,514`
 - [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) — redis-pro is a simple and easy to use management of redis written in SwiftUI ☆`678`
 - [gcollazo/mongodbapp](https://github.com/gcollazo/mongodbapp) — The easiest way to get started with MongoDB on the Mac ☆`534`
@@ -182,15 +216,6 @@ macOS software and tools from the open-source community. This awesome list is au
 - [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) — EnvPane - An OS X preference pane for environment variables ☆`814`
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`803`
 - [MarcoEidinger/SwiftPlantUML-Xcode-Extension](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) — Xcode Extension for generating class diagrams from Swift code (powered by PlantUML) ☆`458`
-### IDEs
-
-- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`179,969`
-- [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`72,014`
-- [apache/netbeans](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,989`
-### Network Analysis
-
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your Internet traffic ☆`32,201`
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`8,816`
 ### Version Control
 
 - [desktop/desktop](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`21,052`
@@ -236,6 +261,10 @@ macOS software and tools from the open-source community. This awesome list is au
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`50,315`
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`34,624`
 - [transmission/transmission](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`13,830`
+### Network Analysis
+
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your Internet traffic ☆`32,201`
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`8,816`
 ### Proxy & VPN
 
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) — Next Generation of ShadowsocksX ☆`32,893`
@@ -250,6 +279,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [electerm/electerm](https://github.com/electerm/electerm) — Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win) ☆`13,389`
 ## Productivity
 
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS ☆`4,268`
 ### Automation
 
 - [Caldis/Mos](https://github.com/Caldis/Mos) — A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS ☆`18,130`
@@ -293,19 +323,14 @@ macOS software and tools from the open-source community. This awesome list is au
 - [logseq/logseq](https://github.com/logseq/logseq) — A privacy-first, open-source platform for knowledge management and collaboration ☆`39,937`
 - [vnotex/vnote](https://github.com/vnotex/vnote) — A pleasant note-taking platform in native C++. ☆`12,681`
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) — Your One-Stop Publication Workbench ☆`12,292`
-- [react-page/react-page](https://github.com/react-page/react-page) — Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids. ☆`9,563`
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS ☆`7,113`
 - [standardnotes/app](https://github.com/standardnotes/app) — Think fearlessly with end-to-end encrypted notes and files ☆`6,193`
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) — QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. ☆`5,503`
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS ☆`4,268`
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) — Fast and beautiful note-taking app written in C++. Write down your thoughts. ☆`4,189`
 - [saber-notes/saber](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`3,908`
-- [dnote/dnote](https://github.com/dnote/dnote) — A simple command line notebook ☆`2,995`
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,654`
 ### Research
 
 - [zotero/zotero](https://github.com/zotero/zotero) — Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. ☆`13,058`
-- [antonycourtney/tad](https://github.com/antonycourtney/tad) — A desktop application for viewing and analyzing tabular data ☆`3,407`
 - [tropy/tropy](https://github.com/tropy/tropy) — Research photo management ☆`1,072`
 ### RSS
 
@@ -313,30 +338,24 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`9,410`
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Vienna is a free and open-source RSS/Atom newsreader for macOS. ☆`1,939`
 - [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte) ☆`432`
-### Text Editors
-
-- [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`95,180`
-- [helix-editor/helix](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`42,041`
-- [vim/vim](https://github.com/vim/vim) — The official Vim repository ☆`39,492`
-- [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,778`
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,544`
-- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,955`
-- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,753`
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) — Lightweight Plain-Text Editor for macOS ☆`7,437`
-- [qvacua/vimr](https://github.com/qvacua/vimr) — VimR — Neovim GUI for macOS in Swift ☆`6,906`
-- [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) —  ☆`1,251`
 ## Security
 
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) — KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. ☆`25,259`
+### Encryption
+
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) — Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. ☆`14,237`
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`11,694`
+- [alichtman/deadbolt](https://github.com/alichtman/deadbolt) — Dead-simple file encryption for any OS ☆`386`
+### Password Managers
+
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) — KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. ☆`25,259`
 - [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) — A KeePass/Password Safe Client for iOS and OS X ☆`1,410`
+### System Security
+
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`11,694`
 - [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock) — BlockBlock provides continual protection by monitoring persistence locations. ☆`731`
 - [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock) — Like AutoRuns ...but for macOS! ☆`633`
 - [objective-see/OverSight](https://github.com/objective-see/OverSight) — OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. ☆`631`
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) — Automatically audit your Mac for basic security hygiene. ☆`413`
 - [Lennolium/swiftGuard](https://github.com/Lennolium/swiftGuard) — Anti-forensic macOS tray application designed to safeguard your system by monitoring USB ports. ☆`429`
-- [alichtman/deadbolt](https://github.com/alichtman/deadbolt) — Dead-simple file encryption for any OS ☆`386`
 - [objective-see/WhatsYourSign](https://github.com/objective-see/WhatsYourSign) — WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information! ☆`338`
 - [objective-see/DylibHijackScanner](https://github.com/objective-see/DylibHijackScanner) — Scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. ☆`109`
 - [objective-see/TaskExplorer](https://github.com/objective-see/TaskExplorer) — Visually explore all running tasks (processes) ....viewing its signature status, loaded dylibs, open files, network connection, and much more. ☆`120`
@@ -401,15 +420,20 @@ macOS software and tools from the open-source community. This awesome list is au
 - [Serpentiel/betterglobekey](https://github.com/Serpentiel/betterglobekey) — Make macOS Globe key great again! ☆`73`
 ## Terminal
 
+### Emulators
+
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`67,802`
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`61,555`
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) — Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. ☆`39,991`
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) — If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. ☆`30,312`
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,063`
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust ☆`22,983`
-- [rupa/z](https://github.com/rupa/z) — z - jump around ☆`16,892`
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) — iTerm2 is a terminal emulator for Mac OS X that does amazing things. ☆`16,680`
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) — An open-source, cross-platform terminal for seamless workflows ☆`15,671`
+### Shell Utilities
+
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,063`
+- [rupa/z](https://github.com/rupa/z) — z - jump around ☆`16,892`
+- [dnote/dnote](https://github.com/dnote/dnote) — A simple command line notebook ☆`2,995`
 - [lihaoyun6/xHistory](https://github.com/lihaoyun6/xHistory) — A powerful command line history manager ☆`185`
 ## Window Management
 
