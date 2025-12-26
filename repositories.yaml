@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
-$schema: "https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json"
+$schema: https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
 
 categories:
   - name: Audio & Video
@@ -58,7 +58,7 @@ categories:
             description: Cross-platform music tagger with MusicBrainz
           - url: https://github.com/wulkano/Plug
           - url: https://github.com/sonoramac/Sonora
-          - url: https://github.com/th-ch/youtube-music
+          - url: https://github.com/pear-devs/pear-desktop
           - url: https://github.com/popcorntime/popcorntime
             description: All-in-one streaming media player
   - name: Browsers
@@ -68,7 +68,6 @@ categories:
       - url: https://github.com/minbrowser/min
       - url: https://github.com/qutebrowser/qutebrowser
       - url: https://github.com/getstation/desktop-app
-      - url: https://github.com/zen-browser/desktop
   - name: Communication
     subcategories:
       - name: Collaboration
@@ -233,7 +232,7 @@ categories:
           - url: https://github.com/git-up/GitUp
             description: The Git interface you have been missing
           - url: https://github.com/relagit/relagit
-          - url: https://github.com/maoyama/Tempo
+          - url: https://github.com/maoyama/Changes
           - url: https://github.com/scmbreeze/scm_breeze
           - url: https://github.com/jamieweavis/streaker
             description: GitHub contribution streak tracker for menu bar
@@ -321,7 +320,7 @@ categories:
             description: Make any mouse better on macOS
           - url: https://github.com/Caldis/Mos
             description: Smooth scrolling and scroll direction for mouse
-          - url: https://github.com/koekeishiya/skhd
+          - url: https://github.com/asmvik/skhd
           - url: https://github.com/khrykin/StrategrDesktop
           - url: https://github.com/WINBIGFOX/TimeScribe
             description: Flexible time tracking for work hours
@@ -491,7 +490,7 @@ categories:
             description: Quick Look syntax highlighting
       - name: System Utilities
         repos:
-          - url: https://github.com/AppHouseKitchen/AlDente-Charge-Limiter
+          - url: https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring
             description: Battery charge limiter
           - url: https://github.com/ThatGuySam/doesitarm
             description: Apple Silicon app compatibility list
@@ -560,5 +559,5 @@ categories:
       - url: https://github.com/pablopunk/swiftshift
       - url: https://github.com/lihaoyun6/Topit
         description: Pin any window to the top of your screen
-      - url: https://github.com/koekeishiya/yabai
+      - url: https://github.com/asmvik/yabai
       - url: https://github.com/ejbills/DockDoor
