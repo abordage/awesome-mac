@@ -13,59 +13,6 @@ macOS software and tools from the open-source community. This awesome list is au
 
 **Daily process:** Merge community PRs → Scan repos → Filter stale projects → Recalculate scores → Rebuild list
 
-| # | Repository | Stars |
-|--:|------------|------:|
-| 1 | [microsoft/vscode](https://github.com/microsoft/vscode) | 179,993 |
-| 2 | [electron/electron](https://github.com/electron/electron) | 119,525 |
-| 3 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 104,733 |
-| 4 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 100,413 |
-| 5 | [neovim/neovim](https://github.com/neovim/neovim) | 95,202 |
-| 6 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 77,390 |
-| 7 | [localsend/localsend](https://github.com/localsend/localsend) | 72,221 |
-| 8 | [zed-industries/zed](https://github.com/zed-industries/zed) | 72,061 |
-| 9 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 69,264 |
-| 10 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 67,815 |
-| 11 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 67,141 |
-| 12 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 61,572 |
-| 13 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 61,055 |
-| 14 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 58,634 |
-| 15 | [soimort/you-get](https://github.com/soimort/you-get) | 56,636 |
-| 16 | [laurent22/joplin](https://github.com/laurent22/joplin) | 52,661 |
-| 17 | [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) | 52,256 |
-| 18 | [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | 52,100 |
-| 19 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 50,331 |
-| 20 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 49,411 |
-| 21 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 46,915 |
-| 22 | [Homebrew/brew](https://github.com/Homebrew/brew) | 45,939 |
-| 23 | [iina/iina](https://github.com/iina/iina) | 43,094 |
-| 24 | [helix-editor/helix](https://github.com/helix-editor/helix) | 42,069 |
-| 25 | [upscayl/upscayl](https://github.com/upscayl/upscayl) | 41,924 |
-| 26 | [nwjs/nw.js](https://github.com/nwjs/nw.js) | 41,542 |
-| 27 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 40,064 |
-| 28 | [logseq/logseq](https://github.com/logseq/logseq) | 39,944 |
-| 29 | [vim/vim](https://github.com/vim/vim) | 39,497 |
-| 30 | [lapce/lapce](https://github.com/lapce/lapce) | 37,781 |
-| 31 | [Kong/insomnia](https://github.com/Kong/insomnia) | 37,725 |
-| 32 | [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | 36,473 |
-| 33 | [RSSNext/Folo](https://github.com/RSSNext/Folo) | 36,427 |
-| 34 | [exelban/stats](https://github.com/exelban/stats) | 35,430 |
-| 35 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 34,726 |
-| 36 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 34,638 |
-| 37 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33,130 |
-| 38 | [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 32,891 |
-| 39 | [balena-io/etcher](https://github.com/balena-io/etcher) | 32,803 |
-| 40 | [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 32,687 |
-| 41 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 32,216 |
-| 42 | [utmapp/UTM](https://github.com/utmapp/UTM) | 32,014 |
-| 43 | [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) | 31,955 |
-| 44 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 30,634 |
-| 45 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | 30,330 |
-| 46 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 30,213 |
-| 47 | [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | 28,796 |
-| 48 | [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 28,525 |
-| 49 | [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) | 28,078 |
-| 50 | [asmvik/yabai](https://github.com/asmvik/yabai) | 27,779 |
-
 - [Audio & Video](#audio--video)
   - [Editors](#editors)
   - [Players](#players)
@@ -505,6 +452,111 @@ macOS software and tools from the open-source community. This awesome list is au
 - [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) — Sweet window management for macOS ☆`507`
 - [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) — An application that can dock any window to the edge of the screen. ☆`248`
 - [Geckos-Ink/MakeItHome](https://github.com/Geckos-Ink/MakeItHome) — UI extender for macOS ☆`37`
+
+
+## Top Repositories
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) — Visual Studio Code ☆`179,993`
+
+- [electron/electron](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`119,525`
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative ☆`104,733`
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — Build fast desktop apps with web frontend ☆`100,413`
+
+- [neovim/neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`95,202`
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem ☆`77,390`
+
+- [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`72,221`
+
+- [zed-industries/zed](https://github.com/zed-industries/zed) — High-performance multiplayer code editor ☆`72,061`
+
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Free software for streaming and recording ☆`69,264`
+
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`67,815`
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — AI collaborative workspace, Notion alt ☆`67,141`
+
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`61,572`
+
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) — Next-gen knowledge base for planning ☆`61,055`
+
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) — Official electron build of draw.io ☆`58,634`
+
+- [soimort/you-get](https://github.com/soimort/you-get) — Dumb downloader that scrapes the web ☆`56,636`
+
+- [laurent22/joplin](https://github.com/laurent22/joplin) — Privacy-focused note taking with sync ☆`52,661`
+
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) — Cross-platform UI toolkit for apps ☆`52,256`
+
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) — Hex editor for reverse engineers and programmers ☆`52,100`
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`50,331`
+
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`49,411`
+
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`46,915`
+
+- [Homebrew/brew](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`45,939`
+
+- [iina/iina](https://github.com/iina/iina) — The modern video player for macOS. ☆`43,094`
+
+- [helix-editor/helix](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`42,069`
+
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`41,924`
+
+- [nwjs/nw.js](https://github.com/nwjs/nw.js) — Write apps with Node.js modules and web technologies ☆`41,542`
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) — Fast GPU-accelerated terminal emulator ☆`40,064`
+
+- [logseq/logseq](https://github.com/logseq/logseq) — Privacy-first knowledge management platform ☆`39,944`
+
+- [vim/vim](https://github.com/vim/vim) — The official Vim repository ☆`39,497`
+
+- [lapce/lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,781`
+
+- [Kong/insomnia](https://github.com/Kong/insomnia) — Cross-platform API client for REST, GraphQL, gRPC ☆`37,725`
+
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`36,473`
+
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) — Folo is the AI Reader ☆`36,427`
+
+- [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`35,430`
+
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) — Open source platform for team collaboration ☆`34,726`
+
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`34,638`
+
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) — Command line media player ☆`33,130`
+
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) — Next Generation of ShadowsocksX ☆`32,891`
+
+- [balena-io/etcher](https://github.com/balena-io/etcher) — Flash OS images to SD cards & USB drives, safely and easily. ☆`32,803`
+
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`32,687`
+
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your Internet traffic ☆`32,216`
+
+- [utmapp/UTM](https://github.com/utmapp/UTM) — Virtual machines for iOS and macOS ☆`32,014`
+
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) — Control external display brightness ☆`31,955`
+
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) — Distributed document-graph database ☆`30,634`
+
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) — Cross-platform GPU-based terminal emulator ☆`30,330`
+
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`30,213`
+
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) — HiDPI scaling and display control ☆`28,796`
+
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`28,525`
+
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) — Window management with shortcuts and snap ☆`28,078`
+
+- [asmvik/yabai](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,779`
+
+
 
 
 ## Contributing
