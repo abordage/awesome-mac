@@ -37,13 +37,12 @@ categories:
       - url: https://github.com/vincehi/pulp
       - url: https://github.com/mltframework/shotcut
       - url: https://github.com/sonoramac/Sonora
-      - url: https://github.com/kmikiy/SpotMenu
-      - url: https://github.com/synfig/synfig
       - url: https://github.com/videolan/vlc
         description: VLC media player
       - url: https://github.com/th-ch/youtube-music
       - url: https://github.com/ytmdesktop/ytmdesktop
       - url: https://github.com/stargatedaw/stargate
+      - url: https://github.com/cartesiancs/nugget-app
   - name: Browsers
     repos:
       - url: https://github.com/brave/brave-browser
@@ -84,8 +83,8 @@ categories:
           - url: https://github.com/duyquoc/ScreenToLayers
           - url: https://github.com/abynim/UserFlows
           - url: https://github.com/sindresorhus/System-Color-Picker
-          - url: https://github.com/cartesiancs/nugget-app
-      - name: Other Tools
+          - url: https://github.com/synfig/synfig
+      - name: Image Tools
         repos:
           - url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
           - url: https://github.com/szTheory/exifcleaner
@@ -96,6 +95,8 @@ categories:
           - url: https://github.com/tropy/tropy
           - url: https://github.com/Molunerfinn/PicGo
           - url: https://github.com/gee1k/uPic
+          - url: https://github.com/upscayl/upscayl
+            description: Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
       - name: Screencapturing Software
         repos:
           - url: https://github.com/wulkano/kap
@@ -134,7 +135,6 @@ categories:
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
-          - url: https://github.com/johnste/finicky
           - url: https://github.com/HexFiend/HexFiend
           - url: https://github.com/specialunderwear/Hosts.prefpane
           - url: https://github.com/illacloud/illa-builder
@@ -144,12 +144,13 @@ categories:
           - url: https://github.com/sindresorhus/Pasteboard-Viewer
           - url: https://github.com/jkpang/PPRows
           - url: https://github.com/responsively-org/responsively-app
-          - url: https://github.com/scmbreeze/scm_breeze
           - url: https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension
           - url: https://github.com/oldj/SwitchHosts
           - url: https://github.com/insidegui/WWDC
           - url: https://github.com/XcodesOrg/XcodesApp
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
+          - url: https://github.com/massCodeIO/massCode
+          - url: https://github.com/react-page/react-page
       - name: Frameworks For Hybrid Applications
         repos:
           - url: https://github.com/sindresorhus/create-dmg
@@ -174,6 +175,7 @@ categories:
           - url: https://github.com/git-up/GitUp
           - url: https://github.com/relagit/relagit
           - url: https://github.com/maoyama/Tempo
+          - url: https://github.com/scmbreeze/scm_breeze
       - name: Virtualization
         repos:
           - url: https://github.com/canonical/multipass
@@ -192,15 +194,14 @@ categories:
         repos:
           - url: https://github.com/localsend/localsend
           - url: https://github.com/grishka/NearDrop
-      - name: Disk Usage Analysis Tools
-        repos:
-          - url: https://github.com/adileo/squirreldisk
-          - url: https://github.com/RobinNaumann/disko
+          - url: https://github.com/viarotel-org/escrcpy
       - name: Utils
         repos:
           - url: https://github.com/tfeldmann/organize
           - url: https://github.com/PDF-Archiver/PDF-Archiver
           - url: https://github.com/nohajc/anylinuxfs
+          - url: https://github.com/adileo/squirreldisk
+          - url: https://github.com/RobinNaumann/disko
   - name: Gaming
     repos:
       - url: https://github.com/OpenEmu/OpenEmu
@@ -233,8 +234,6 @@ categories:
       - name: Automation
         repos:
           - url: https://github.com/ActivityWatch/activitywatch
-          - url: https://github.com/viarotel-org/escrcpy
-          - url: https://github.com/mattermost-community/focalboard
           - url: https://github.com/FreeterApp/Freeter
           - url: https://github.com/Hammerspoon/hammerspoon
           - url: https://github.com/niw/HapticKey
@@ -247,11 +246,11 @@ categories:
           - url: https://github.com/khrykin/StrategrDesktop
           - url: https://github.com/WINBIGFOX/TimeScribe
             description: A modern, flexible time tracking app for capturing and managing personal working hours
-          - url: https://github.com/rupa/z
           - url: https://github.com/rewhex/better-launchpad
-      - name: To-Do Lists
+      - name: Task Management
         repos:
           - url: https://github.com/johannesjo/super-productivity
+          - url: https://github.com/mattermost-community/focalboard
       - name: Clipboard
         repos:
           - url: https://github.com/IvanMathy/Boop
@@ -280,10 +279,6 @@ categories:
           - url: https://github.com/readest/readest
           - url: https://github.com/Sigil-Ebook/Sigil
           - url: https://github.com/MaddTheSane/Simple-Comic
-      - name: Markdown Tools Awesome List
-        repos:
-          - url: https://github.com/MacDownApp/macdown
-          - url: https://github.com/Zettlr/Zettlr
       - name: Note-taking
         repos:
           - url: https://github.com/toeverything/AFFiNE
@@ -294,17 +289,17 @@ categories:
           - url: https://github.com/laurent22/joplin
           - url: https://github.com/logseq/logseq
             description: A privacy-first, open-source platform for knowledge management and collaboration
-          - url: https://github.com/massCodeIO/massCode
           - url: https://github.com/nuttyartist/notes
           - url: https://github.com/saber-notes/saber
           - url: https://github.com/standardnotes/app
             description: Think fearlessly with end-to-end encrypted notes and files
           - url: https://github.com/pbek/QOwnNotes
           - url: https://github.com/vnotex/vnote
-      - name: Office
-        repos:
+          - url: https://github.com/MacDownApp/macdown
+          - url: https://github.com/Zettlr/Zettlr
+          - url: https://github.com/vkbo/novelWriter
           - url: https://github.com/ONLYOFFICE/DesktopEditors
-      - name: Others
+      - name: Research
         repos:
           - url: https://github.com/vishaltelangre/bindPDF
           - url: https://github.com/antonycourtney/tad
@@ -325,16 +320,12 @@ categories:
           - url: https://github.com/helix-editor/helix
           - url: https://github.com/lapce/lapce
           - url: https://github.com/macvim-dev/macvim
-          - url: https://github.com/react-page/react-page
           - url: https://github.com/neovim/neovim
           - url: https://github.com/subethaedit/SubEthaEdit
           - url: https://github.com/vim/vim
           - url: https://github.com/qvacua/vimr
           - url: https://github.com/dail8859/NotepadNext
             description: Notepad++ for macOS
-      - name: Writing
-        repos:
-          - url: https://github.com/vkbo/novelWriter
   - name: Security
     repos:
       - url: https://github.com/objective-see/BlockBlock
@@ -373,6 +364,9 @@ categories:
           - url: https://github.com/pqrs-org/Karabiner-Elements
           - url: https://github.com/sanketk2020/MacSpaceCleaner
           - url: https://github.com/appledragon/everythingByMdfind
+          - url: https://github.com/Serpentiel/betterglobekey
+          - url: https://github.com/runjuu/InputSourcePro
+          - url: https://github.com/balena-io/etcher
       - name: Menu Bar
         repos:
           - url: https://github.com/Mortennn/Dozer
@@ -392,14 +386,9 @@ categories:
           - url: https://github.com/lihaoyun6/AirBattery
             description: Get battery usage of all devices on Mac and show them on the Dock / StatusBar
           - url: https://github.com/pakerwreah/Calendr
-      - name: CLI Tools
-        repos:
-          - url: https://github.com/withfig/autocomplete
-          - url: https://github.com/lihaoyun6/xHistory
-            description: A powerful command line history manager
+          - url: https://github.com/kmikiy/SpotMenu
       - name: General
         repos:
-          - url: https://github.com/balena-io/etcher
           - url: https://github.com/rlxone/Equinox
           - url: https://github.com/mangerlahn/Latest
           - url: https://github.com/kaunteya/MacCacheCleaner
@@ -407,23 +396,20 @@ categories:
           - url: https://github.com/jasonjmcghee/rem
           - url: https://github.com/dteoh/SlowQuitApps
           - url: https://github.com/Swift-open-source/UltraTabSaver
-          - url: https://github.com/upscayl/upscayl
-            description: Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
           - url: https://github.com/gkpln3/CapsLockNoDelay
           - url: https://github.com/wflixu/RClick
-      - name: Quality of Life
-        repos:
+          - url: https://github.com/withfig/autocomplete
+          - url: https://github.com/lihaoyun6/xHistory
+            description: A powerful command line history manager
           - url: https://github.com/sindresorhus/Actions
           - url: https://github.com/alin23/Lunar
           - url: https://github.com/thompsonate/Shifty
+          - url: https://github.com/glinford/dns-easy-switcher
+          - url: https://github.com/johnste/finicky
       - name: Password Management
         repos:
           - url: https://github.com/keepassxreboot/keepassxc
           - url: https://github.com/strongbox-password-safe/Strongbox
-      - name: Input Methods
-        repos:
-          - url: https://github.com/Serpentiel/betterglobekey
-          - url: https://github.com/runjuu/InputSourcePro
       - name: QuickLook Plugins
         repos:
           - url: https://github.com/sbarex/QLMarkdown
@@ -434,9 +420,6 @@ categories:
           - url: https://github.com/milanvarady/Applite
           - url: https://github.com/buresdv/cork
           - url: https://github.com/Homebrew/brew
-      - name: Network Utils
-        repos:
-          - url: https://github.com/glinford/dns-easy-switcher
   - name: Terminal
     repos:
       - url: https://github.com/alacritty/alacritty
@@ -447,6 +430,7 @@ categories:
       - url: https://github.com/Eugeny/tabby
       - url: https://github.com/wavetermdev/waveterm
       - url: https://github.com/wezterm/wezterm
+      - url: https://github.com/rupa/z
   - name: Window Management
     repos:
       - url: https://github.com/nikitabobko/AeroSpace
