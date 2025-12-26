@@ -61,7 +61,7 @@ categories:
       - url: https://github.com/zen-browser/desktop
   - name: Communication
     subcategories:
-      - name: Collaboration and Team Tools
+      - name: Collaboration
         repos:
           - url: https://github.com/sindresorhus/caprine
           - url: https://github.com/ferdium/ferdium-app
@@ -104,7 +104,7 @@ categories:
           - url: https://github.com/gee1k/uPic
           - url: https://github.com/upscayl/upscayl
             description: Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
-      - name: Screencapturing Software
+      - name: Screen Capture
         repos:
           - url: https://github.com/wulkano/kap
           - url: https://github.com/keycastr/keycastr
@@ -116,7 +116,7 @@ categories:
             description: A lightweight screen recorder based on ScreenCapture Kit for macOS
   - name: Developer Tools
     subcategories:
-      - name: API Development and Analysis
+      - name: API Tools
         repos:
           - url: https://github.com/hoppscotch/hoppscotch
             description: Open source API development ecosystem - alternative to Postman, Insomnia
@@ -149,7 +149,6 @@ categories:
           - url: https://github.com/qvacua/vimr
           - url: https://github.com/dail8859/NotepadNext
             description: Notepad++ for macOS
-          - url: https://github.com/vkbo/novelWriter
       - name: Databases
         repos:
           - url: https://github.com/beekeeper-studio/beekeeper-studio
@@ -193,6 +192,7 @@ categories:
           - url: https://github.com/relagit/relagit
           - url: https://github.com/maoyama/Tempo
           - url: https://github.com/scmbreeze/scm_breeze
+          - url: https://github.com/jamieweavis/streaker
       - name: Virtualization
         repos:
           - url: https://github.com/canonical/multipass
@@ -321,6 +321,7 @@ categories:
           - url: https://github.com/vnotex/vnote
           - url: https://github.com/MacDownApp/macdown
           - url: https://github.com/Zettlr/Zettlr
+          - url: https://github.com/vkbo/novelWriter
       - name: Research
         repos:
           - url: https://github.com/vishaltelangre/bindPDF
@@ -386,7 +387,6 @@ categories:
           - url: https://github.com/Celve/Peninsula
           - url: https://github.com/DamascenoRafael/reminders-menubar
           - url: https://github.com/FelixKratz/SketchyBar
-          - url: https://github.com/jamieweavis/streaker
           - url: https://github.com/swiftbar/SwiftBar
           - url: https://github.com/ivoronin/TomatoBar
           - url: https://github.com/lihaoyun6/Logoer
