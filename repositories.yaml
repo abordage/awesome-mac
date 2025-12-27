@@ -43,6 +43,8 @@ categories:
         repos:
           - url: https://github.com/ExistentialAudio/BlackHole
             description: macOS audio loopback driver for apps
+          - url: https://github.com/bitgapp/eqMac
+            description: System-wide audio equalizer and mixer
           - url: https://github.com/chidiwilliams/buzz
             description: Offline audio transcription powered by Whisper
           - url: https://github.com/AnaghSharma/Carol
@@ -114,6 +116,8 @@ categories:
         repos:
           - url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
             description: Run Stable Diffusion on M1 Mac
+          - url: https://github.com/MochiDiffusion/MochiDiffusion
+            description: Run Stable Diffusion natively on Mac
           - url: https://github.com/szTheory/exifcleaner
           - url: https://github.com/netdcy/FlowVision
             description: Waterfall-style image viewer for macOS
@@ -221,6 +225,12 @@ categories:
             description: Generate class diagrams from Swift
           - url: https://github.com/oldj/SwitchHosts
           - url: https://github.com/insidegui/WWDC
+          - url: https://github.com/intitni/CopilotForXcode
+            description: GitHub Copilot and ChatGPT for Xcode
+          - url: https://github.com/twostraws/ControlRoom
+            description: Control Xcode Simulator from macOS app
+          - url: https://github.com/okwasniewski/MiniSim
+            description: Menu bar app for iOS and Android simulators
           - url: https://github.com/XcodesOrg/XcodesApp
             description: Install and switch Xcode versions easily
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
@@ -243,6 +253,8 @@ categories:
           - url: https://github.com/qemu/qemu
             description: generic and open source machine & userspace emulator and virtualizer
           - url: https://github.com/utmapp/UTM
+          - url: https://github.com/insidegui/VirtualBuddy
+            description: macOS VM GUI for Apple Silicon
           - url: https://github.com/hashicorp/vagrant
             description: Tool for building development environments
   - name: File Management
@@ -386,6 +398,8 @@ categories:
             description: Markdown notepad with Nextcloud integration
           - url: https://github.com/vnotex/vnote
           - url: https://github.com/MacDownApp/macdown
+          - url: https://github.com/tw93/MiaoYan
+            description: Lightweight Markdown editor
           - url: https://github.com/Zettlr/Zettlr
           - url: https://github.com/vkbo/novelWriter
             description: Plain text editor for writing novels
@@ -435,10 +449,14 @@ categories:
             description: Explore running processes on macOS
           - url: https://github.com/objective-see/WhatsYourSign
             description: View file signing info in Finder
+          - url: https://github.com/seemoo-lab/openhaystack
+            description: Build your own AirTags via Find My network
   - name: System Tools
     subcategories:
       - name: Desktop & System
         repos:
+          - url: https://github.com/pedrommcarrasco/Brooklyn
+            description: Apple-inspired screensaver
           - url: https://github.com/rlxone/Equinox
           - url: https://github.com/mangerlahn/Latest
             description: App update checker for macOS
@@ -458,6 +476,10 @@ categories:
       - name: Menu Bar
         repos:
           - url: https://github.com/Mortennn/Dozer
+          - url: https://github.com/dwarvesf/hidden
+            description: Ultra-light utility to hide menu bar icons
+          - url: https://github.com/macmade/Hot
+            description: CPU thermal throttling monitor in menu bar
           - url: https://github.com/jordanbaird/Ice
           - url: https://github.com/sfsam/itsycal
             description: Itsycal is a tiny calendar for menu bar
@@ -482,6 +504,8 @@ categories:
           - url: https://github.com/milanvarady/Applite
           - url: https://github.com/buresdv/cork
           - url: https://github.com/Homebrew/brew
+          - url: https://github.com/mas-cli/mas
+            description: Mac App Store command-line interface
       - name: QuickLook Plugins
         repos:
           - url: https://github.com/sbarex/QLMarkdown
@@ -505,6 +529,8 @@ categories:
           - url: https://github.com/alienator88/Pearcleaner
             description: Free and fair-code mac app cleaner
           - url: https://github.com/exelban/stats
+          - url: https://github.com/gao-sun/eul
+            description: macOS status monitoring app in SwiftUI
           - url: https://github.com/sveinbjornt/Sloth
             description: View open files and connections on Mac
           - url: https://github.com/probablykasper/time-machine-inspector
