@@ -337,6 +337,7 @@ categories:
           - url: https://github.com/WINBIGFOX/TimeScribe
             description: Flexible time tracking for work hours
           - url: https://github.com/rewhex/better-launchpad
+            description: Smarter, customizable Launchpad for macOS
       - name: Clipboard
         repos:
           - url: https://github.com/IvanMathy/Boop
@@ -415,6 +416,7 @@ categories:
           - url: https://github.com/Ranchero-Software/NetNewsWire
           - url: https://github.com/dyerc/Doughnut
           - url: https://github.com/ViennaRSS/vienna-rss
+            description: Free open-source RSS/Atom/JSON feed newsreader for macOS
           - url: https://github.com/sopaco/saga-reader
             description: AI-powered lightweight internet reader
   - name: Security
