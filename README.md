@@ -299,7 +299,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [niw/HapticKey](https://github.com/niw/HapticKey) — Haptic feedback when tapping Touch Bar ☆`1,670`
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`944`
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) — Flexible time tracking for work hours ☆`752`
-- [rewhex/better-launchpad](https://github.com/rewhex/better-launchpad) — A smarter, more customizable Launchpad for macOS with fast search. ☆`16`
+- [rewhex/better-launchpad](https://github.com/rewhex/better-launchpad) — Smarter, customizable Launchpad for macOS ☆`16`
 ### Clipboard
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`18,846`
@@ -346,7 +346,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) — Folo is the AI Reader ☆`37,564`
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`9,794`
-- [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS. ☆`1,956`
+- [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) — Free open-source RSS/Atom/JSON feed newsreader for macOS ☆`1,956`
 - [sopaco/saga-reader](https://github.com/sopaco/saga-reader) — AI-powered lightweight internet reader ☆`469`
 ## Security
 
