@@ -548,6 +548,8 @@ categories:
           - url: https://github.com/appledragon/everythingByMdfind
           - url: https://github.com/Serpentiel/betterglobekey
           - url: https://github.com/runjuu/InputSourcePro
+          - url: https://github.com/zlopixatel/bzz
+            description: Automatic keyboard layout switcher (RU↔EN), open-source replacement for Punto Switcher
           - url: https://github.com/balena-io/etcher
   - name: Terminal
     subcategories:
