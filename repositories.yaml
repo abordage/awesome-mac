@@ -493,6 +493,8 @@ categories:
           - url: https://github.com/DamascenoRafael/reminders-menubar
             description: View Apple Reminders in menu bar
           - url: https://github.com/FelixKratz/SketchyBar
+          - url: https://github.com/jazzyalex/stargazer-bar
+            description: Track one public GitHub repo's stars and release downloads from the menu bar.
           - url: https://github.com/swiftbar/SwiftBar
           - url: https://github.com/ivoronin/TomatoBar
           - url: https://github.com/lihaoyun6/Logoer
