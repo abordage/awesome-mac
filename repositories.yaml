@@ -530,6 +530,8 @@ categories:
             description: Auto-quit unused apps for focus
           - url: https://github.com/alienator88/Pearcleaner
             description: Free and fair-code mac app cleaner
+          - url: https://github.com/yagcioglutoprak/dusty
+            description: Free, open-source macOS menu bar cleaner.
           - url: https://github.com/exelban/stats
           - url: https://github.com/gao-sun/eul
             description: macOS status monitoring app in SwiftUI
