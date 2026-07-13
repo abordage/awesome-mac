@@ -208,6 +208,8 @@ categories:
           - url: https://github.com/antonycourtney/tad
       - name: Developer Utilities
         repos:
+          - url: https://github.com/Ducksss/codex-profiles
+            description: Manage named Codex homes and separate ChatGPT windows
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
