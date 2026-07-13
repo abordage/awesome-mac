@@ -503,6 +503,8 @@ categories:
             description: Show battery of all devices in Dock
           - url: https://github.com/pakerwreah/Calendr
           - url: https://github.com/kmikiy/SpotMenu
+          - url: https://github.com/aqua5230/usage
+            description: Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
