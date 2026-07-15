@@ -351,6 +351,8 @@ categories:
           - url: https://github.com/TermiT/Flycut
           - url: https://github.com/p0deje/Maccy
           - url: https://github.com/mattDavo/Yippy
+          - url: https://github.com/hukdoesn/Nimclip
+            description: Native local-only clipboard history manager for macOS
       - name: Task Management
         repos:
           - url: https://github.com/johannesjo/super-productivity
