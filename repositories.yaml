@@ -494,6 +494,8 @@ categories:
             description: All-in-one menu bar utility for Mac
           - url: https://github.com/Celve/Peninsula
             description: Dynamic Peninsula for window switching
+          - url: https://github.com/emgeorrk/pulse
+            description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
           - url: https://github.com/DamascenoRafael/reminders-menubar
             description: View Apple Reminders in menu bar
           - url: https://github.com/FelixKratz/SketchyBar
