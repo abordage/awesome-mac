@@ -295,6 +295,8 @@ categories:
       - name: Download Tools
         repos:
           - url: https://github.com/agalwood/Motrix
+          - url: https://github.com/apoorvdarshan/hash-harbor
+            description: Local torrent streamer and downloader with a native engine and browser interface
           - url: https://github.com/qbittorrent/qBittorrent
           - url: https://github.com/transmission/transmission
           - url: https://github.com/soimort/you-get
