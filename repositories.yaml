@@ -322,6 +322,8 @@ categories:
           - url: https://github.com/LizardByte/Sunshine
           - url: https://github.com/electerm/electerm
             description: Terminal with SSH, SFTP, and RDP support
+          - url: https://github.com/lx2026/RelayBar
+            description: Native macOS menu bar app for SSH tunnels and remote file previews
   - name: Productivity
     subcategories:
       - name: Automation
