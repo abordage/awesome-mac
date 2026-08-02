@@ -47,6 +47,8 @@ categories:
             description: System-wide audio equalizer and mixer
           - url: https://github.com/chidiwilliams/buzz
             description: Offline audio transcription powered by Whisper
+          - url: https://github.com/writingmate/aidictation
+            description: "Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup."
           - url: https://github.com/AnaghSharma/Carol
           - url: https://github.com/sindresorhus/Gifski
           - url: https://github.com/lmms/lmms
