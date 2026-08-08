@@ -546,6 +546,8 @@ categories:
           - url: https://github.com/Chris911/iStats
           - url: https://github.com/brianmichel/Juice
           - url: https://github.com/newmarcel/KeepingYouAwake
+          - url: https://github.com/apoorvdarshan/macbook-24x7-agents
+            description: Keep a MacBook running AI agents with the lid closed and display off.
           - url: https://github.com/BigBerny/magicquit
             description: Auto-quit unused apps for focus
           - url: https://github.com/alienator88/Pearcleaner
