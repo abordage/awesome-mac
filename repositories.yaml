@@ -521,6 +521,8 @@ categories:
           - url: https://github.com/kmikiy/SpotMenu
           - url: https://github.com/aqua5230/usage
             description: Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls
+          - url: https://github.com/18565882223-beep/fieldhop-macos
+            description: Local-first OTP relay from Messages or email to the correct field on macOS.
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
