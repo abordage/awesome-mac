@@ -521,6 +521,8 @@ categories:
           - url: https://github.com/kmikiy/SpotMenu
           - url: https://github.com/aqua5230/usage
             description: Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls
+          - url: https://github.com/tristan666666/agent-island
+            description: Live session state, your-turn alerts, quota and cost for Claude Code, Codex, Antigravity, Grok and Cursor in the macOS notch, all computed locally
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
