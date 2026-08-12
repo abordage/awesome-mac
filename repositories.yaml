@@ -216,6 +216,8 @@ categories:
         repos:
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
+          - url: https://github.com/apoorvdarshan/browser-cookie-bridge
+            description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/Avazbek22/DevProjex
             description: Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export.
