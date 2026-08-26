@@ -47,6 +47,8 @@ categories:
             description: System-wide audio equalizer and mixer
           - url: https://github.com/chidiwilliams/buzz
             description: Offline audio transcription powered by Whisper
+          - url: https://github.com/writingmate/aidictation
+            description: "Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup."
           - url: https://github.com/AnaghSharma/Carol
           - url: https://github.com/sindresorhus/Gifski
           - url: https://github.com/lmms/lmms
@@ -129,6 +131,8 @@ categories:
           - url: https://github.com/gee1k/uPic
           - url: https://github.com/upscayl/upscayl
             description: Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
+          - url: https://github.com/joshlin2201/itspaint
+            description: MS Paint for the Mac with screenshot markup and pixel-art tools
       - name: Screen Capture
         repos:
           - url: https://github.com/wulkano/kap
@@ -142,6 +146,8 @@ categories:
             description: Lightweight macOS screen recorder
           - url: https://github.com/apoorvdarshan/TetherShot
             description: Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally.
+          - url: https://github.com/ahkohd/Notate.app
+            description: Annotate frozen screen states and animation frames
   - name: Developer Tools
     subcategories:
       - name: API Tools
@@ -212,7 +218,11 @@ categories:
         repos:
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
+          - url: https://github.com/apoorvdarshan/browser-cookie-bridge
+            description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
           - url: https://github.com/isaced/CubicBezier
+          - url: https://github.com/Avazbek22/DevProjex
+            description: Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export.
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
           - url: https://github.com/HexFiend/HexFiend
@@ -295,6 +305,8 @@ categories:
       - name: Download Tools
         repos:
           - url: https://github.com/agalwood/Motrix
+          - url: https://github.com/apoorvdarshan/hash-harbor
+            description: Local torrent streamer and downloader with a native engine and browser interface
           - url: https://github.com/qbittorrent/qBittorrent
           - url: https://github.com/transmission/transmission
           - url: https://github.com/soimort/you-get
@@ -320,6 +332,8 @@ categories:
           - url: https://github.com/LizardByte/Sunshine
           - url: https://github.com/electerm/electerm
             description: Terminal with SSH, SFTP, and RDP support
+          - url: https://github.com/lx2026/RelayBar
+            description: Native macOS menu bar app for SSH tunnels and remote file previews
   - name: Productivity
     subcategories:
       - name: Automation
@@ -478,6 +492,8 @@ categories:
           - url: https://github.com/wflixu/RClick
           - url: https://github.com/sindresorhus/Actions
           - url: https://github.com/alin23/Lunar
+          - url: https://github.com/matthewrball/abendrot
+            description: Warms built-in and external Mac displays around local sunset.
           - url: https://github.com/thompsonate/Shifty
           - url: https://github.com/glinford/dns-easy-switcher
           - url: https://github.com/johnste/finicky
@@ -496,6 +512,8 @@ categories:
             description: All-in-one menu bar utility for Mac
           - url: https://github.com/Celve/Peninsula
             description: Dynamic Peninsula for window switching
+          - url: https://github.com/emgeorrk/pulse
+            description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
           - url: https://github.com/DamascenoRafael/reminders-menubar
             description: View Apple Reminders in menu bar
           - url: https://github.com/FelixKratz/SketchyBar
@@ -511,6 +529,8 @@ categories:
           - url: https://github.com/kmikiy/SpotMenu
           - url: https://github.com/aqua5230/usage
             description: Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls
+          - url: https://github.com/18565882223-beep/fieldhop-macos
+            description: Local-first OTP relay from Messages or email to the correct field on macOS.
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
@@ -536,6 +556,8 @@ categories:
           - url: https://github.com/Chris911/iStats
           - url: https://github.com/brianmichel/Juice
           - url: https://github.com/newmarcel/KeepingYouAwake
+          - url: https://github.com/apoorvdarshan/macbook-24x7-agents
+            description: Keep a MacBook running AI agents with the lid closed and display off.
           - url: https://github.com/BigBerny/magicquit
             description: Auto-quit unused apps for focus
           - url: https://github.com/alienator88/Pearcleaner
