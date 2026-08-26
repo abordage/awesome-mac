@@ -459,6 +459,8 @@ categories:
           - url: https://github.com/objective-see/KnockKnock
           - url: https://github.com/halo/LinkLiar
           - url: https://github.com/objective-see/LuLu
+          - url: https://github.com/RockxyApp/Shieldxy
+            description: Auditable application firewall and connection monitor for macOS
           - url: https://github.com/objective-see/OverSight
             description: Monitor mic and webcam access on Mac
           - url: https://github.com/ParetoSecurity/pareto-mac
