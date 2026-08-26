@@ -311,6 +311,8 @@ categories:
       - name: Network Analysis
         repos:
           - url: https://github.com/GyulyVGC/sniffnet
+          - url: https://github.com/RockxyApp/Tracexy
+            description: Native, local-first network intelligence for macOS
           - url: https://github.com/wireshark/wireshark
             description: Wireshark is a network traffic analyzer, or "sniffer"
       - name: Proxy & VPN
