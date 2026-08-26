@@ -154,6 +154,8 @@ categories:
             description: Open source API development ecosystem
           - url: https://github.com/Kong/insomnia
             description: Cross-platform API client for REST, GraphQL, gRPC
+          - url: https://github.com/RockxyApp/Rockxy
+            description: Native macOS HTTP debugging proxy
           - url: https://github.com/mountain-loop/yaak
             description: Intuitive API client for REST and GraphQL
       - name: App Frameworks
