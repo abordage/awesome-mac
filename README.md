@@ -225,7 +225,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`3,150`
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`851`
 - [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) — Manage named Codex homes and separate ChatGPT windows ☆`115`
-- [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex) — Cross-platform .NET/Avalonia GUI, TUI, CLI, and read-only MCP for building structured project context with live preview, secret redaction, Git scopes, and syntax-aware compression. ☆`18`
+- [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex) — Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. ☆`18`
 ### Version Control
 
 - [desktop/desktop](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`21,813`
