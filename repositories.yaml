@@ -220,7 +220,7 @@ categories:
             description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/Avazbek22/DevProjex
-            description: Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export.
+            description: Cross-platform .NET/Avalonia GUI, TUI, CLI, and read-only MCP for building structured project context with live preview, secret redaction, Git scopes, and syntax-aware compression.
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
           - url: https://github.com/HexFiend/HexFiend
