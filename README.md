@@ -166,6 +166,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`30,801`
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`15,087`
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — Lightweight macOS screen recorder ☆`8,639`
+- [Snapling](https://getsnapling.com) — Mac screenshot tool with AI OCR, GIF recording, and a searchable visual workspace
 ## Developer Tools
 
 ### API Tools
