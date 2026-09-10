@@ -247,6 +247,8 @@ categories:
             description: Install and switch Xcode versions easily
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
           - url: https://github.com/massCodeIO/massCode
+          - url: https://github.com/yylo-dev/yylo
+            description: Cross-platform command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
       - name: Version Control
         repos:
           - url: https://github.com/Shikkic/gitbar
