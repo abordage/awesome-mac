@@ -144,6 +144,8 @@ categories:
           - url: https://github.com/flameshot-org/flameshot
           - url: https://github.com/lihaoyun6/QuickRecorder
             description: Lightweight macOS screen recorder
+          - url: https://github.com/apoorvdarshan/TetherShot
+            description: Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally.
           - url: https://github.com/ahkohd/Notate.app
             description: Annotate frozen screen states and animation frames
   - name: Developer Tools
