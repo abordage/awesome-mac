@@ -48,7 +48,7 @@ categories:
           - url: https://github.com/chidiwilliams/buzz
             description: Offline audio transcription powered by Whisper
           - url: https://github.com/writingmate/aidictation
-            description: "Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup."
+            description: Native voice-to-text with offline and cloud cleanup
           - url: https://github.com/AnaghSharma/Carol
           - url: https://github.com/sindresorhus/Gifski
           - url: https://github.com/lmms/lmms
@@ -145,7 +145,7 @@ categories:
           - url: https://github.com/lihaoyun6/QuickRecorder
             description: Lightweight macOS screen recorder
           - url: https://github.com/apoorvdarshan/TetherShot
-            description: Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally.
+            description: Pixel-perfect iPhone screen capture over USB or Wi-Fi
           - url: https://github.com/ahkohd/Notate.app
             description: Annotate frozen screen states and animation frames
   - name: Developer Tools
@@ -224,7 +224,7 @@ categories:
             description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/Avazbek22/DevProjex
-            description: Cross-platform .NET/Avalonia GUI, TUI, CLI, and read-only MCP for building structured project context with live preview, secret redaction, Git scopes, and syntax-aware compression.
+            description: Structured project context via GUI, TUI, CLI, and MCP
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
           - url: https://github.com/HexFiend/HexFiend
@@ -251,8 +251,9 @@ categories:
             description: Install and switch Xcode versions easily
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
           - url: https://github.com/massCodeIO/massCode
+            description: Local snippets, notes, HTTP client, and developer tools
           - url: https://github.com/yylo-dev/yylo
-            description: Cross-platform command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
+            description: CLI orchestrator for agent tasks, validation, and merges
       - name: Version Control
         repos:
           - url: https://github.com/Shikkic/gitbar
@@ -521,7 +522,7 @@ categories:
           - url: https://github.com/Celve/Peninsula
             description: Dynamic Peninsula for window switching
           - url: https://github.com/emgeorrk/pulse
-            description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
+            description: Menu bar CPU, memory, temperature, network, disk, and battery
           - url: https://github.com/DamascenoRafael/reminders-menubar
             description: View Apple Reminders in menu bar
           - url: https://github.com/FelixKratz/SketchyBar
@@ -536,12 +537,13 @@ categories:
           - url: https://github.com/pakerwreah/Calendr
           - url: https://github.com/kmikiy/SpotMenu
           - url: https://github.com/aqua5230/usage
-            description: Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls
+            description: Claude Code and Codex quota with burn-rate in the menu bar
           - url: https://github.com/18565882223-beep/fieldhop-macos
             description: Local-first OTP relay from Messages or email to the correct field on macOS.
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
+            description: Native Homebrew Cask app store outside the App Store
           - url: https://github.com/buresdv/cork
           - url: https://github.com/Homebrew/brew
           - url: https://github.com/mas-cli/mas
@@ -606,6 +608,7 @@ categories:
             description: Cross-platform GPU-based terminal emulator
           - url: https://github.com/Eugeny/tabby
           - url: https://github.com/wavetermdev/waveterm
+            description: AI-native cross-platform terminal for daily workflows
           - url: https://github.com/wezterm/wezterm
             description: GPU-accelerated terminal multiplexer
       - name: Shell Utilities
