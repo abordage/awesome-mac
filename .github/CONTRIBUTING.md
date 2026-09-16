@@ -64,40 +64,23 @@ Here's a complete example showing different structures:
 
 ```yaml
 categories:
-  - name: Agents
-    description: "AI agents and autonomous systems"
+  - name: Window Management
     repos:
-      - url: https://github.com/smol-ai/developer
-      - url: https://github.com/Aider-AI/aider
-        description: "AI pair programming in your terminal"
-      - url: https://github.com/AntonOsika/gpt-engineer
-      - url: https://github.com/joshpxyne/gpt-migrate
+      - url: https://github.com/owner/window-manager
+        description: "Tiling window manager for macOS"
 
-  - name: App generators
+  - name: Browsers
     repos:
-      - url: https://github.com/stackblitz-labs/bolt.diy
-        description: "Prompt, run, edit, and deploy full-stack web applications"
-      - url: https://github.com/srcbookdev/srcbook
+      - url: https://github.com/owner/browser
 
-  - name: Assistants
+  - name: Audio & Video
     subcategories:
-      - name: Command-line
+      - name: Players
         repos:
-          - url: https://github.com/Strawberry-Computer/poorcoder
-          - url: https://github.com/BrodaNoel/cmd-ai
-      - name: IDE extensions
+          - url: https://github.com/owner/player
+      - name: Editors
         repos:
-          - url: https://github.com/smallcloudai/refact
-          - url: https://github.com/codota/TabNine
-          - url: https://github.com/rubberduck-ai/rubberduck-vscode
-      - name: Web-based
-        repos:
-          - url: https://github.com/silvanmelchior/IncognitoPilot
-
-  - name: Documentation
-    repos:
-      - url: https://github.com/eli64s/readme-ai
-        description: "Beautiful README files from the command line"
+          - url: https://github.com/owner/editor
 ```
 
 ## Guidelines

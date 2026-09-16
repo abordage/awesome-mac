@@ -1,0 +1,70 @@
+name: Check PR
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  pull-requests: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  REQUIRED_FILE: repositories.yaml
+  FORBIDDEN_FILE: README.md
+
+jobs:
+  check-files:
+    name: Validate changed files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check files and post comment
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const pr = context.payload.pull_request.number;
+            const marker = '<!-- pr-file-check -->';
+            const requiredFile = process.env.REQUIRED_FILE;
+            const forbiddenFile = process.env.FORBIDDEN_FILE;
+
+            const [{ data: files }, { data: comments }] = await Promise.all([
+              github.rest.pulls.listFiles({ owner, repo, pull_number: pr, per_page: 100 }),
+              github.rest.issues.listComments({ owner, repo, issue_number: pr, per_page: 100 }),
+            ]);
+
+            const filenames = files.map(f => f.filename);
+            const errors = [];
+            if (!filenames.includes(requiredFile)) {
+              errors.push(`\`${requiredFile}\` must be modified`);
+            }
+            if (filenames.includes(forbiddenFile)) {
+              errors.push(`\`${forbiddenFile}\` must **not** be modified — it is auto-generated`);
+            }
+
+            const existing = comments.find(c => c.body.includes(marker));
+
+            if (errors.length > 0) {
+              const body = [
+                marker,
+                '## PR Validation Failed',
+                '',
+                'This pull request does not meet the contribution requirements:',
+                '',
+                ...errors.map(e => `- ${e}`),
+                '',
+                `Please read the [Contributing Guidelines](https://github.com/${owner}/${repo}/blob/main/.github/CONTRIBUTING.md) and update your PR accordingly.`,
+              ].join('\n');
+
+              if (existing) {
+                await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
+              } else {
+                await github.rest.issues.createComment({ owner, repo, issue_number: pr, body });
+              }
+
+              core.setFailed(`PR validation failed: ${errors.join('; ')}`);
+            } else if (existing) {
+              await github.rest.issues.deleteComment({ owner, repo, comment_id: existing.id });
+            }
