@@ -112,7 +112,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [metabrainz/picard](https://github.com/metabrainz/picard) — Cross-platform music tagger with MusicBrainz ☆`5,198`
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) — A macOS GUI front-end for the YT-DLP video downloader ☆`1,009`
 - [TheAcharya/MarkerData](https://github.com/TheAcharya/MarkerData) — Marker extraction tool for Final Cut Pro ☆`68`
-- [writingmate/aidictation](https://github.com/writingmate/aidictation) — Native voice-to-text app for macOS with a configurable shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. ☆`45`
+- [writingmate/aidictation](https://github.com/writingmate/aidictation) — Native voice-to-text with offline and cloud cleanup ☆`45`
 ## Browsers
 
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) — Google Chromium, sans integration with Google ☆`27,709`
@@ -167,7 +167,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`30,861`
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`15,100`
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) — Lightweight macOS screen recorder ☆`8,652`
-- [apoorvdarshan/TetherShot](https://github.com/apoorvdarshan/TetherShot) — Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally. ☆`17`
+- [apoorvdarshan/TetherShot](https://github.com/apoorvdarshan/TetherShot) — Pixel-perfect iPhone screen capture over USB or Wi-Fi ☆`17`
 ## Developer Tools
 
 ### API Tools
@@ -222,14 +222,14 @@ macOS software and tools from the open-source community. This awesome list is au
 - [insidegui/WWDC](https://github.com/insidegui/WWDC) — The unofficial WWDC app for macOS ☆`8,754`
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) — Install and switch Xcode versions easily ☆`8,538`
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,217`
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) — A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app. ☆`6,988`
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) — Local snippets, notes, HTTP client, and developer tools ☆`6,988`
 - [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,102`
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,892`
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`3,162`
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`852`
 - [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) — Manage named Codex homes and separate ChatGPT windows ☆`150`
-- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) — Cross-platform command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. ☆`59`
-- [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex) — Cross-platform .NET/Avalonia GUI, TUI, CLI, and read-only MCP for building structured project context with live preview, secret redaction, Git scopes, and syntax-aware compression. ☆`24`
+- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) — CLI orchestrator for agent tasks, validation, and merges ☆`59`
+- [Avazbek22/DevProjex](https://github.com/Avazbek22/DevProjex) — Structured project context via GUI, TUI, CLI, and MCP ☆`24`
 ### Version Control
 
 - [desktop/desktop](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`21,854`
@@ -411,13 +411,13 @@ macOS software and tools from the open-source community. This awesome list is au
 - [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) — Show battery of all devices in Dock ☆`2,963`
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI ☆`2,344`
 - [celve/Peninsula](https://github.com/celve/Peninsula) — Dynamic Peninsula for window switching ☆`457`
-- [aqua5230/usage](https://github.com/aqua5230/usage) — Claude Code and Codex quota in the menu bar with burn-rate predictions, zero API calls ☆`323`
-- [emgeorrk/pulse](https://github.com/emgeorrk/pulse) — Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats ☆`29`
+- [aqua5230/usage](https://github.com/aqua5230/usage) — Claude Code and Codex quota with burn-rate in the menu bar ☆`323`
+- [emgeorrk/pulse](https://github.com/emgeorrk/pulse) — Menu bar CPU, memory, temperature, network, disk, and battery ☆`29`
 ### Package Managers
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) — The Package Manager for Everywhere ☆`49,663`
 - [mas-cli/mas](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`12,350`
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) — A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask ☆`7,040`
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) — Native Homebrew Cask app store outside the App Store ☆`7,040`
 - [buresdv/Cork](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI, AI-free ☆`4,696`
 ### QuickLook Plugins
 
@@ -453,7 +453,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) — Fast GPU-accelerated terminal emulator ☆`61,160`
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) — Cross-platform GPU-based terminal emulator ☆`34,913`
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) — GPU-accelerated terminal multiplexer ☆`28,910`
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) — An open-source, AI-integrated, cross-platform terminal for seamless workflows ☆`22,290`
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) — AI-native cross-platform terminal for daily workflows ☆`22,290`
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) — Terminal emulator for macOS with many features ☆`18,059`
 ### Shell Utilities
 
