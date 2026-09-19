@@ -378,6 +378,8 @@ categories:
           - url: https://github.com/mattDavo/Yippy
           - url: https://github.com/hukdoesn/Nimclip
             description: Native local-only clipboard history manager for macOS
+          - url: https://github.com/nathan-poncet/whisk
+            description: Paste-style clipboard manager with pins, search operators and rich previews
       - name: Task Management
         repos:
           - url: https://github.com/johannesjo/super-productivity
