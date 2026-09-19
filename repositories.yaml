@@ -506,6 +506,8 @@ categories:
           - url: https://github.com/thompsonate/Shifty
           - url: https://github.com/glinford/dns-easy-switcher
           - url: https://github.com/johnste/finicky
+          - url: https://github.com/Silvertree2010/ApolloShell
+            description: Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre
       - name: Menu Bar
         repos:
           - url: https://github.com/Mortennn/Dozer
