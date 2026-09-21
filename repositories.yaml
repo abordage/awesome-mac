@@ -51,6 +51,8 @@ categories:
             description: Native voice-to-text with offline and cloud cleanup
           - url: https://github.com/AnaghSharma/Carol
           - url: https://github.com/sindresorhus/Gifski
+          - url: https://github.com/braedonsaunders/lucid
+            description: Real-time AI video super-resolution for Apple silicon Macs
           - url: https://github.com/lmms/lmms
           - url: https://github.com/ddddxxx/LyricsX
           - url: https://github.com/section83/MacYTDL
