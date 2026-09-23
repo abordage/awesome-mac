@@ -116,6 +116,8 @@ categories:
           - url: https://github.com/sindresorhus/System-Color-Picker
           - url: https://github.com/synfig/synfig
             description: Synfig Studio animation software
+          - url: https://github.com/royalpinto007/boardeject
+            description: "Open-source macOS utility for exporting Apple Freeform selections to editable Excalidraw and creating verified local archives."
       - name: Image Tools
         repos:
           - url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
