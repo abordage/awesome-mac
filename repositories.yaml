@@ -458,6 +458,8 @@ categories:
         repos:
           - url: https://github.com/cryptomator/cryptomator
             description: Secure encryption for cloud storage
+          - url: https://github.com/ownkeep-app/ownkeep
+            description: Offline keyboard-first vault for passwords and shell commands.
           - url: https://github.com/alichtman/deadbolt
       - name: Password Managers
         repos:
