@@ -3,7 +3,7 @@
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mac?label=last%20update)](README.md)
 ![Repositories](https://img.shields.io/badge/repositories-297-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-4,949,571-gold)
+![Total Stars](https://img.shields.io/badge/total%20stars-4,949,569-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-mac)](LICENSE)
 
 
@@ -154,14 +154,14 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`50,121`
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) — Image uploader for 60+ hosting services ☆`27,310`
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Run Stable Diffusion on M1 Mac ☆`13,601`
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) — Run Stable Diffusion on M1 Mac ☆`13,597`
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`10,000`
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,963`
-- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,998`
-- [jurplel/qView](https://github.com/jurplel/qView) — Practical and minimal image viewer ☆`3,581`
+- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) — Native client of TinyPNG on macOS ☆`3,997`
+- [jurplel/qView](https://github.com/jurplel/qView) — Practical and minimal image viewer ☆`3,584`
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) — Cross-platform desktop GUI app to clean image metadata ☆`2,721`
-- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS ☆`1,339`
-- [joshlin2201/itspaint](https://github.com/joshlin2201/itspaint) — MS Paint for the Mac with screenshot markup and pixel-art tools ☆`35`
+- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS ☆`1,337`
+- [joshlin2201/itspaint](https://github.com/joshlin2201/itspaint) — MS Paint for the Mac with screenshot markup and pixel-art tools ☆`36`
 ### Screen Capture
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Free software for streaming and recording ☆`77,031`
@@ -176,7 +176,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem ☆`80,572`
 - [Kong/insomnia](https://github.com/Kong/insomnia) — Cross-platform API client for REST, GraphQL, gRPC ☆`40,035`
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) — Intuitive API client for REST and GraphQL ☆`19,288`
-- [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,409`
+- [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) — Native macOS HTTP debugging proxy ☆`1,410`
 ### App Frameworks
 
 - [electron/electron](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`123,401`
