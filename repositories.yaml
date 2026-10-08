@@ -566,6 +566,8 @@ categories:
             description: Quick Look syntax highlighting
       - name: System Utilities
         repos:
+          - url: https://github.com/tamia6/AppDuo
+            description: Native macOS app cloner with custom names, icons, and separate data directories.
           - url: https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring
             description: Battery charge limiter
           - url: https://github.com/ThatGuySam/doesitarm
