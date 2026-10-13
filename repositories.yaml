@@ -49,6 +49,8 @@ categories:
             description: Offline audio transcription powered by Whisper
           - url: https://github.com/writingmate/aidictation
             description: Native voice-to-text with offline and cloud cleanup
+          - url: https://github.com/GeiserX/akou
+            description: Call recorder with on-device transcription and speaker labels
           - url: https://github.com/AnaghSharma/Carol
           - url: https://github.com/sindresorhus/Gifski
           - url: https://github.com/braedonsaunders/lucid
