@@ -304,6 +304,8 @@ categories:
             description: Mount Linux filesystems on macOS via NFS
           - url: https://github.com/adileo/squirreldisk
           - url: https://github.com/RobinNaumann/disko
+          - url: https://github.com/NeoPanic/Glim
+            description: "macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace."
   - name: Gaming
     repos:
       - url: https://github.com/OpenEmu/OpenEmu
