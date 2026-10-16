@@ -414,6 +414,8 @@ categories:
             description: Modern cross-platform ebook reader
           - url: https://github.com/Sigil-Ebook/Sigil
           - url: https://github.com/MaddTheSane/Simple-Comic
+          - url: https://github.com/yzfly/LightRead
+            description: Local-first ebook and paper reader with annotations and text-to-speech.
       - name: Note-taking
         repos:
           - url: https://github.com/toeverything/AFFiNE
