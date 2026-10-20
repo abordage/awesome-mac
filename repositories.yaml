@@ -224,6 +224,8 @@ categories:
           - url: https://github.com/antonycourtney/tad
       - name: Developer Utilities
         repos:
+          - url: https://github.com/nuanu-ai/agent-payment-node
+            description: Local CLI and stdio MCP payment runtime for AI agents on Apple Silicon macOS, with x402 support and foreground owner approval.
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
           - url: https://github.com/apoorvdarshan/browser-cookie-bridge
