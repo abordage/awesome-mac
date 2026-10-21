@@ -257,6 +257,8 @@ categories:
             description: Control Xcode Simulator from macOS app
           - url: https://github.com/okwasniewski/MiniSim
             description: Menu bar app for iOS and Android simulators
+          - url: https://github.com/ateymoori/oh-my-android
+            description: Control panel for the Android Emulator with one-click toggles and an MCP server
           - url: https://github.com/XcodesOrg/XcodesApp
             description: Install and switch Xcode versions easily
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
