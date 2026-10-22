@@ -367,6 +367,8 @@ categories:
             description: Haptic feedback when tapping Touch Bar
           - url: https://github.com/zenangst/KeyboardCowboy
           - url: https://github.com/linearmouse/linearmouse
+          - url: https://github.com/loomtable/lumi
+            description: Ask from any app by voice or text and get the answer on screen, from your own Claude Code
           - url: https://github.com/noah-nuebling/mac-mouse-fix
             description: Make any mouse better on macOS
           - url: https://github.com/Caldis/Mos
