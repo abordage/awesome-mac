@@ -648,6 +648,8 @@ categories:
       - url: https://github.com/XiCheng148/Dockit
       - url: https://github.com/finestructure/Hummingbird
       - url: https://github.com/FelixKratz/JankyBorders
+      - url: https://github.com/tumingke0/LayoutKeeper
+        description: Restores window positions and Spaces when an external monitor is reconnected
       - url: https://github.com/MrKai77/Loop
       - url: https://github.com/Geckos-Ink/MakeItHome
       - url: https://github.com/rxhanson/Rectangle
