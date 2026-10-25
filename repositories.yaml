@@ -76,6 +76,8 @@ categories:
       - url: https://github.com/minbrowser/min
       - url: https://github.com/qutebrowser/qutebrowser
       - url: https://github.com/getstation/desktop-app
+      - url: https://github.com/ysalitrynskyi/stedding-browser
+        description: Arc-style Chromium browser with Spaces, pinned tabs and folders
   - name: Communication
     subcategories:
       - name: Collaboration
