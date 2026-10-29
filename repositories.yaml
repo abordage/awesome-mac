@@ -598,6 +598,8 @@ categories:
             description: Free and fair-code mac app cleaner
           - url: https://github.com/yagcioglutoprak/dusty
             description: Free, open-source macOS menu bar cleaner.
+          - url: https://github.com/HaiTrung-Workspace/tidymint
+            description: Free, open-source Mac cleaner that only moves files to the Trash, with Undo.
           - url: https://github.com/exelban/stats
           - url: https://github.com/gao-sun/eul
             description: macOS status monitoring app in SwiftUI
