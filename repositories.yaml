@@ -333,6 +333,8 @@ categories:
           - url: https://github.com/soimort/you-get
       - name: Network Analysis
         repos:
+          - url: https://github.com/seifip/kilobat-cli
+            description: "macOS network diagnostics CLI with an interactive monitor, JSON output, and a local MCP server."
           - url: https://github.com/GyulyVGC/sniffnet
           - url: https://github.com/RockxyApp/Tracexy
             description: Native, local-first network intelligence for macOS
