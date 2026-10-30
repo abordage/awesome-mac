@@ -290,6 +290,8 @@ categories:
             description: macOS VM GUI for Apple Silicon
           - url: https://github.com/hashicorp/vagrant
             description: Tool for building development environments
+          - url: https://github.com/MacHatter1/ContainerDesk
+            description: "Native SwiftUI workspace for Apple's container runtime."
   - name: File Management
     subcategories:
       - name: File Managers
