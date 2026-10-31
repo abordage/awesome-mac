@@ -566,6 +566,8 @@ categories:
             description: Claude Code and Codex quota with burn-rate in the menu bar
           - url: https://github.com/18565882223-beep/fieldhop-macos
             description: Local-first OTP relay from Messages or email to the correct field on macOS.
+          - url: https://github.com/ateymoori/lyricglow
+            description: Synced Spotify and Apple Music lyrics in the menu bar, with translation into 43 languages.
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
