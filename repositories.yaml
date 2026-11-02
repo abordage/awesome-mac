@@ -71,6 +71,8 @@ categories:
           - url: https://github.com/pear-devs/pear-desktop
           - url: https://github.com/popcorntime/popcorntime
             description: All-in-one streaming media player
+          - url: https://github.com/ixiehao/ShotMap
+            description: "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export."
   - name: Browsers
     repos:
       - url: https://github.com/brave/brave-browser
