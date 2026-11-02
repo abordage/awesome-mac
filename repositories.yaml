@@ -12,6 +12,8 @@ categories:
           - url: https://github.com/mltframework/shotcut
           - url: https://github.com/cartesiancs/nugget-app
             description: Video editor with motion effects and layered editing
+          - url: https://github.com/ixiehao/MP4Flow
+            description: "Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging."
       - name: Players
         repos:
           - url: https://github.com/losnoco/cog
