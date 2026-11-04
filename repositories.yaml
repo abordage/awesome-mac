@@ -45,7 +45,6 @@ categories:
           - url: https://github.com/sindresorhus/caprine
           - url: https://github.com/overtake/TelegramSwift
           - url: https://github.com/Codeux-Software/Textual
-      - name: Email Clients
   - name: Design & Graphics
     subcategories:
       - name: Design Tools
@@ -232,7 +231,6 @@ categories:
             description: Native local-only clipboard history manager for macOS
           - url: https://github.com/nathan-poncet/whisk
             description: Paste-style clipboard manager with pins, search operators and rich previews
-      - name: Task Management
       - name: Translation
         repos:
           - url: https://github.com/tisfeng/Easydict
