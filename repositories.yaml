@@ -308,9 +308,9 @@ categories:
       - name: Developer Utilities
         repos:
           - url: https://github.com/benord-labs/frink
-            description: Desktop-first app for parallel agents and triggered multi-step workflows
+            description: Desktop app for parallel agents and triggered multi-step workflows
           - url: https://github.com/nuanu-ai/agent-payment-node
-            description: Local CLI and stdio MCP payment runtime for AI agents on Apple Silicon macOS, with x402 support and foreground owner approval.
+            description: x402 payments for Apple Silicon agents, owner approves
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
           - url: https://github.com/apoorvdarshan/browser-cookie-bridge
@@ -333,7 +333,7 @@ categories:
           - url: https://github.com/okwasniewski/MiniSim
             description: Menu bar app for iOS and Android simulators
           - url: https://github.com/ateymoori/oh-my-android
-            description: Control panel for the Android Emulator with one-click toggles and an MCP server
+            description: macOS panel for the Android Emulator and an MCP server
           - url: https://github.com/XcodesOrg/XcodesApp
             description: Install and switch Xcode versions easily
           - url: https://github.com/MarcoEidinger/XCSnippetsApp
@@ -473,9 +473,10 @@ categories:
           - url: https://github.com/nohajc/anylinuxfs
             description: Mount Linux filesystems on macOS via NFS
           - url: https://github.com/adileo/squirreldisk
+            description: Sunburst of what fills a Mac, a server, or cloud storage
           - url: https://github.com/RobinNaumann/disko
           - url: https://github.com/NeoPanic/Glim
-            description: "macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace."
+            description: "macOS viewer for Markdown, PDF, images, JSON, CSV and source code"
           - url: https://github.com/2ndalpha/gasmask
             description: "Hosts file manager for macOS"
           - url: https://github.com/insidegui/AssetCatalogTinkerer
@@ -692,7 +693,7 @@ categories:
           - url: https://github.com/hukdoesn/Nimclip
             description: Native local-only clipboard history manager for macOS
           - url: https://github.com/nathan-poncet/whisk
-            description: Paste-style clipboard manager with pins, search operators and rich previews
+            description: Clipboard manager with pins, search operators and rich previews
           - url: https://github.com/abue-ammar/tinycast
             description: "Tinycast - a tiny, fully native macOS launcher, hotkeys, and"
           - url: https://github.com/nickustinov/itsypad-macos
@@ -1026,7 +1027,7 @@ categories:
           - url: https://github.com/glinford/dns-easy-switcher
           - url: https://github.com/johnste/finicky
           - url: https://github.com/Silvertree2010/ApolloShell
-            description: Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre
+            description: macOS shell with a dock, launcher, dashboard and controls
       - name: Menu Bar
         repos:
           - url: https://github.com/Mortennn/Dozer
@@ -1062,7 +1063,7 @@ categories:
           - url: https://github.com/18565882223-beep/fieldhop-macos
             description: Local-first OTP relay from Messages or email to the correct field on macOS.
           - url: https://github.com/ateymoori/lyricglow
-            description: Synced Spotify and Apple Music lyrics in the menu bar, with translation into 43 languages.
+            description: Menu bar lyrics for Spotify and Apple Music, with translation
           - url: https://github.com/vorssaint/vorssaint-utils
             description: "Free and open-source macOS menu bar toolkit"
           - url: https://github.com/matryer/xbar
@@ -1668,7 +1669,7 @@ categories:
       - name: System Utilities
         repos:
           - url: https://github.com/tamia6/AppDuo
-            description: Native macOS app cloner with custom names, icons, and separate data directories.
+            description: Clones a macOS app with its own name, icon and data directory
           - url: https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring
             description: Battery charge limiter
           - url: https://github.com/ThatGuySam/doesitarm
@@ -2366,7 +2367,7 @@ categories:
       - url: https://github.com/finestructure/Hummingbird
       - url: https://github.com/FelixKratz/JankyBorders
       - url: https://github.com/tumingke0/LayoutKeeper
-        description: Restores window positions and Spaces when an external monitor is reconnected
+        description: Restores window positions when an external display reconnects
       - url: https://github.com/MrKai77/Loop
       - url: https://github.com/Geckos-Ink/MakeItHome
       - url: https://github.com/rxhanson/Rectangle
