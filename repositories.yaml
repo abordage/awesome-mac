@@ -1082,6 +1082,8 @@ categories:
             description: "Stop juggling AI accounts. Quotio is a beautiful native macOS"
           - url: https://github.com/hamed-elfayome/Claude-Usage-Tracker
             description: "Native macOS menu bar app for tracking Claude"
+          - url: https://github.com/jomonkj/claude-accounts
+            description: "Menu bar app to switch the Claude desktop app between accounts"
           - url: https://github.com/automazeio/vibeproxy
             description: "Native macOS menu bar app to use your Claude Code & ChatGPT"
           - url: https://github.com/vinzdg/codenotch
