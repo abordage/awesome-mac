@@ -17,6 +17,8 @@ categories:
             description: "The missing YouTube and YouTube Music macOS app"
           - url: https://github.com/kushalpandya/Petrichor
             description: "An offline macOS music player"
+          - url: https://github.com/Yvsleyen00941/Needle
+            description: "Now Playing album cover and title in the corner beside the Dock"
           - url: https://github.com/missuo/kumone
             description: "A native music player for macOS and iOS, built with SwiftUI"
           - url: https://github.com/niltsh/MPlayerX
