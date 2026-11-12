@@ -1032,6 +1032,8 @@ categories:
             description: macOS shell with a dock, launcher, dashboard and controls
       - name: Menu Bar
         repos:
+          - url: https://github.com/Yvsleyen00941/Cockpit
+            description: "Unified daily productivity heads-up display for macOS"
           - url: https://github.com/Mortennn/Dozer
           - url: https://github.com/dwarvesf/hidden
             description: Ultra-light utility to hide menu bar icons
@@ -1053,6 +1055,8 @@ categories:
           - url: https://github.com/jazzyalex/stargazer-bar
             description: Track one public GitHub repo's stars and release downloads from the menu bar.
           - url: https://github.com/swiftbar/SwiftBar
+          - url: https://github.com/Yvsleyen00941/Tape
+            description: "Stock ticker in the empty corner beside the Dock"
           - url: https://github.com/ivoronin/TomatoBar
           - url: https://github.com/lihaoyun6/Logoer
             description: Change the style of the Apple logo in macOS menu bar
