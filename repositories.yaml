@@ -780,6 +780,8 @@ categories:
             description: "A simple macOS app to preview animations created with"
           - url: https://github.com/Brkgng/ZapPDF
             description: "A lightweight, fully local-first PDF toolkit for macOS/iPhone/iPad"
+          - url: https://github.com/Yvsleyen00941/Rime
+            description: "Minimalist macOS PDF reader with frosted-ice distraction-free focus"
           - url: https://github.com/PatpateePhangern/ZenTime
             description: "A calm, minimal macOS exam timer with per-question time"
       - name: Note-taking
