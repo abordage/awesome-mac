@@ -678,6 +678,8 @@ categories:
             description: Make any mouse better on macOS
           - url: https://github.com/Caldis/Mos
             description: Smooth scrolling and scroll direction for mouse
+          - url: https://github.com/AntonMazur/SmoothWheel
+            description: "Smooth mouse-wheel scrolling with adjustable speed and per-app exclusions."
           - url: https://github.com/asmvik/skhd
           - url: https://github.com/khrykin/StrategrDesktop
           - url: https://github.com/WINBIGFOX/TimeScribe
