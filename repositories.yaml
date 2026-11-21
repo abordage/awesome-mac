@@ -68,6 +68,8 @@ categories:
           - url: https://github.com/sonoramac/Sonora
           - url: https://github.com/ixiehao/ShotMap
             description: "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export."
+          - url: https://github.com/deeplabua/deepshrink
+            description: "Compress video or audio to fit a size limit (Discord, email, Telegram) in one command. Local Rust CLI over ffmpeg"
   - name: Communication
     subcategories:
 
