@@ -140,6 +140,8 @@ categories:
             description: Run Stable Diffusion natively on Mac
           - url: https://github.com/netdcy/FlowVision
             description: Waterfall-style image viewer for macOS
+          - url: https://github.com/ixiehao/Any2WebP
+            description: "Batch convert images to WebP or GIF and create animations from stills or video clips."
           - url: https://github.com/ImageOptim/ImageOptim
           - url: https://github.com/kyleduo/TinyPNG4Mac
           - url: https://github.com/gee1k/uPic
