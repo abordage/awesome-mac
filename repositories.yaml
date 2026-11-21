@@ -581,6 +581,8 @@ categories:
             description: "Self-hosted photo backup for Mac - syncs your Photos library to a"
           - url: https://github.com/superhumancorp/r2drop
             description: "R2 is a MacOS app the allows you to conveniently upload files to"
+          - url: https://github.com/deeplabua/deepocr
+            description: "Make scanned PDFs and images searchable: adds an invisible text layer, locally. Pure-Rust CLI, no Ghostscript or Python"
   - name: Gaming
     repos:
       - url: https://github.com/OpenEmu/OpenEmu
