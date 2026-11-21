@@ -395,6 +395,8 @@ categories:
             description: "Native macOS (AppKit) app for Claude Code, Codex, Cursor, Grok"
           - url: https://github.com/makalin/OpenAnyway
             description: "Minimal macOS utility for opening unsigned or quarantined"
+          - url: https://github.com/deeplabua/deepdoc
+            description: "Convert any document to clean Markdown in one command. Pure-Rust static binary, no JVM, Python or cloud"
       - name: Version Control
         repos:
           - url: https://github.com/Shikkic/gitbar
