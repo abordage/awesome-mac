@@ -1624,6 +1624,8 @@ categories:
             description: Mac App Store command-line interface
           - url: https://github.com/momenbasel/PureMac
             description: "Free, open-source macOS cleaner. CleanMyMac alternative with"
+          - url: https://github.com/ixiehao/ezNTFS
+            description: "Mount external NTFS drives for read and write access with macFUSE and NTFS-3G."
           - url: https://github.com/ntfstool/ntfstool
             description: "Free, open-source NTFS read-write for macOS, built on Apple"
           - url: https://github.com/blitzdotdev/blitz-mac
