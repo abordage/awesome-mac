@@ -315,6 +315,8 @@ categories:
         repos:
           - url: https://github.com/benord-labs/frink
             description: Desktop app for parallel agents and triggered multi-step workflows
+          - url: https://github.com/hAcKlyc/MyAgents
+            description: "Desktop workspace for running AI agents with different runtimes and scheduling recurring tasks."
           - url: https://github.com/nuanu-ai/agent-payment-node
             description: x402 payments for Apple Silicon agents, owner approves
           - url: https://github.com/Ducksss/codex-profiles
