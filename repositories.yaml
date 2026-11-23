@@ -7,7 +7,7 @@ categories:
       - name: Editors
         repos:
           - url: https://github.com/ixiehao/MP4Flow
-            description: "Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging."
+            description: "Native FFmpeg front end for converting, trimming, and merging video"
       - name: Players
         repos:
           - url: https://github.com/losnoco/cog
@@ -67,9 +67,9 @@ categories:
           - url: https://github.com/wulkano/Plug
           - url: https://github.com/sonoramac/Sonora
           - url: https://github.com/ixiehao/ShotMap
-            description: "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export."
+            description: "Turn videos into storyboard images with smart frame selection"
           - url: https://github.com/deeplabua/deepshrink
-            description: "Compress video or audio to fit a size limit (Discord, email, Telegram) in one command. Local Rust CLI over ffmpeg"
+            description: "Compress video or audio to a size limit in one command"
   - name: Communication
     subcategories:
 
@@ -133,7 +133,7 @@ categories:
           - url: https://github.com/abynim/UserFlows
           - url: https://github.com/sindresorhus/System-Color-Picker
           - url: https://github.com/royalpinto007/boardeject
-            description: "Open-source macOS utility for exporting Apple Freeform selections to editable Excalidraw and creating verified local archives."
+            description: "Export Apple Freeform selections to editable Excalidraw files"
       - name: Image Tools
         repos:
           - url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
@@ -143,14 +143,14 @@ categories:
           - url: https://github.com/netdcy/FlowVision
             description: Waterfall-style image viewer for macOS
           - url: https://github.com/ixiehao/Any2WebP
-            description: "Batch convert images to WebP or GIF and create animations from stills or video clips."
+            description: "Batch-convert images to WebP or GIF and animate stills or clips"
           - url: https://github.com/ImageOptim/ImageOptim
           - url: https://github.com/kyleduo/TinyPNG4Mac
           - url: https://github.com/gee1k/uPic
           - url: https://github.com/joshlin2201/itspaint
             description: MS Paint for the Mac with screenshot markup and pixel-art tools
           - url: https://github.com/ixiehao/LumaView
-            description: "Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs."
+            description: "Native image viewer for folders, EXIF, and multipage PDFs"
           - url: https://github.com/chrissimpkins/Crunch
             description: "Insane(ly slow but wicked good) PNG image optimization"
           - url: https://github.com/superhighfives/pika
@@ -316,13 +316,13 @@ categories:
           - url: https://github.com/benord-labs/frink
             description: Desktop app for parallel agents and triggered multi-step workflows
           - url: https://github.com/hAcKlyc/MyAgents
-            description: "Desktop workspace for running AI agents with different runtimes and scheduling recurring tasks."
+            description: "Desktop workspace for AI agents, runtimes, and scheduled tasks"
           - url: https://github.com/nuanu-ai/agent-payment-node
             description: x402 payments for Apple Silicon agents, owner approves
           - url: https://github.com/Ducksss/codex-profiles
             description: Manage named Codex homes and separate ChatGPT windows
           - url: https://github.com/apoorvdarshan/browser-cookie-bridge
-            description: Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS.
+            description: "Move signed-in Chromium sessions to ChatGPT Codex"
           - url: https://github.com/isaced/CubicBezier
           - url: https://github.com/hschmidt/EnvPane
           - url: https://github.com/onmyway133/FinderGo
@@ -400,7 +400,7 @@ categories:
           - url: https://github.com/makalin/OpenAnyway
             description: "Minimal macOS utility for opening unsigned or quarantined"
           - url: https://github.com/deeplabua/deepdoc
-            description: "Convert any document to clean Markdown in one command. Pure-Rust static binary, no JVM, Python or cloud"
+            description: "Convert any document to clean Markdown in one command"
       - name: Version Control
         repos:
           - url: https://github.com/Shikkic/gitbar
@@ -588,7 +588,7 @@ categories:
           - url: https://github.com/superhumancorp/r2drop
             description: "R2 is a MacOS app the allows you to conveniently upload files to"
           - url: https://github.com/deeplabua/deepocr
-            description: "Make scanned PDFs and images searchable: adds an invisible text layer, locally. Pure-Rust CLI, no Ghostscript or Python"
+            description: "Make scanned PDFs and images searchable: adds an invisible text layer"
   - name: Gaming
     repos:
       - url: https://github.com/OpenEmu/OpenEmu
@@ -652,7 +652,7 @@ categories:
       - name: Network Analysis
         repos:
           - url: https://github.com/seifip/kilobat-cli
-            description: "macOS network diagnostics CLI with an interactive monitor, JSON output, and a local MCP server."
+            description: "macOS network diagnostics CLI with an interactive monitor"
           - url: https://github.com/RockxyApp/Tracexy
             description: Native, local-first network intelligence for macOS
       - name: Proxy & VPN
@@ -689,7 +689,7 @@ categories:
           - url: https://github.com/Caldis/Mos
             description: Smooth scrolling and scroll direction for mouse
           - url: https://github.com/AntonMazur/SmoothWheel
-            description: "Smooth mouse-wheel scrolling with adjustable speed and per-app exclusions."
+            description: "Smooth mouse-wheel scrolling with adjustable speed"
           - url: https://github.com/asmvik/skhd
           - url: https://github.com/khrykin/StrategrDesktop
           - url: https://github.com/WINBIGFOX/TimeScribe
@@ -1635,7 +1635,7 @@ categories:
           - url: https://github.com/momenbasel/PureMac
             description: "Free, open-source macOS cleaner. CleanMyMac alternative with"
           - url: https://github.com/ixiehao/ezNTFS
-            description: "Mount external NTFS drives for read and write access with macFUSE and NTFS-3G."
+            description: "Mount external NTFS drives for read and write access"
           - url: https://github.com/ntfstool/ntfstool
             description: "Free, open-source NTFS read-write for macOS, built on Apple"
           - url: https://github.com/blitzdotdev/blitz-mac
@@ -1705,7 +1705,7 @@ categories:
           - url: https://github.com/brianmichel/Juice
           - url: https://github.com/newmarcel/KeepingYouAwake
           - url: https://github.com/apoorvdarshan/macbook-24x7-agents
-            description: Keep a MacBook running AI agents with the lid closed and display off.
+            description: "Keep a MacBook running AI agents with the lid closed"
           - url: https://github.com/BigBerny/magicquit
             description: Auto-quit unused apps for focus
           - url: https://github.com/alienator88/Pearcleaner
@@ -1713,7 +1713,7 @@ categories:
           - url: https://github.com/yagcioglutoprak/dusty
             description: Free, open-source macOS menu bar cleaner.
           - url: https://github.com/HaiTrung-Workspace/tidymint
-            description: Free, open-source Mac cleaner that only moves files to the Trash, with Undo.
+            description: "Mac cleaner that only moves files to the Trash"
           - url: https://github.com/exelban/stats
           - url: https://github.com/gao-sun/eul
             description: macOS status monitoring app in SwiftUI
@@ -1959,7 +1959,7 @@ categories:
           - url: https://github.com/NullPointerDepressiveDisorder/MiddleDrag
             description: "Three-finger trackpad gestures for"
           - url: https://github.com/wilu222/tripleclick
-            description: "Three-finger trackpad click as middle click, with optional middle-drag."
+            description: "Three-finger trackpad click as middle click"
           - url: https://github.com/trey-a-12/LaunchBack
             description: "A free and open-source re-implementation of the macOS Launchpad"
           - url: https://github.com/Licoy/StrokeMouse
