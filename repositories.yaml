@@ -2420,6 +2420,8 @@ categories:
         description: "A native, customizable menu bar for macOS, with themes, widgets"
       - url: https://github.com/xcv58/ShortcutCycle
         description: "Cycle apps by group, instantly"
+      - url: https://github.com/zshnb/open-contexts
+        description: "Switch individual windows on macOS with search, a persistent app bar, and saved window groups."
 
   - name: Browsers
     repos:
