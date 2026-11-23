@@ -72,7 +72,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 ### Editors
 
-- [ixiehao/MP4Flow](https://github.com/ixiehao/MP4Flow) — Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging. ☆`17`
+- [ixiehao/MP4Flow](https://github.com/ixiehao/MP4Flow) — Native FFmpeg front end for converting, trimming, and merging video ☆`17`
 ### Players
 
 - [iina/iina](https://github.com/iina/iina) — The modern video player for macOS. ☆`47,236`
@@ -219,7 +219,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) — Inspect the system pasteboards on macOS ☆`866`
 - [getappbox/AppBox-iOSAppsWirelessInstallation](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) — AppBox is a tool for iOS developers to ☆`697`
 - [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) — Agent! now supports macOS 14.6 or later, Apple Silicon and Intel ☆`657`
-- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) — Desktop workspace for running AI agents with different runtimes and scheduling recurring tasks. ☆`596`
+- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) — Desktop workspace for AI agents, runtimes, and scheduled tasks ☆`596`
 - [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) — Drive a real, stock iPhone (and any macOS app) from any MCP ☆`406`
 - [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) — A premium macOS DMG creation tool with live-rendered SwiftUI ☆`350`
 - [Stmol/ssh-keys-manager-macos-app](https://github.com/Stmol/ssh-keys-manager-macos-app) — A native macOS app for managing SSH keys, editing ☆`261`
@@ -704,7 +704,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [ryleighnewman/InputConfig](https://github.com/ryleighnewman/InputConfig) — Free, open-source controller mapper for Mac. Map any game ☆`191`
 - [momenbasel/pesty](https://github.com/momenbasel/pesty) — Free, open-source clipboard manager for macOS a native Paste app ☆`185`
 - [marcelrgberger/auto-brew](https://github.com/marcelrgberger/auto-brew) — Native macOS app for Homebrew: background auto-updates, a ☆`101`
-- [ixiehao/ezNTFS](https://github.com/ixiehao/ezNTFS) — Mount external NTFS drives for read and write access with macFUSE and NTFS-3G. ☆`65`
+- [ixiehao/ezNTFS](https://github.com/ixiehao/ezNTFS) — Mount external NTFS drives for read and write access ☆`65`
 - [jizhi0v0/duo-updater](https://github.com/jizhi0v0/duo-updater) — Keeps macOS apps up to date through each app's own release ☆`38`
 ### QuickLook Plugins
 
@@ -1027,58 +1027,58 @@ macOS software and tools from the open-source community. This awesome list is au
 
 ## 50 recently updated
 
-> Projects updated recently that have not yet reached the star threshold, sorted by GitHub stars.
+> Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
 
+1. [Round-Tower/M1K3](https://github.com/Round-Tower/M1K3) — Local, offline AI for your Machine. Punk intelligence - no data ☆`6`
+1. [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) — macOS network diagnostics CLI with an interactive monitor ☆`6`
 1. [BitmatchApp/Bitmatch](https://github.com/BitmatchApp/Bitmatch) — Free, open-source camera-card backups. Copy to multiple drives ☆`15`
-1. [QuentinCar0n/multiclaude](https://github.com/QuentinCar0n/multiclaude) — Run several Claude desktop accounts side by side on one Mac ☆`15`
-1. [melissa-pereira-deel/home-rec](https://github.com/melissa-pereira-deel/home-rec) — Capture whatever your Mac is playing as a lossless WAV ☆`15`
-1. [gshipman223/IconCraft](https://github.com/gshipman223/IconCraft) — Give any Mac app the name and icon you already know. The app ☆`15`
-1. [Yvsleyen00941/Cockpit](https://github.com/Yvsleyen00941/Cockpit) — Unified daily productivity heads-up display for macOS ☆`15`
-1. [bryanmanio/ballast](https://github.com/bryanmanio/ballast) — macOS menu bar app for Docker containers on a Synology NAS ☆`15`
-1. [adamorad/csv-quick-look](https://github.com/adamorad/csv-quick-look) — macOS QuickLook extension for CSV & TSV files - virtual ☆`15`
-1. [Zer0codestuff/OpenNaga](https://github.com/Zer0codestuff/OpenNaga) — Free, open-source Razer Synapse alternative for the Naga V2 ☆`15`
-1. [michalstrnadel/AgentBar](https://github.com/michalstrnadel/AgentBar) — Approve your AI coding agents' permission prompts from the ☆`15`
-1. [davidpraznik/Konverter](https://github.com/davidpraznik/Konverter) — macOS menu bar file converter and image optimizer. Shift-drag ☆`15`
-1. [nbonamy/trax](https://github.com/nbonamy/trax) — macOS Music management application written in Flutter ☆`15`
-1. [justadityaraj/folderglass](https://github.com/justadityaraj/folderglass) — Folderglass: press Space on a folder in Finder to see its ☆`15`
-1. [1989v/muxbar](https://github.com/1989v/muxbar) — Native macOS menu bar app - tmux session manager, Keep Awake / closed-lid ☆`15`
-1. [albertofettucini/Engram](https://github.com/albertofettucini/Engram) — One shared memory for all your AIs - a local-first, native ☆`15`
-1. [jedijashwa/pullmark](https://github.com/jedijashwa/pullmark) — Native macOS Markdown viewer and rendered-diff reviewer for ☆`15`
-1. [sarthak-SyntaxSamurai/FrogDrop](https://github.com/sarthak-SyntaxSamurai/FrogDrop) — A beautiful, lightweight 3-in-1 macOS Menu Bar ☆`15`
-1. [yangzichao/JustSessions](https://github.com/yangzichao/JustSessions) — Native macOS app to find, read, and resume Claude Code, Codex ☆`14`
-1. [Malik1942/CalmMouse](https://github.com/Malik1942/CalmMouse) — Magic Mouse UX fixes for macOS - stop the page scrolling every time ☆`14`
-1. [ramazanberkozbek/kaskas](https://github.com/ramazanberkozbek/kaskas) — A free, open source break reminder and focus tracker for ☆`14`
-1. [Dbhardwaj99/Quest-For-Duskara](https://github.com/Dbhardwaj99/Quest-For-Duskara) — A macOS island strategy game built with SwiftUI ☆`14`
-1. [ibrolord/clipboard-router](https://github.com/ibrolord/clipboard-router) — Open-source native macOS clipboard workspace for searchable ☆`14`
-1. [efim0v/brow](https://github.com/efim0v/brow) — Claude Code usage limits in the MacBook notch, and workspaces for parallel ☆`14`
-1. [Ljove02/AIT-AiTranscribe-MacOS](https://github.com/Ljove02/AIT-AiTranscribe-MacOS) — Offline macOS menu bar app for speech-to-text ☆`14`
-1. [maxmilian/markout](https://github.com/maxmilian/markout) — A modern, native macOS Markdown editor for Apple Silicon - the ☆`14`
-1. [DPatrikI/voleq-community](https://github.com/DPatrikI/voleq-community) — VolEq - Volume Equilibrium. Lightweight automatic ☆`14`
-1. [TREAFREE/Metrune](https://github.com/TREAFREE/Metrune) — Local-first Mac notch workspace for Focus, Codex, GitHub, music ☆`14`
+1. [Shuail135/CamiTune](https://github.com/Shuail135/CamiTune) — A native macOS app for tuning system audio. Powered by CamillaDSP ☆`5`
+1. [alfital2/FlicKey](https://github.com/alfital2/FlicKey) — Fix wrong-keyboard-layout typing on macOS. Auto-detects, converts ☆`10`
 1. [wzz6423/zisla](https://github.com/wzz6423/zisla) — Native macOS top workspace for media, files, system tools, and ☆`13`
-1. [ixiehao/LumaView](https://github.com/ixiehao/LumaView) — Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs. ☆`13`
+1. [vitaly-kashtalyan/vocula](https://github.com/vitaly-kashtalyan/vocula) — Local dictation for macOS. Hold a key, speak, and the ☆`6`
+1. [wilu222/tripleclick](https://github.com/wilu222/tripleclick) — Three-finger trackpad click as middle click ☆`7`
+1. [AntonMazur/SmoothWheel](https://github.com/AntonMazur/SmoothWheel) — Smooth mouse-wheel scrolling with adjustable speed ☆`7`
+1. [ixiehao/ShotMap](https://github.com/ixiehao/ShotMap) — Turn videos into storyboard images with smart frame selection ☆`11`
+1. [ixiehao/Any2WebP](https://github.com/ixiehao/Any2WebP) — Batch-convert images to WebP or GIF and animate stills or clips ☆`3`
+1. [chengffei/leaf](https://github.com/chengffei/leaf) — Read like a Kindle on your Mac. Open-source EPUB, MOBI and AZW3 reader ☆`8`
+1. [HaiTrung-Workspace/tidymint](https://github.com/HaiTrung-Workspace/tidymint) — Mac cleaner that only moves files to the Trash ☆`9`
+1. [fratayaydn/nightkeys](https://github.com/fratayaydn/nightkeys) — Turns the MacBook keyboard backlight on only when you type on the ☆`6`
+1. [a692570/bolo](https://github.com/a692570/bolo) — Voice dictation for macOS, powered by Telnyx AI. Hold Right Option ☆`9`
+1. [QuentinCar0n/multiclaude](https://github.com/QuentinCar0n/multiclaude) — Run several Claude desktop accounts side by side on one Mac ☆`15`
+1. [maxthegray/Perch](https://github.com/maxthegray/Perch) — A free, open-source drag-and-drop shelf for macOS ☆`5`
+1. [yangzichao/JustSessions](https://github.com/yangzichao/JustSessions) — Native macOS app to find, read, and resume Claude Code, Codex ☆`14`
+1. [Xiye88/NotchMuse](https://github.com/Xiye88/NotchMuse) — NotchMuse v0.8.0: synced macOS lyrics for Spotify, Apple Music ☆`10`
+1. [zjy4fun/HotkeyLauncher](https://github.com/zjy4fun/HotkeyLauncher) — Native macOS hotkey launcher built with SwiftUI, AppKit, and ☆`11`
+1. [jedbrnth-eng/rave-live](https://github.com/jedbrnth-eng/rave-live) — Festival light show for your Mac that locks to the beat of ☆`6`
+1. [Anubhavdxt/scrap](https://github.com/Anubhavdxt/scrap) — Free, open-source, keyboard-first scratchpad for macOS ☆`5`
+1. [ixiehao/LumaView](https://github.com/ixiehao/LumaView) — Native image viewer for folders, EXIF, and multipage PDFs ☆`13`
+1. [fexxdev/Mystral](https://github.com/fexxdev/Mystral) — A native macOS menu bar app for controlling fan curves on Apple ☆`11`
+1. [wata/AudioAnchor](https://github.com/wata/AudioAnchor) — A Mac menu bar app that keeps your sound output anchored to the device ☆`9`
+1. [xw-meow/mie-iconner](https://github.com/xw-meow/mie-iconner) — A cozy macOS app that turns folder icons into stickers - browse ☆`7`
+1. [sown-oss/MemStats](https://github.com/sown-oss/MemStats) — A lightweight macOS menu bar app focused on memory monitoring for ☆`11`
+1. [Malik1942/CalmMouse](https://github.com/Malik1942/CalmMouse) — Magic Mouse UX fixes for macOS - stop the page scrolling every time ☆`14`
 1. [christofilojohn/MacPercept](https://github.com/christofilojohn/MacPercept) — A Mac OS menu bar utility that runs on-device Computer ☆`13`
 1. [murlexander/louppe-media-culler](https://github.com/murlexander/louppe-media-culler) — Free, open-source photo viewer and sorter for Mac ☆`13`
-1. [FinchGram/FinchGram](https://github.com/FinchGram/FinchGram) — An unofficial, open-source Telegram desktop client with ☆`13`
-1. [taimansulimani/topkit](https://github.com/taimansulimani/topkit) — macOS menu bar app: copy and paste, present and annotate, record ☆`13`
-1. [nejcar20/yowl](https://github.com/nejcar20/yowl) — Yowl - a free, open-source MacBook theft alarm. Unplug it, close the lid ☆`13`
-1. [kushalBanda/OpusBar](https://github.com/kushalBanda/OpusBar) — A macOS menu bar app for Claude Code and Codex sessions: see which ☆`13`
-1. [op7418/AM-Native](https://github.com/op7418/AM-Native) — Native macOS settings for the Angry Miao AM Infinity .97 - battery ☆`13`
-1. [Thesimpleex/steno](https://github.com/Thesimpleex/steno) — Free, open-source dictation and meeting notes for macOS. Hold a key ☆`13`
-1. [davidpraznik/Archivator](https://github.com/davidpraznik/Archivator) — macOS menu bar archive tool. Hold Option while dragging files ☆`13`
-1. [kageroumado/dantrolene](https://github.com/kageroumado/dantrolene) — A macOS menu bar utility that automatically prevents screen ☆`13`
-1. [RoyZhao1991/LingShu](https://github.com/RoyZhao1991/LingShu) — Apache-2.0, model-agnostic macOS agent: bring your own model to ☆`13`
-1. [StulkovLD/Voicely](https://github.com/StulkovLD/Voicely) — Free, open-source offline dictation and transcription for macOS ☆`13`
-1. [ruspg/markdown-quicklook](https://github.com/ruspg/markdown-quicklook) — Quick Look preview for Markdown files on macOS + menu bar ☆`13`
-1. [marks-zyz/NoMicSwitch](https://github.com/marks-zyz/NoMicSwitch) — Never let AirPods hijack your Mac's microphone: pins the default ☆`13`
 1. [saihgupr/SmartClipboard](https://github.com/saihgupr/SmartClipboard) — A modern, native macOS menu bar clipboard manager built with ☆`12`
+1. [ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups) — Free & open-source macOS menu bar app: put apps and ☆`11`
 1. [OrtexIsArtem/vortex](https://github.com/OrtexIsArtem/vortex) — Free, open-source notch app for Mac: a focus timer, clipboard ☆`12`
+1. [UmarSiddiqui/heymate](https://github.com/UmarSiddiqui/heymate) — Free, open-source AI assistant for macOS. Talk about your screen ☆`9`
+1. [deeplabua/deepshrink](https://github.com/deeplabua/deepshrink) — Compress video or audio to a size limit in one command ☆`3`
+1. [jordan-cod/pullo](https://github.com/jordan-cod/pullo) — Your GitHub pull requests and Actions in the MacBook notch ☆`5`
+1. [ramazanberkozbek/kaskas](https://github.com/ramazanberkozbek/kaskas) — A free, open source break reminder and focus tracker for ☆`14`
+1. [MaquinaTech/Vauta](https://github.com/MaquinaTech/Vauta) — Free, open-source AI meeting notes for Mac: transcribes any call and ☆`9`
+1. [leeleelee3264/spyhop](https://github.com/leeleelee3264/spyhop) — Every AI coding session on one board, each with its own progress ☆`11`
+1. [sudoHG/AskKey](https://github.com/sudoHG/AskKey) — Ask Key: the Mac key manager for AI agents. API keys stay encrypted on ☆`10`
+1. [melissa-pereira-deel/home-rec](https://github.com/melissa-pereira-deel/home-rec) — Capture whatever your Mac is playing as a lossless WAV ☆`15`
+1. [jettoai/tally](https://github.com/jettoai/tally) — Free, open-source macOS menu bar app showing AI usage limits (5-hour ☆`10`
+1. [tobymarks/inlaut](https://github.com/tobymarks/inlaut) — Free, open-source macOS menu bar dictation that never leaves your Mac ☆`7`
 1. [teconomix/local-transcriber](https://github.com/teconomix/local-transcriber) — Transcribe meetings, calls and dictation locally on your ☆`12`
+1. [gshipman223/IconCraft](https://github.com/gshipman223/IconCraft) — Give any Mac app the name and icon you already know. The app ☆`15`
+1. [roypadina/SmartHiddenBar](https://github.com/roypadina/SmartHiddenBar) — Hide, list and open macOS 27 menu bar items - a Hidden Bar ☆`8`
 1. [yuraist/just-md](https://github.com/yuraist/just-md) — Native macOS minimalist markdown editor ☆`12`
-1. [YusufEmreYazici/Centik](https://github.com/YusufEmreYazici/Centik) — Your MacBook notch, finally useful. Music, live system stats, AI ☆`12`
-1. [dotcomjack/nocturne](https://github.com/dotcomjack/nocturne) — macOS gives every menu bar icon a hide toggle except the clock ☆`12`
-1. [brentc22/stash](https://github.com/brentc22/stash) — Free, open source menu bar hider for macOS 27, built on the ☆`12`
-1. [sameerbajaj/MacYT](https://github.com/sameerbajaj/MacYT) — Native macOS SwiftUI GUI and wrapper for yt-dlp and FFmpeg ☆`12`
+1. [Yvsleyen00941/Needle](https://github.com/Yvsleyen00941/Needle) — Now Playing album cover and title in the corner beside the Dock ☆`4`
+1. [Yvsleyen00941/Rime](https://github.com/Yvsleyen00941/Rime) — Minimalist macOS PDF reader with frosted-ice distraction-free focus ☆`4`
+1. [Yvsleyen00941/Tape](https://github.com/Yvsleyen00941/Tape) — Stock ticker in the empty corner beside the Dock ☆`7`
 
 
 
