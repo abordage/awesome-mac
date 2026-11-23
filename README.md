@@ -1025,9 +1025,9 @@ macOS software and tools from the open-source community. This awesome list is au
 
 ---
 
-## 50 recently updated
+## 🌱 50 rising
 
-> Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
+> Updated in the last two months, and still under the star threshold. Newest first.
 
 1. [Round-Tower/M1K3](https://github.com/Round-Tower/M1K3) — Local, offline AI for your Machine. Punk intelligence - no data ☆`6`
 1. [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) — macOS network diagnostics CLI with an interactive monitor ☆`6`
