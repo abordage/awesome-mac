@@ -26,13 +26,13 @@ categories:
           - url: https://github.com/jo32/tvbox-silicon
             description: "Yingxia: a native SwiftUI TVBox player for Apple TV, iPhone, iPad"
           - url: https://github.com/rvarunrathod/HiFidelity
-            description: "A native macOS offline audiophile music player build with"
+            description: "Native macOS audiophile player using BASS and TagLib"
           - url: https://github.com/emoRaivis/MacMorpheus
             description: "3D 180/360 video player for macOS and PSVR"
           - url: https://github.com/ad-repo/nullplayer
-            description: "nullPlayer is a free open source macOS media player with some"
+            description: "Free open-source media player for macOS"
           - url: https://github.com/bilipp/Lume
-            description: "A modern, native IPTV player for Apple platforms. Browse, search, and"
+            description: "Native IPTV player for Xtream Codes and M3U playlists"
           - url: https://github.com/shirkeharsh/mooziac
             description: "Native YouTube & YouTube Music player for Mac (macOS)"
           - url: https://github.com/wandercn/fmusic
@@ -83,9 +83,9 @@ categories:
           - url: https://github.com/overtake/TelegramSwift
           - url: https://github.com/Codeux-Software/Textual
           - url: https://github.com/Arthur-Ficial/apfel
-            description: "The free AI already on your Mac. CLI tool, OpenAI-compatible"
+            description: "On-device Apple Intelligence chat, with no API key"
           - url: https://github.com/johnbean393/Sidekick
-            description: "A native macOS app that allows users to chat with a local LLM"
+            description: "Chat with a local model that can read files on your Mac"
           - url: https://github.com/SwiftcordApp/Swiftcord
             description: "A fully native Discord client for macOS built 100% in Swift!"
           - url: https://github.com/freestylefly/WeChatBridge
@@ -97,7 +97,7 @@ categories:
           - url: https://github.com/alexrozanski/LlamaChat
             description: "Chat with your favourite LLaMA models in a native macOS app"
           - url: https://github.com/awizemann/scarf
-            description: "Native macOS and iOS App for the Hermes AI agent - multi-window"
+            description: "Multi-window Mac and iOS client for the Hermes agent"
           - url: https://github.com/chattymin/PokeTokenBar
             description: "Use your tokens to raise, evolve, and collect Pok mon!"
           - url: https://github.com/adium/adium
@@ -107,23 +107,23 @@ categories:
           - url: https://github.com/tigase/beagle-im
             description: "XMPP client for macOS based on TigaseSwift XMPP library"
           - url: https://github.com/glaurent/MessagesHistoryBrowser
-            description: "a macOS/OSX app to comfortably browse and search"
+            description: "Browse and search your Messages history"
           - url: https://github.com/GigaDuckAI/conduck
-            description: "Open-source native Apple client for the AI you choose - iPhone"
+            description: "Native Apple client for the AI you choose, on iPhone, iPad, and Mac"
           - url: https://github.com/sozercan/ayna
             description: "Agentic AI chat client for macOS, iOS, and watchOS, built with SwiftUI"
           - url: https://github.com/taikun114/Mocolamma
-            description: "Unofficial Ollama manager app for macOS, iOS, iPadOS, and"
+            description: "Unofficial Ollama manager for macOS, iOS, iPadOS, and visionOS"
           - url: https://github.com/tobymarks/esp32-ai-monitor
             description: "Desk display for Claude, ChatGPT, Gemini, Copilot, Cursor"
           - url: https://github.com/stoyan-stoyanov/wavefunction
-            description: "Open-source desktop coding agent for macOS. Use any"
+            description: "Desktop coding agent for local models or your own keys"
           - url: https://github.com/gbrasil720/sorcerer
             description: "Simulate communities of AI agents around a \"what if ?\" question"
           - url: https://github.com/Meldiron/meraline
             description: "Ask AI anything from Space in any Mac app, then let it go. Apple"
           - url: https://github.com/qiwei66/sesame
-            description: "Stop digging through chats. Find anything Claude Code & Codex made for"
+            description: "Ask for files and answers that Claude Code and Codex produced"
   - name: Design & Graphics
     subcategories:
       - name: Design Tools
@@ -172,13 +172,13 @@ categories:
           - url: https://github.com/swiftDialog/swiftDialog
             description: "Create user-notifications on macOS with swiftDialog"
           - url: https://github.com/lindegroup/autopkgr
-            description: "AutoPkgr is a free Mac app that makes it easy to install and"
+            description: "Free Mac app to install and configure AutoPkg"
           - url: https://github.com/robaho/seashore
             description: "easy to use mac osx image editing application for the rest of us"
           - url: https://github.com/hjuutilainen/sus-inspector
             description: "Inspect Apple software update service"
           - url: https://github.com/pdcgomes/redlamp
-            description: "A native, open-source RAW photo editor for Mac, iPad and iPhone that"
+            description: "Native RAW photo editor for Mac, iPad, and iPhone"
           - url: https://github.com/SecondSonConsulting/Baseline
             description: "An MDM agnostic zero touch solution for macOS"
           - url: https://github.com/macadmins/escrow-buddy
@@ -194,7 +194,7 @@ categories:
           - url: https://github.com/raphaelhanneken/icnscomposer
             description: "Create retina icons for macOS"
           - url: https://github.com/henrywang/Berthly
-            description: "A native macOS app for managing Apple's container - build images"
+            description: "Build images, run machines, and read logs for Apple containers"
           - url: https://github.com/edinabazi/Kompakt
             description: "A kompakt macOS app to compress images and videos instantly"
           - url: https://github.com/Ender-Wang/Swifka
@@ -204,9 +204,9 @@ categories:
           - url: https://github.com/Xpycode/CropBatch
             description: "A macOS application to crop images in batch"
           - url: https://github.com/gwenn-ha-dev/Siliconed
-            description: "Native macOS app for local AI image generation and editing on"
+            description: "Local image generation and editing on Apple silicon"
           - url: https://github.com/viktorkpkn/ImageCanvas
-            description: "ImageCanvas is a native macOS visual reference board for"
+            description: "Native macOS board for arranging local images on a canvas"
           - url: https://github.com/yueseqaz/SakuraWallpaper
             description: "A lightweight macOS video wallpaper app (open-source)/ macOS"
           - url: https://github.com/murlexander/louppe-media-culler
@@ -233,7 +233,7 @@ categories:
           - url: https://github.com/jsattler/BetterCapture
             description: "The macOS screen recorder for the rest of us - always free"
           - url: https://github.com/lzhgus/Capso
-            description: "Open-source screenshot and screen recording for macOS. The free"
+            description: "Free native screenshot and screen recorder for macOS"
           - url: https://github.com/mileswd/mac2imgur
             description: "A simple Mac app designed to make uploading images and screenshots"
           - url: https://github.com/Brkgng/ScrollSnap
@@ -247,7 +247,7 @@ categories:
           - url: https://github.com/OMARVII/Shotnix
             description: "Free, open-source screenshot tool, screen recorder, and video editor"
           - url: https://github.com/metedata/Remarc
-            description: "Your feedback layer for AI collaboration. Point at anything on your"
+            description: "Point at the screen and an agent resolves the comment"
           - url: https://github.com/instance01/mac-screenshot-tracker
             description: "Screenshot Tracker for Mac - Rewatch what you've"
           - url: https://github.com/m0ztop/Screenshoss
@@ -283,9 +283,9 @@ categories:
           - url: https://github.com/brunophilipe/Noto
             description: "Noto is a beautiful and simple plain text editor for macOS written"
           - url: https://github.com/arietan/lite-edit
-            description: "A lightweight, fast code editor for macOS - built with Swift and"
+            description: "Lightweight native code editor for macOS"
           - url: https://github.com/CodingFriends/Tincta
-            description: "Tincta is a one-window text editor for macOS with focus on"
+            description: "One-window text editor for macOS, built for speed"
           - url: https://github.com/mikker/Fst
             description: "A fast, minimal native macOS text editor"
           - url: https://github.com/fwdai/fletch
@@ -304,13 +304,13 @@ categories:
           - url: https://github.com/sequelpro/sequelpro
             description: "MySQL/MariaDB database management for macOS"
           - url: https://github.com/TableProApp/TablePro
-            description: "Free and open source database client built natively for"
+            description: "Native database client for macOS, Linux, and iPad"
           - url: https://github.com/jpadilla/redisapp
             description: "The easiest way to get started with Redis on the Mac"
           - url: https://github.com/midagedev/gadak
             description: "Your Jira and Confluence, mirrored into one local SQLite file - macOS"
           - url: https://github.com/berry-apps/berrydb-desktop
-            description: "Open-source (Apache 2.0) macOS database client in Swift &"
+            description: "Mac database client for Postgres, MySQL, SQLite, and Redis"
       - name: Developer Utilities
         repos:
           - url: https://github.com/benord-labs/frink
@@ -360,9 +360,9 @@ categories:
           - url: https://github.com/jeffhodnett/Unused
             description: "A Mac app for checking Xcode projects for unused resources"
           - url: https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation
-            description: "AppBox is a tool for iOS developers to"
+            description: "Deploy iOS builds to devices via Dropbox"
           - url: https://github.com/AgentiLoop/Agent
-            description: "Agent! now supports macOS 14.6 or later, Apple Silicon and Intel"
+            description: "Mac AI agent that drives apps through Accessibility"
           - url: https://github.com/zqqf16/SYM
             description: "A crash log symbolicating Mac app |"
           - url: https://github.com/saihgupr/DMGMaker
@@ -372,15 +372,15 @@ categories:
           - url: https://github.com/Stmol/ssh-keys-manager-macos-app
             description: "A native macOS app for managing SSH keys, editing"
           - url: https://github.com/DigiDNA/ColorSet
-            description: "ColorSet is a macOS utility and framework allowing developers to"
+            description: "macOS utility for managing custom interface colors"
           - url: https://github.com/nuance-dev/medio
             description: "A minimal free macOS realtime diff checker app"
           - url: https://github.com/starcat-app/Starcat
-            description: "A native macOS app that turns GitHub Stars into a searchable"
+            description: "Turn GitHub stars into a searchable knowledge base"
           - url: https://github.com/bow-swift/nef-plugin
             description: "an Xcode extension to use nef features easily"
           - url: https://github.com/liamrosenfeld/Iconology
-            description: "Easily import, modify, and export icons (for Xcode and more)"
+            description: "Import, edit, and export icons, including for Xcode"
           - url: https://github.com/AlexTkDev/MacOSCleaner
             description: "Free zero-telemetry CleanMyMac alternative for macOS"
           - url: https://github.com/e7711bbear/Localizations
@@ -390,9 +390,9 @@ categories:
           - url: https://github.com/britchie4/Loupe
             description: "macOS accessibility inspector for AI-agent workflows. Hover"
           - url: https://github.com/denzam/SystemEQ-for-Mac
-            description: "System-wide parametric equalizer for macOS 13+ with AutoEQ"
+            description: "System-wide equalizer for macOS, with AutoEQ profiles"
           - url: https://github.com/e7711bbear/Assets
-            description: "macOS app that manages assets for your development projects (Xcode"
+            description: "Manage project assets for Xcode and the web"
           - url: https://github.com/DreamOfXM/diskwise
             description: "Free, open-source CleanMyMac alternative for macOS. Native SwiftUI"
           - url: https://github.com/apoorvdarshan/coincide
@@ -423,25 +423,25 @@ categories:
           - url: https://github.com/Commit-Plus/commit-plus
             description: "The Git client macOS deserves. Commit+ is a fast, native Git"
           - url: https://github.com/dufu1991/foldgit
-            description: "A native, lightweight Git client for macOS. Manage repositories and"
+            description: "Native Git client for repositories, diffs, and commits"
           - url: https://github.com/eonist/GitSync
             description: "A minimalistic Git client for Mac"
           - url: https://github.com/remirobert/Github-contributions
-            description: "cat: GitHub contributions app, for iOS, WatchOS, and"
+            description: "GitHub contribution graph for iOS, watchOS, and macOS"
           - url: https://github.com/marcinreliga/TeamStatus-for-GitHub
             description: "A macOS application for tracking code review process"
           - url: https://github.com/pungme/superagent-desktop
-            description: "Free, open-source Mac app for Claude Code, Codex and"
+            description: "Mac app for Claude Code and Codex, plus an iPhone app"
           - url: https://github.com/maoyama/GitBlamePR
-            description: "Mac app that shows pull request last modified each line of a file"
+            description: "Show the pull request that last changed each line"
           - url: https://github.com/klein-t/teebe
             description: "Native macOS git worktree manager and GUI. See every worktree in one"
           - url: https://github.com/aka-kika/reshelf
-            description: "A local-first macOS app to catalog, organize, and clone the"
+            description: "Catalog and clone the open-source repos you use, on your Mac"
           - url: https://github.com/erik/github-notify
             description: "Simple MacOS app to alert you when you have unread GitHub"
           - url: https://github.com/mtgto/GPM
-            description: "macOS application for easily operating GitHub Projects (HEAVY LIMITATION"
+            description: "Mac app for operating GitHub Projects"
           - url: https://github.com/BetaYao/seahelm
             description: "A native macOS workspace for coding agents - every git worktree a row"
       - name: Virtualization
@@ -461,13 +461,13 @@ categories:
           - url: https://github.com/swiftvm-app/swiftvm
             description: "Native macOS app for running virtual machines"
           - url: https://github.com/nico81/iContainer
-            description: "A native macOS app to manage Apple Container workloads, built with"
+            description: "Native macOS app for Apple Container workloads"
           - url: https://github.com/sembsa/ContainerDesktop
             description: "Native macOS GUI for Apple's container CLI - Docker"
           - url: https://github.com/erdaltoprak/ContainerUtility
             description: "A macOS app for the container CLI"
           - url: https://github.com/getgantry/gantry
-            description: "Native macOS app for managing and monitoring Docker - local and over"
+            description: "Manage local and remote Docker from a native Mac app"
   - name: File Management
     subcategories:
       - name: File Managers
@@ -490,7 +490,7 @@ categories:
           - url: https://github.com/2ndalpha/gasmask
             description: "Hosts file manager for macOS"
           - url: https://github.com/insidegui/AssetCatalogTinkerer
-            description: "An app that lets you open .car files and"
+            description: "Open .car files and browse or extract their images"
           - url: https://github.com/jithin-sabu/purge-app
             description: "Free up your Mac. Safely. A free, open-source native Mac app"
           - url: https://github.com/sarensw/MacPacker
@@ -498,7 +498,7 @@ categories:
           - url: https://github.com/sozercan/OpenInCode
             description: "macOS Finder toolbar app to open current folder in Visual Studio"
           - url: https://github.com/gostonx/uninstally
-            description: "A clean, native macOS uninstaller. Completely removes apps and"
+            description: "Remove a Mac app and the files it leaves behind"
           - url: https://github.com/zeusinsight/FinderSearch
             description: "A native macOS file browser with fast fuzzy filename search"
           - url: https://github.com/shaojiankui/ProfilesManager
@@ -508,7 +508,7 @@ categories:
           - url: https://github.com/heyderekj/dinky
             description: "Dinky makes files smaller"
           - url: https://github.com/Mortennn/FiScript
-            description: "Execute custom scripts from the MacOS context menu (CTRL+click) in"
+            description: "Run your own scripts from the Finder context menu"
           - url: https://github.com/lexrus/SwiftyMenu
             description: "The missing Finder menu for your daily ease"
           - url: https://github.com/InjoyDeng/ResignTool
@@ -522,15 +522,15 @@ categories:
           - url: https://github.com/rana-gmbh/FileFluss
             description: "Handle files easily across cloud storage providers and your local"
           - url: https://github.com/iHongRen/configEditor
-            description: "A macOS config file manager that lets you quickly view, edit"
+            description: "View and edit config files such as .zshrc and .gitconfig"
           - url: https://github.com/Lcharvol/MacSift
             description: "Transparent macOS disk cleaner - groups files by app, moves to Trash"
           - url: https://github.com/cristipufu/strata-files
-            description: "Strata Files: a fast, native, keyboard-first file manager and"
+            description: "Keyboard-first file manager and Finder alternative"
           - url: https://github.com/ivg-design/SidebarFavorites
-            description: "Add custom folders to macOS Finder sidebar Favorites with"
+            description: "Add folders to the Finder sidebar with custom icons"
           - url: https://github.com/Manan-Santoki/OpenShelf
-            description: "Free, open-source Mac utility: start dragging any file, tap a"
+            description: "Drag a file, tap a key, and drop it on a wheel of actions"
           - url: https://github.com/RoadToDream/SzContext
             description: "Add context menu to macOS Finder"
           - url: https://github.com/powerwolf543/DuplicateFinder
@@ -540,9 +540,9 @@ categories:
           - url: https://github.com/gergelysanta/PhotoMiner
             description: "Photo finder application for macOS"
           - url: https://github.com/phalladar/MacDirStat
-            description: "Free, open-source disk space analyzer for macOS, inspired by"
+            description: "Disk-usage map for macOS, in the style of WinDirStat"
           - url: https://github.com/KeplSiv/FolderForge
-            description: "Open-source macOS folder customization with presets, rules, and"
+            description: "Restyle macOS folders with presets, including subfolders"
           - url: https://github.com/ololx/quick-symlink
             description: "Quick Symlink is a Finder extension, which allows to quickly"
           - url: https://github.com/gentpan/LiteZip
@@ -556,9 +556,9 @@ categories:
           - url: https://github.com/sane-apps/SaneClick
             description: "Finder context menu automation for macOS. Run scripts on selected"
           - url: https://github.com/gahntpo/CSVEditor
-            description: "Shows how to make a macOS app that opens and edits CSV files. It is"
+            description: "A SwiftUI sample that opens and edits CSV files"
           - url: https://github.com/Funnyrz/ClickMate
-            description: "ClickMate is a native macOS Finder context-menu enhancer built with"
+            description: "Adds a configurable submenu of file actions to Finder"
           - url: https://github.com/MR-TABATA/MrEditor
             description: "86,420,337 lines - a 10 GB log - open in 80 ms, and 0 bytes of it"
           - url: https://github.com/scaccogatto/nastro
@@ -566,9 +566,9 @@ categories:
           - url: https://github.com/cypriennkeneng/depflush
             description: "Free, open-source Mac app that finds what Docker, nodemodules"
           - url: https://github.com/jonathanlotan/Swivel
-            description: "Free, open-source, offline file converter for macOS: drag files"
+            description: "Offline file converter: drag a file onto a radial menu"
           - url: https://github.com/sane-apps/SaneHosts
-            description: "Modern, profile-based hosts file manager for macOS. Block ads"
+            description: "Hosts-file manager to block ads and trackers"
           - url: https://github.com/StulkovLD/Voicely
             description: "Free, open-source offline dictation and transcription for macOS"
           - url: https://github.com/bcourbage/unison-ui-mac
@@ -578,15 +578,15 @@ categories:
           - url: https://github.com/Berliner187/Golosok
             description: "Free Wispr Flow & Superwhisper alternative. Native macOS voice"
           - url: https://github.com/stealthdev-labs/disksage
-            description: "The open-source macOS disk cleaner that knows what's safe to"
+            description: "Mac disk cleaner that shows what is safe to delete"
           - url: https://github.com/xw-meow/mie-iconner
             description: "A cozy macOS app that turns folder icons into stickers - browse"
           - url: https://github.com/maxthegray/Perch
             description: "A free, open-source drag-and-drop shelf for macOS"
           - url: https://github.com/moontechs/files-nest
-            description: "Self-hosted photo backup for Mac - syncs your Photos library to a"
+            description: "Sync a Mac Photos library to a server you run"
           - url: https://github.com/superhumancorp/r2drop
-            description: "R2 is a MacOS app the allows you to conveniently upload files to"
+            description: "Upload files to Cloudflare R2 from a Mac app"
           - url: https://github.com/deeplabua/deepocr
             description: "Make scanned PDFs and images searchable: adds an invisible text layer"
   - name: Gaming
@@ -596,9 +596,9 @@ categories:
       - url: https://github.com/LNPANDY/NX2Apple
         description: "Play your own Switch games on iPhone/iPad - one-click macOS app"
       - url: https://github.com/widelands/widelands
-        description: "Widelands is a free, open source real-time strategy game with"
+        description: "Free real-time strategy game inspired by The Settlers II"
       - url: https://github.com/burakgon/stop-stutter
-        description: "Smoother game streaming on Mac. Automatic AWDL boost for"
+        description: "Smoother Mac game streaming by boosting AWDL automatically"
       - url: https://github.com/amiantos/lifesaver
         description: "Conway's Game of Life implemented as an artistic, abstract macOS"
       - url: https://github.com/BCD1210/soju
@@ -614,19 +614,19 @@ categories:
           - url: https://github.com/apoorvdarshan/hash-harbor
             description: Local torrent streamer and downloader with a native engine and browser interface
           - url: https://github.com/ninxsoft/Mist
-            description: "A Mac utility that automatically downloads macOS Firmwares /"
+            description: "Download macOS installers and firmware automatically"
           - url: https://github.com/Sitoi/ClashBar
             description: "macOS SwiftUI + AppKit mihomo"
           - url: https://github.com/pixel-point/media-downloader
-            description: "Beautiful native macOS video downloader. Download and"
+            description: "Native Mac app to download and trim video"
           - url: https://github.com/grahampugh/erase-install
-            description: "A script that automates downloading macOS installers, and"
+            description: "Download a macOS installer, then erase or upgrade in one run"
           - url: https://github.com/thsnkhn/harbor
-            description: "Beautiful native macOS download manager for direct links, magnets, and"
+            description: "Mac download manager for links, magnets, and torrents"
           - url: https://github.com/teologov/ReqRes
             description: "Modern Web Debugging Proxy for macOS"
           - url: https://github.com/Astrofrogger/pluck
-            description: "A native macOS app for yt-dlp, with Spotify support and"
+            description: "Native macOS app for yt-dlp, with Spotify support"
           - url: https://github.com/GeiserX/VPN-Bypass
             description: "macOS menu-bar app for fine-grained VPN routing: bypass the VPN"
           - url: https://github.com/Pjirlip/Pillager
@@ -634,21 +634,21 @@ categories:
           - url: https://github.com/TheDynamicPunk/Convoy
             description: "A native download manager for macOS"
           - url: https://github.com/eliorpom-cmd/to-be-downloaded
-            description: "A native macOS downloader built on yt-dlp. Paste a link"
+            description: "yt-dlp downloader: paste a link and get the file"
           - url: https://github.com/dotcomjack/grux
-            description: "Grux AI: open source AI agent for macOS (MIT). One Command Panel for"
+            description: "Free local AI agent for your Mac, with undo for its shell"
           - url: https://github.com/chenmozhe008/shandian-download
             description: "macOS SwiftUI / / ed2k HTTP YouTube PikPak Gopeed"
           - url: https://github.com/jyps1090013-stack/MediaFetch
             description: "A modern macOS GUI for downloading online videos"
           - url: https://github.com/conrader/plainsay
-            description: "Native Mac dictation in a 12 MB download. Free Local mode with"
+            description: "Native Mac dictation in a 12 MB download"
           - url: https://github.com/NongKnot/StayUp
             description: "Free, open-source Mac menu-bar Duck that keeps your Mac awake - local"
           - url: https://github.com/sameerbajaj/MacYT
             description: "Native macOS SwiftUI GUI and wrapper for yt-dlp and FFmpeg"
           - url: https://github.com/KeepCoolCH/DockAMP
-            description: "DockAMP is a Docker image with a responsive web interface to manage"
+            description: "Mac app and web UI for Apache, PHP, and database containers"
       - name: Network Analysis
         repos:
           - url: https://github.com/seifip/kilobat-cli
@@ -674,7 +674,7 @@ categories:
           - url: https://github.com/bitwize-ai/Logue
             description: "A local-first workspace for documents, tasks and meetings on macOS"
           - url: https://github.com/UmarSiddiqui/heymate
-            description: "Free, open-source AI assistant for macOS. Talk about your screen"
+            description: "Talk about your screen and get spoken step-by-step guidance"
           - url: https://github.com/thamaraiselvam/TaskNxt
             description: "A free, native menu-bar-only to-do app for macOS - Now, Nxt, Ltr"
       - name: Automation
@@ -709,7 +709,7 @@ categories:
           - url: https://github.com/nathan-poncet/whisk
             description: Clipboard manager with pins, search operators and rich previews
           - url: https://github.com/abue-ammar/tinycast
-            description: "Tinycast - a tiny, fully native macOS launcher, hotkeys, and"
+            description: "Native macOS launcher, fast and open source"
           - url: https://github.com/nickustinov/itsypad-macos
             description: "A tiny, fast scratchpad and clipboard manager for Mac"
           - url: https://github.com/s1ntoneli/Copi
@@ -735,9 +735,9 @@ categories:
           - url: https://github.com/misswell/MacPilot
             description: "All-in-one macOS menu-bar toolbox: smart screenshots & OCR, screen"
           - url: https://github.com/wavever/Clipth
-            description: "An elegant and powerful clipboard manager designed specifically for"
+            description: "Clipboard history manager for macOS"
           - url: https://github.com/The-PatientZero/yank
-            description: "Fast, private, free and open-source clipboard manager for Mac and"
+            description: "Private clipboard manager for Mac and iPhone, with OCR and tags"
           - url: https://github.com/jolleyDesign/clipfield
             description: "A beautiful (and useful) open source clipboard manager for macOS"
           - url: https://github.com/michaelh03/ClipAi
@@ -755,7 +755,7 @@ categories:
           - url: https://github.com/RAKKUNN/DualClip
             description: "A lightweight macOS app for multi-slot clipboard management"
           - url: https://github.com/weselski/copywheel
-            description: "Native macOS pie menu for your text snippets - press a hotkey, a"
+            description: "Hotkey pie menu that pastes your text snippets"
           - url: https://github.com/Lorder19/kurenai
             description: "Clipboard history for the Mac with saved lists and a paste queue. Free"
           - url: https://github.com/ypankovych/clipward
@@ -765,7 +765,7 @@ categories:
           - url: https://github.com/tisfeng/Easydict
             description: Dictionary and translator for macOS
           - url: https://github.com/igorkulman/iOSLocalizationEditor
-            description: "Simple macOS editor app to help you manage iOS and"
+            description: "Edit iOS and macOS translations side by side"
           - url: https://github.com/Xuanwo/cida
             description: "Mac Translate and polish text anywhere on your Mac"
           - url: https://github.com/hcmhcs/screenTranslate
@@ -789,7 +789,7 @@ categories:
           - url: https://github.com/ssamadgh/WWDCsrt
             description: "WWDC.srt is a powerful app for downloading subtitles in (srt) format"
           - url: https://github.com/insidegui/KeyframesPlayer
-            description: "A simple macOS app to preview animations created with"
+            description: "Preview Facebook Keyframes animations on macOS"
           - url: https://github.com/Brkgng/ZapPDF
             description: "A lightweight, fully local-first PDF toolkit for macOS/iPhone/iPad"
           - url: https://github.com/Yvsleyen00941/Rime
@@ -815,7 +815,7 @@ categories:
           - url: https://github.com/aimen08/noty
             description: "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI"
           - url: https://github.com/h3pdesign/Neon-Vision-Editor
-            description: "A native Swift editor for Code and Markdown across"
+            description: "Native editor for code and Markdown on Apple platforms"
           - url: https://github.com/JuliusBrussee/revu-swift
             description: "Local-first macOS study app with FSRS review, decks, study"
           - url: https://github.com/Ender-Wang/EdgeMark
@@ -823,23 +823,23 @@ categories:
           - url: https://github.com/I7T5/Edmund
             description: "A native, lightweight macOS markdown editor with inline live preview"
           - url: https://github.com/insidegui/NoteTaker
-            description: "A simple note taking app for macOS and iOS which uses Realm and"
+            description: "Notes for macOS and iOS, synced with Realm and CloudKit"
           - url: https://github.com/juinwei7/Shiyin
-            description: "Free, open-source meeting notes app for Mac: records Zoom, Meet and"
+            description: "Meeting notes for Mac, transcribed on device, with no bot"
           - url: https://github.com/migsilva89/imark
-            description: "Native Markdown reader for macOS. Keep it open while you write and"
+            description: "Markdown reader that follows saves and stores comments in the file"
           - url: https://github.com/ariso-ai/oats
             description: "The free, open-source meeting-notes app for your Mac - offline"
           - url: https://github.com/jamiedavenport/capd
-            description: "Private, native macOS app to capture pages, text, notes, links"
+            description: "Capture pages, notes, and images, then search them locally"
           - url: https://github.com/AlexW00/Zettel
             description: "Zettel - Quick Notes for iOS/macOS"
           - url: https://github.com/alkalim/Knopo
-            description: "A native macOS outliner for structured thinking, local-first notes, and"
+            description: "Native macOS outliner for local notes and Markdown"
           - url: https://github.com/Zer0codestuff/Rapid-Reader
-            description: "Free, open-source native macOS speed reader. RSVP for EPUB"
+            description: "Speed reader for EPUB, PDF, DOCX, and web articles"
           - url: https://github.com/pinto-notes/pinto-notes
-            description: "Notes for iPhone and Mac that ChatGPT, Claude, Claude Code and"
+            description: "Notes that ChatGPT, Claude, and Codex can read and edit"
           - url: https://github.com/gentpan/LiteMD
             description: "macOS Markdown 20 .md"
           - url: https://github.com/tancheng33/tingo
@@ -849,11 +849,11 @@ categories:
           - url: https://github.com/Digisensus/digisensus-recorder
             description: "Free, open source call recorder and bot-free AI meeting"
           - url: https://github.com/jedijashwa/pullmark
-            description: "Native macOS Markdown viewer and rendered-diff reviewer for"
+            description: "Markdown viewer and rendered diff for GitHub documentation"
           - url: https://github.com/maxmilian/markout
-            description: "A modern, native macOS Markdown editor for Apple Silicon - the"
+            description: "Native Markdown editor for Apple Silicon"
           - url: https://github.com/Thesimpleex/steno
-            description: "Free, open-source dictation and meeting notes for macOS. Hold a key"
+            description: "Hold a key and dictate locally into the cursor"
           - url: https://github.com/akopulko/notra
             description: "Notra - Markdown Notes for MacOS and iOS"
           - url: https://github.com/Azilone/Loam.md
@@ -865,9 +865,9 @@ categories:
           - url: https://github.com/mikagosz/NoteM
             description: "Native macOS notes app that stores every note as a plain folder on disk"
           - url: https://github.com/MaquinaTech/Vauta
-            description: "Free, open-source AI meeting notes for Mac: transcribes any call and"
+            description: "AI meeting notes on your Mac, with no bot and no cloud"
           - url: https://github.com/timurverevkin/Vasa
-            description: "Local-first infinite canvas for macOS - notes, images, links, audio"
+            description: "Infinite canvas for notes, images, links, and audio"
       - name: Research
         repos:
           - url: https://github.com/vishaltelangre/bindPDF
@@ -895,7 +895,7 @@ categories:
           - url: https://github.com/iharshitmaurya/HeyMac
             description: "Your face is the password. Face unlock for your Mac's lock"
           - url: https://github.com/pkhorenyan/termstead
-            description: "Native SSH client for macOS: a MobaXterm alternative with a"
+            description: "Native SSH client for macOS, with jump hosts and SFTP"
           - url: https://github.com/dalirnet/mactokio
             description: "Your smartphone authenticator app, now on your Mac"
       - name: System Security
@@ -933,7 +933,7 @@ categories:
           - url: https://github.com/jonnyoo/glance
             description: "Glance: Face Unlock for Mac"
           - url: https://github.com/yuzeguitarist/Deck
-            description: "Deck is a modern, native, privacy-first clipboard manager for"
+            description: "Privacy-first clipboard manager for macOS"
           - url: https://github.com/macadmins/nudge
             description: "A tool for encouraging the installation of macOS security updates"
           - url: https://github.com/alichtman/stronghold
@@ -953,7 +953,7 @@ categories:
           - url: https://github.com/ClashX-Pro/ClashX
             description: "ClashX is no longer maintained. Please migrate to ClashFX"
           - url: https://github.com/bahattinkoc/ipaverse
-            description: "Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS &"
+            description: "Download, re-sign, and sideload Apple apps without Xcode"
           - url: https://github.com/samirpatil2000/Buffer
             description: "Buffer is a open-source lightweight, privacy-focused clipboard"
           - url: https://github.com/acrogenesis/macchanger
@@ -963,21 +963,21 @@ categories:
           - url: https://github.com/shilch/macchanger
             description: "Change your mac address, for macOS"
           - url: https://github.com/cordwainersmith/Claudoscope
-            description: "native macOS app that gives you a real-time dashboard for"
+            description: "Live dashboard for Claude Code and Cowork sessions"
           - url: https://github.com/sametsazak/mergen
-            description: "Mergen is an open-source, native macOS application for auditing and"
+            description: "Native macOS app for checking the security of your Mac"
           - url: https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
             description: "This framework is for fuzzing OSX kernel"
           - url: https://github.com/Dhahd/ClipPocket
-            description: "ClipPocket - A smart clipboard manager for macOS that saves your"
+            description: "Clipboard history for macOS, with search, pins, and local storage"
           - url: https://github.com/momenbasel/puresnitch
             description: "Free, open-source application firewall for macOS. Little Snitch"
           - url: https://github.com/mkbula/HideMyData
-            description: "Native macOS PII removal software with on device Vision OCR and"
+            description: "Remove personal data from images on your Mac, on device"
           - url: https://github.com/sorkila/lockpaw
             description: "Cover your Mac's screen with a hotkey while AI agents keep running"
           - url: https://github.com/dutkiewiczmaciej/MakLock
-            description: "Free, open-source macOS app that locks applications with"
+            description: "Lock Mac apps with Touch ID, Apple Watch, or trusted Wi-Fi"
           - url: https://github.com/thousandflowers/Raccoon
             description: "macOS companion toolkit for power users"
           - url: https://github.com/djadmin/fort
@@ -985,23 +985,23 @@ categories:
           - url: https://github.com/Lorenzo-Coslado/macos-faceid
             description: "Mugshot - unlock sudo on macOS with your face. Local Face"
           - url: https://github.com/lukebuild/LuxShot
-            description: "Minimalist macOS OCR tool. Open-source, privacy-first, and built"
+            description: "Minimalist OCR for macOS, open source and on device"
           - url: https://github.com/rodionovd/task_vaccine
             description: "Yet another code injection library for macOS"
           - url: https://github.com/craigjbass/clearancekit
-            description: "ClearanceKit intercepts file-system access events on macOS and"
+            description: "Block file access per process on macOS"
           - url: https://github.com/openscanner/XGuardian
             description: "Security Scanner for OSX"
           - url: https://github.com/sonor-studio/Sonor
             description: "Privacy-first, on-device voice intelligence for macOS"
           - url: https://github.com/sane-apps/SaneClip
-            description: "Privacy-first clipboard manager for macOS. Local-only history"
+            description: "Local clipboard history, snippets, and smart paste"
           - url: https://github.com/olivierzol/fob
-            description: "Your Mac as a key fob: SSH keys that live in the Secure Enclave, open"
+            description: "SSH keys in the Secure Enclave, unlocked with one touch"
           - url: https://github.com/shenxianpeng/keelhaven
             description: "Privacy-first backups for your Mac, to storage you own"
           - url: https://github.com/wzz6423/zisla
-            description: "Native macOS top workspace for media, files, system tools, and"
+            description: "macOS workspace for files, media, and local AI activity"
           - url: https://github.com/supergodak/tameo
             description: "Privacy-first, Apple-Silicon-native clipboard manager for macOS"
           - url: https://github.com/htsecurity/sbtfix
@@ -1013,11 +1013,11 @@ categories:
           - url: https://github.com/jankesec/macharden
             description: "Enterprise-Grade macOS Security Hardening, Audit & Baseline Drift"
           - url: https://github.com/lou1s19/Orbly
-            description: "Voice-to-text dictation app for macOS. Hold Fn, speak, the text lands at"
+            description: "Hold Fn, speak, and the text lands at the cursor"
           - url: https://github.com/arpitagarwal1301/wardlume
             description: "Lock your Mac keyboard & mouse, keep the screen visible"
           - url: https://github.com/sane-apps/SaneSales
-            description: "Universal indie sales tracker for LemonSqueezy, Gumroad, and"
+            description: "On-device sales tracker for Lemon Squeezy, Gumroad, and Stripe"
   - name: System Tools
     subcategories:
       - name: Desktop & System
@@ -1107,7 +1107,7 @@ categories:
           - url: https://github.com/automazeio/vibeproxy
             description: "Native macOS menu bar app to use your Claude Code & ChatGPT"
           - url: https://github.com/vinzdg/codenotch
-            description: "A macOS app that pins usage limits from Claude Code, Cursor"
+            description: "Pin Claude Code, Cursor, and Codex limits to the screen edge"
           - url: https://github.com/wxtsky/CodeIsland
             description: "Real-time AI coding agent status panel in your MacBook notch"
           - url: https://github.com/iglance/iGlance
@@ -1125,9 +1125,9 @@ categories:
           - url: https://github.com/alyssaxuu/later
             description: "Save all your Mac apps for later with one click"
           - url: https://github.com/codykrieger/gfxCardStatus
-            description: "gfxCardStatus is an open-source menu bar application that"
+            description: "See and switch the GPU on a dual-GPU MacBook"
           - url: https://github.com/lingyired/status-trio
-            description: "Status Trio - a native macOS app that combines Wi-Fi"
+            description: "Wi-Fi, battery, and volume in one status icon"
           - url: https://github.com/tddworks/ClaudeBar
             description: "A macOS menu bar application that monitors AI coding assistant"
           - url: https://github.com/insidegui/PodcastMenu
@@ -1141,7 +1141,7 @@ categories:
           - url: https://github.com/colinvkim/Radix
             description: "Modern, extremely fast macOS disk space analyzer"
           - url: https://github.com/realskyrin/capcap
-            description: "A lightweight, native macOS screenshot tool that lives in your"
+            description: "Menu-bar screenshots: double-tap Command to capture a region"
           - url: https://github.com/nickustinov/itsyhome-macos
             description: "A native macOS menu bar app for controlling your smart"
           - url: https://github.com/Zesty0wl/mac-performance-monitor
@@ -1149,7 +1149,7 @@ categories:
           - url: https://github.com/notatestuser/ds4-control
             description: "macOS menubar app for fast local DeepSeek V4.1, with 1M"
           - url: https://github.com/Mnpn/Azayaka
-            description: "A small macOS menu bar-residing screen and system audio recorder which"
+            description: "Menu-bar recorder for the screen and system audio"
           - url: https://github.com/bysiber/cleardisk
             description: "Free macOS menu bar app to visualize and clean developer caches"
           - url: https://github.com/insidegui/NoiseBuddy
@@ -1161,13 +1161,13 @@ categories:
           - url: https://github.com/jackson-storm/DynamicNotch
             description: "Turn the MacBook notch into a living system surface"
           - url: https://github.com/rafaelSwi/MenuBarUSB
-            description: "Simple and reliable way to track your USB devices directly in"
+            description: "See connected USB devices in the macOS menu bar"
           - url: https://github.com/DenBeke/YouTube-Downloader-for-macOS
             description: "Simple menu bar app to download YouTube movies"
           - url: https://github.com/alvesjtiago/airpass
             description: "Airpass - status bar Mac app to overcome time constrained WiFi"
           - url: https://github.com/nielsmouthaan/ejectify-macos
-            description: "Ejectify automatically unmounts external volumes when"
+            description: "Unmount disks when the Mac sleeps, remount on wake"
           - url: https://github.com/r-thomson/Nightfall
             description: "A macOS menu bar utility for quickly toggling dark mode, written"
           - url: https://github.com/monuk7735/mew-notch
@@ -1175,13 +1175,13 @@ categories:
           - url: https://github.com/inderdhir/DatWeatherDoe
             description: "Simple menu bar weather app for macOS"
           - url: https://github.com/homielab/mountmate
-            description: "macOS menu bar app to mount, unmount and eject external drives and"
+            description: "Mount and eject drives and network shares from the menu bar"
           - url: https://github.com/franklioxygen/v2s
-            description: "Live bilingual subtitles for any app on macOS. Captures audio"
+            description: "Live bilingual subtitles for any Mac app, transcribed offline"
           - url: https://github.com/byrencheema/airstats
-            description: "A menu bar system monitor for macOS. CPU, memory, GPU, network"
+            description: "Menu-bar monitor for CPU, memory, GPU, and network"
           - url: https://github.com/lifedever/TaskTick
-            description: "A native macOS app for managing scheduled tasks. Built with"
+            description: "Menu-bar app for scheduled tasks and cron scripts"
           - url: https://github.com/mrkai77/DynamicNotchKit
             description: "Seamlessly adapt your macOS app to the notch era"
           - url: https://github.com/AlexPerathoner/SlimHUD
@@ -1195,43 +1195,43 @@ categories:
           - url: https://github.com/turkenh/KubeContext
             description: "Menu Bar App for Managing Kubernetes Contexts on Mac"
           - url: https://github.com/f-is-h/Usage4Claude
-            description: "Monitor all your Claude/Codex usage limits in real-time from your"
+            description: "Claude and Codex usage limits in the macOS menu bar"
           - url: https://github.com/Bunn/PiStats
             description: "macOS app to visualize Pi-hole information"
           - url: https://github.com/ericjypark/codex-island
             description: "CodexIsland - AI usage limits in your MacBook notch"
           - url: https://github.com/Mikeli7666/DuoBar
-            description: "iPhone Duo status bar concept on macOS - Battery, Network, and"
+            description: "Battery, network, and volume in one macOS menu-bar icon"
           - url: https://github.com/Artzainnn/ClaudeUsageBar
             description: "Track your Claude.ai usage right from your Mac menu bar"
           - url: https://github.com/amiantos/pibar
             description: "PiBar for Pi-hole - Manage your Pi-hole(s) from your macOS menu bar!"
           - url: https://github.com/sane-apps/SaneBar
-            description: "The privacy-first menu bar manager for macOS. Now 100% free and"
+            description: "Privacy-first menu bar manager for macOS"
           - url: https://github.com/Yudaotor/lyrimuse
-            description: "Mac lyrics app: word-by-word synced lyrics for Apple Music"
+            description: "Synced lyrics for Apple Music, Spotify, and YouTube Music"
           - url: https://github.com/yonilevy/automute
             description: "A MacOS menu bar app that mutes the sound on headphones disconnect"
           - url: https://github.com/Aayush9029/petal
             description: "Petal is a native macOS menu bar app for fast, local-first audio"
           - url: https://github.com/ThijmenDam/BarTranslate
-            description: "BarTranslate, a handy (free) menu bar translator widget for"
+            description: "Free menu-bar translator for macOS"
           - url: https://github.com/Wunderlandmedia/HotkeyClash
-            description: "Find where your keyboard shortcuts clash. A free"
+            description: "Find where your keyboard shortcuts clash"
           - url: https://github.com/nbolar/PlayStatus
             description: "macOS app that allows the control of Spotify and AppleMusic/iTunes"
           - url: https://github.com/megootronic/Blink
-            description: "A little robot that lives in your menu bar and keeps an eye on your"
+            description: "Menu-bar robot that watches your dev servers and simulators"
           - url: https://github.com/nghialuong/Lidless
-            description: "macOS menu-bar app: keep your Mac running with the lid closed (for"
+            description: "Keep the Mac running with the lid closed, for coding agents"
           - url: https://github.com/nvzqz/Menubar-Colors
             description: "A macOS app for convenient access to the system color panel"
           - url: https://github.com/happy666End/MenuBarHider
             description: "Hide menu bar icons on macOS 27. Two separators, one click"
           - url: https://github.com/stevenselcuk/Pomosh-macOS
-            description: "Pomosh is your next awesome Pomodoro Technique assistant on"
+            description: "Pomodoro timer in the macOS menu bar"
           - url: https://github.com/jcranokc/app-monitor
-            description: "Local-first macOS app usage, storage, cleanup, update, and"
+            description: "See app usage, storage, and what you can uninstall"
           - url: https://github.com/st0012/cctop
             description: "A keyboard-first menubar app to monitor and jump between AI coding"
           - url: https://github.com/nanvon/cc-bar
@@ -1241,21 +1241,21 @@ categories:
           - url: https://github.com/nobbbbby/Alertivity
             description: "System health menubar app with real-time metrics and smart"
           - url: https://github.com/bunnysayzz/AppleAI
-            description: "Apple AI is a lightweight, privacy minded macOS menu bar app that"
+            description: "Menu-bar app that opens ChatGPT, Claude, and other chats"
           - url: https://github.com/marsmay/UsageBoard
             description: "macOS menu bar app for aggregating API usage quotas via plugin"
           - url: https://github.com/ljmng7/MacMix
-            description: "A lightweight macOS menu bar audio mixer with per-app volume, EQ and"
+            description: "Menu-bar mixer with per-app volume, EQ, and multiple outputs"
           - url: https://github.com/tracebar-app/tracebar
             description: "an mtr-like traceroute utility that lives in your MacOS menubar"
           - url: https://github.com/sulemaanhamza/wisp
-            description: "A dead-simple macOS scratchpad. Lives in your menu bar, opens with"
+            description: "Scratchpad in the menu bar that opens with one key"
           - url: https://github.com/aimen08/shotx
             description: "Modern macOS screen capture for the menu bar"
           - url: https://github.com/daniel-sanche/KubeMonitor
-            description: "KubeMonitor is a macOS app that displays information about"
+            description: "Menu-bar view of your active Kubernetes cluster"
           - url: https://github.com/ShiinaLabs/wifi-lens
-            description: "Native open-source network diagnostics app for macOS with"
+            description: "Native macOS Wi-Fi analyzer and network diagnostics"
           - url: https://github.com/offyotto/Core-Monitor
             description: "Open-source Apple Silicon system monitor for macOS"
           - url: https://github.com/crilleengvall/Screenbar
@@ -1271,19 +1271,19 @@ categories:
           - url: https://github.com/vsaravind007/nodeScratchpad
             description: "Evaluate Nodejs Code Snippets From Menubar! :computer"
           - url: https://github.com/rkbhochalya/grayscale-mode
-            description: "A macOS menu bar app that gives you more control over"
+            description: "More control over macOS grayscale from the menu bar"
           - url: https://github.com/pedrovieira/Holeberry
-            description: "A native and modern macOS menu bar app to monitor and control"
+            description: "Menu-bar app to monitor and control Pi-hole"
           - url: https://github.com/jordan-edai/codex-reset-watcher
             description: "Local-first macOS menu bar app for Codex usage limits"
           - url: https://github.com/dennykim123/claude-codex-battery
             description: "macOS menu bar widget showing Claude Code & Codex"
           - url: https://github.com/ihazgithub/TopOff
-            description: "Stop forgetting brew update && brew upgrade. A menu bar app that"
+            description: "Menu-bar reminders and one-click updates for Homebrew"
           - url: https://github.com/cemolcay/ChordDetector
-            description: "A tiny menu bar app detecting the chords of the songs you are"
+            description: "Menu-bar app that detects chords from iTunes or Spotify"
           - url: https://github.com/noahelhadedy/double-shot
-            description: "Keeps your Mac awake. With the lid closed too, and for as"
+            description: "Keep the Mac awake with the lid closed while agents work"
           - url: https://github.com/slawek19926/Vitals
             description: "Native open-source system monitor for macOS - Apple Silicon, SMC"
           - url: https://github.com/barseghyanartur/app-menu
@@ -1297,9 +1297,9 @@ categories:
           - url: https://github.com/mamal72/lyricsify-mac
             description: "A simple Spotify lyrics viewer menu bar app for macOS in Swift 3"
           - url: https://github.com/TadelUnso/mole-widget
-            description: "Lightweight macOS desktop system monitor widget - live CPU"
+            description: "Desktop widget for live CPU, memory, disk, and network"
           - url: https://github.com/plan44/localSites
-            description: "Simple Menu Bar (Status Bar) App for mac OS and simple table app for"
+            description: "List Bonjour websites on the local network from the menu bar"
           - url: https://github.com/vaspike/DevSwitcher2
             description: "Efficient and elegant macOS window switching tool"
           - url: https://github.com/pantafive/fader
@@ -1313,7 +1313,7 @@ categories:
           - url: https://github.com/gentpan/OpenStats
             description: "macOS CPU GPU Swift 6 + SwiftUI"
           - url: https://github.com/josefchen/muster
-            description: "Never keep an agent waiting. A free, open-source Mac menu bar app for"
+            description: "See which coding agent needs you, and answer from the menu bar"
           - url: https://github.com/okooo5km/Prism
             description: "Prism is a SwiftUI menu bar companion that organizes Claude-compatible"
           - url: https://github.com/TY-teo/StayAwake
@@ -1321,29 +1321,29 @@ categories:
           - url: https://github.com/Carstin520/token-remain
             description: "A privacy-first macOS menu bar app for tracking AI coding"
           - url: https://github.com/VGEAREN/Stockbar
-            description: "A lightweight macOS menu bar app for monitoring A-share, Hong Kong"
+            description: "Menu-bar quotes for A-shares, Hong Kong, and US stocks"
           - url: https://github.com/kdcokenny/OpenDictation
             description: "Mac-native dictation that just works - lives in the notch"
           - url: https://github.com/Mason363/Tactile
             description: "A light-weight macOS system wide app for trackpad haptics"
           - url: https://github.com/bornexplorer/OnlineIndicator
-            description: "A macOS menu bar app that replaces the Wi-Fi icon with"
+            description: "Replace the Wi-Fi icon with a status you choose"
           - url: https://github.com/junior-rj/menubar-hide
-            description: "Hide menu bar icons on macOS and show them in a panel below the"
+            description: "Hide menu-bar icons and show them in a panel below"
           - url: https://github.com/nsriram/KubeSwitch
             description: "MacOS Status Bar App to switch between kubernetes contexts"
           - url: https://github.com/snap-sites/SoundMax
-            description: "Free 10-band system EQ for macOS - SoundSource alternative with"
+            description: "Free 10-band system equalizer for macOS"
           - url: https://github.com/Notchly/Notchly
             description: "Lightweight Dynamic Island for macOS with AI coding agent notifications"
           - url: https://github.com/validatedev/Clamper
             description: "The app that \"clamps\" your precious menu bar"
           - url: https://github.com/HolyMayhem/TorrServe-Silicon
-            description: "A native macOS menu bar application for managing the"
+            description: "Start, stop, and update TorrServe from the menu bar"
           - url: https://github.com/theDanButuc/Claude-Usage-Monitor
             description: "A native macOS menu bar app that shows your Claude.ai"
           - url: https://github.com/s3onghyun/bulchimbeon
-            description: "Your Mac's night-watch soldier. Keeps your Mac awake only while"
+            description: "Keep the Mac awake only while AI agents are working"
           - url: https://github.com/can4hou6joeng4/Sonar
             description: "Native iOS & macOS music player built with SwiftUI, with local"
           - url: https://github.com/Kwpolska/DisplayMenu
@@ -1355,17 +1355,17 @@ categories:
           - url: https://github.com/snail007/macstate
             description: "Lightweight macOS menu bar system monitor - CPU usage, CPU"
           - url: https://github.com/yagcioglutoprak/AIQuotaBar
-            description: "Claude, ChatGPT, Cursor & Copilot usage limits in your"
+            description: "Claude, ChatGPT, Cursor, and Copilot limits in the menu bar"
           - url: https://github.com/dvdweyer/KeyMinder
             description: "A simple macOS app that shows keyboard shortcuts of the current app"
           - url: https://github.com/Rydersel/Candela
             description: "Candela protects your displays from OLED burn-in and wear: panel"
           - url: https://github.com/simonsruggi/StockDock
-            description: "Free & open-source macOS menu bar app to track stocks, ETFs"
+            description: "Menu-bar tracker for stocks, ETFs, and crypto"
           - url: https://github.com/niklasravnsborg/HideNotch
             description: "macOS menu bar utility to hide the notch and round screen"
           - url: https://github.com/camguillory/Audio-Priority-Bar
-            description: "A native macOS menu bar app that switches to your"
+            description: "Switch to your preferred headphones and microphone"
           - url: https://github.com/FI-153/QuickNetStats
             description: "A MacOS Menu Bar utility to display rich network informations"
           - url: https://github.com/lovach/Lunavect
@@ -1373,17 +1373,17 @@ categories:
           - url: https://github.com/PerfectoWeb/Belay
             description: "Keeps your Mac awake while your AI agents work. Built-in detection"
           - url: https://github.com/eyadhammouda/pookify
-            description: "A Dynamic Island style notch status indicator for Claude Code on"
+            description: "Notch indicator for Claude Code, in the style of Dynamic Island"
           - url: https://github.com/kelicheng/Simpo
             description: "A macOS menubar app to post status quickly"
           - url: https://github.com/dropper-devs/dropper
             description: "Drop a file on your Mac's menu bar, get a beautiful share page"
           - url: https://github.com/ivg-design/web-watcher
-            description: "A lightweight macOS menu bar utility that monitors websites for"
+            description: "Watch websites for changes and get a notification"
           - url: https://github.com/stevemcqueenz/claude-notch-tracker
-            description: "Live Claude, Codex, Antigravity, DeepSeek and"
+            description: "AI usage limits shown in the Mac notch"
           - url: https://github.com/frostbar/frost
-            description: "A free, open-source menu bar manager for macOS 26 and 27, built with"
+            description: "Free menu-bar manager for macOS 26 and 27"
           - url: https://github.com/reg2005/langSwitcher
             description: "Open-source keyboard layout text converter for macOS - fix text"
           - url: https://github.com/woofwoofinc/rktmachine
@@ -1395,19 +1395,19 @@ categories:
           - url: https://github.com/niyamvora/ILoveNotch
             description: "Free, open-source notch app for MacBooks: now playing, file"
           - url: https://github.com/Kelvanic/deckle
-            description: "Paper-grain texture overlay for macOS - make your screen feel like"
+            description: "Paper-grain texture overlay for the Mac screen"
           - url: https://github.com/EvilIrving/light-stats
             description: "Native macOS menu bar system monitor. Live"
           - url: https://github.com/asafofer/perch
-            description: "See when Claude Code, Codex, OpenCode or pi need you, and answer from"
+            description: "See when a coding agent needs you, and answer from the notch"
           - url: https://github.com/efim0v/brow
             description: "Claude Code usage limits in the MacBook notch, and workspaces for parallel"
           - url: https://github.com/erayendes/mimir
-            description: "AI tool usage limits tracker for your macOS menu bar - Claude, Codex &"
+            description: "Menu-bar limits for Claude, Codex, and Antigravity"
           - url: https://github.com/Vladimir-Podgornyi/LidAwake
-            description: "macOS menu bar app that keeps your Mac awake, even with"
+            description: "Keep your Mac working with the lid closed"
           - url: https://github.com/bastian-js/dropnote
-            description: "Simple and fast: Notes in the macOS menu bar. Free &"
+            description: "Notes that live in the macOS menu bar"
           - url: https://github.com/owenzhao/DeepSeekStatus
             description: "A macOS menu bar whale that shows whether DeepSeek is in peak"
           - url: https://github.com/roypadina/LanGuard
@@ -1425,29 +1425,29 @@ categories:
           - url: https://github.com/TY-teo/ChargeWatching
             description: "ChargeWatch (repo: ChargeWatching) - free, open-source macOS"
           - url: https://github.com/egemertbalcik/Ledge
-            description: "Free, open-source notch app for MacBook: turns the Mac notch into"
+            description: "Turn the Mac notch into a live status area"
           - url: https://github.com/shiquda/SpotAsk
             description: "One hotkey to ask any AI on Mac. Open-source menu bar assistant: press"
           - url: https://github.com/alexiosus/WandelBar
-            description: "Customize the macOS Tahoe menu bar background with blur, tint"
+            description: "Blur, tint, and texture for the macOS Tahoe menu bar"
           - url: https://github.com/BySergiMM/OmniMac
-            description: "Eleven Mac utilities in one menu bar app: a Dynamic Island for any"
+            description: "Menu-bar utilities: notch, volume, clipboard, and cleanup"
           - url: https://github.com/yagizdo/standlock
             description: "A macOS menu bar app that blocks your screen when it's time to stand"
           - url: https://github.com/andyzasl/browserly
             description: "A smart macOS menu bar app that routes URLs to the right browser"
           - url: https://github.com/huangy7/MeowOut
-            description: "A native macOS menu bar toolkit with a pixel pet that keeps you"
+            description: "Menu-bar toolkit with a pixel pet, clipboard, and 2FA"
           - url: https://github.com/inequitas/performancemonitor
             description: "Lightweight, open-source macOS menu bar system monitor"
           - url: https://github.com/letsur-dev/claude-peak
             description: "Claude Max usage monitor for macOS menu bar"
           - url: https://github.com/willyhay22/AutoDockDrive
-            description: "A small macOS app that automatically adds and removes your"
+            description: "Add connected external drives to the Dock"
           - url: https://github.com/wiltodelta/translate-like-me
             description: "macOS menu bar app that translates selected text in place"
           - url: https://github.com/zorth64/KeyboardOverlay
-            description: "A macOS menubar app that overlays a transparent keyboard on"
+            description: "Show a transparent keyboard over the screen"
           - url: https://github.com/CorvidLabs/MacNTop
             description: "macOS menu bar system monitor with retro CRT aesthetics"
           - url: https://github.com/glanceformac/glance
@@ -1461,11 +1461,11 @@ categories:
           - url: https://github.com/TerrifiedBug/tickerbar
             description: "A free, lightweight macOS menu bar app for tracking stock"
           - url: https://github.com/Codseus/NotchMore
-            description: "A MacOS application that brings bunch of utilities together under"
+            description: "Several Mac utilities gathered in one app"
           - url: https://github.com/LZhenHong/Americano
             description: "Simple caffeinate wrapper stay at menu bar"
           - url: https://github.com/Mohamed-Elshesheny/sigstop
-            description: "You're a developer, not a server. A macOS menu bar app that"
+            description: "Interrupt you when the work actually reaches a pause"
           - url: https://github.com/peaz/displaymodemenu
             description: "A lightweight macOS menu bar app for switching display"
           - url: https://github.com/theshiver/slapss-app
@@ -1473,11 +1473,11 @@ categories:
           - url: https://github.com/1989v/muxbar
             description: "Native macOS menu bar app - tmux session manager, Keep Awake / closed-lid"
           - url: https://github.com/KJeon10/BannerHither
-            description: "Notification banners on the display you're actually looking at"
+            description: "Show notification banners on the active display"
           - url: https://github.com/Ljove02/AIT-AiTranscribe-MacOS
             description: "Offline macOS menu bar app for speech-to-text"
           - url: https://github.com/michalstrnadel/AgentBar
-            description: "Approve your AI coding agents' permission prompts from the"
+            description: "Approve agent permission prompts from the menu bar or notch"
           - url: https://github.com/MidZai/aman_disk
             description: "S.M.A.R.T. health, temperature and performance of your Mac's internal"
           - url: https://github.com/stanczykwyatt/copy-2fa
@@ -1487,7 +1487,7 @@ categories:
           - url: https://github.com/sarthak-SyntaxSamurai/FrogDrop
             description: "A beautiful, lightweight 3-in-1 macOS Menu Bar"
           - url: https://github.com/TREAFREE/Metrune
-            description: "Local-first Mac notch workspace for Focus, Codex, GitHub, music"
+            description: "Notch workspace for Focus, Codex, GitHub, and music"
           - url: https://github.com/bryanmanio/ballast
             description: "macOS menu bar app for Docker containers on a Synology NAS"
           - url: https://github.com/kageroumado/dantrolene
@@ -1503,7 +1503,7 @@ categories:
           - url: https://github.com/hunterphillips/realign
             description: "macOS utility: save and quickly restore your window layout"
           - url: https://github.com/kushalBanda/OpusBar
-            description: "A macOS menu bar app for Claude Code and Codex sessions: see which"
+            description: "Menu-bar status for Claude Code and Codex sessions"
           - url: https://github.com/Photon94/NotchOTP
             description: "Native macOS TOTP authenticator: your two-factor codes in a panel"
           - url: https://github.com/QuentinCar0n/multiclaude
@@ -1511,15 +1511,15 @@ categories:
           - url: https://github.com/ruspg/markdown-quicklook
             description: "Quick Look preview for Markdown files on macOS + menu bar"
           - url: https://github.com/saihgupr/SmartClipboard
-            description: "A modern, native macOS menu bar clipboard manager built with"
+            description: "Menu-bar clipboard manager with local search"
           - url: https://github.com/Yvsleyen00941/Cockpit
-            description: "All-in-one unified daily dashboard for macOS & iOS (Calendar"
+            description: "Daily dashboard for Calendar, Music, Notion, and Mail"
           - url: https://github.com/alexpolonsky/TypeCue
-            description: "Menu bar app that types your script into any app - one block per"
+            description: "Type a saved script into any app, one block per hotkey"
           - url: https://github.com/Bread-bang/claude-usage
-            description: "Native macOS menu bar app showing Claude Code usage (session /"
+            description: "Claude Code usage in the menu bar, with no backend"
           - url: https://github.com/davidpraznik/Archivator
-            description: "macOS menu bar archive tool. Hold Option while dragging files"
+            description: "Hold Option while dragging files to open an archive wheel"
           - url: https://github.com/Mannafee/zielzeit-scalable-capital
             description: "macOS menu bar app that projects when your Scalable"
           - url: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool
@@ -1527,7 +1527,7 @@ categories:
           - url: https://github.com/PremPoddar/CaffeinateCat
             description: "Menu bar app that keeps your Mac awake, even with the lid"
           - url: https://github.com/teconomix/local-transcriber
-            description: "Transcribe meetings, calls and dictation locally on your"
+            description: "Transcribe meetings locally, with speaker names"
           - url: https://github.com/bcanozgur/quota-warmer
             description: "macOS menu bar app that tracks your Claude Code and Codex"
           - url: https://github.com/dcoded-dev/songtide
@@ -1539,31 +1539,31 @@ categories:
           - url: https://github.com/fexxdev/Mystral
             description: "A native macOS menu bar app for controlling fan curves on Apple"
           - url: https://github.com/jettoai/tally
-            description: "Free, open-source macOS menu bar app showing AI usage limits (5-hour"
+            description: "Menu-bar limits for several Claude and Codex accounts"
           - url: https://github.com/narlei/claudecodenotify
-            description: "A macOS menu bar app that pops a floating notification in the"
+            description: "Floating notice when Claude Code is waiting"
           - url: https://github.com/piedol/kipimo
             description: "Free, open-source alternative to CleanMyMac, in Rust. A menu bar system"
           - url: https://github.com/RadixIV/Mixio
-            description: "macOS menu bar app with per app & tab volume control, 10-band EQ with"
+            description: "Per-app and per-tab volume, plus a 10-band equalizer"
           - url: https://github.com/a692570/bolo
             description: "Voice dictation for macOS, powered by Telnyx AI. Hold Right Option"
           - url: https://github.com/askuksov/kombucha
             description: "Limit MacBook charging from the menu bar to extend battery lifespan"
           - url: https://github.com/daveleone/mousip
-            description: "macOS menu bar app that switches Spaces and full-screen apps when you"
+            description: "Switch Spaces by tilting the mouse scroll wheel"
           - url: https://github.com/hakanotal/FreeAudio
             description: "Free & open-source alternative to SoundSource for macOS"
           - url: https://github.com/sown-oss/MemStats
-            description: "A lightweight macOS menu bar app focused on memory monitoring for"
+            description: "Menu-bar memory monitor for several macOS users"
           - url: https://github.com/Xiye88/NotchMuse
             description: "NotchMuse v0.8.0: synced macOS lyrics for Spotify, Apple Music"
           - url: https://github.com/YusufEmreYazici/Centik
             description: "Your MacBook notch, finally useful. Music, live system stats, AI"
           - url: https://github.com/brentc22/stash
-            description: "Free, open source menu bar hider for macOS 27, built on the"
+            description: "Hide menu-bar icons on macOS 27"
           - url: https://github.com/ercanatay/cybokron-dock-groups
-            description: "Free & open-source macOS menu bar app: put apps and"
+            description: "Open or hide a group of apps from a Dock popup"
           - url: https://github.com/lelanddutcher/TuckBar
             description: "Tuck the macOS menu bar away on the displays you choose"
           - url: https://github.com/ResistanceTo/DevForge
@@ -1577,21 +1577,21 @@ categories:
           - url: https://github.com/zyvren/FanPilot
             description: "Free, open-source fan control & temperature monitor for Apple Silicon"
           - url: https://github.com/dy1945/FreeMic
-            description: "macOS MacOS A clean, fresh-styled macOS menu bar utility: see your"
+            description: "See Bluetooth headphones and switch the microphone in one click"
           - url: https://github.com/JoshuaT1105/FunNotch
             description: "A free, open-source Dynamic Island for the MacBook notch: music"
           - url: https://github.com/nim444/featherbar
-            description: "Featherweight macOS menu-bar system monitor - CPU, RAM, power"
+            description: "Tiny menu-bar monitor for CPU, RAM, power, and temperature"
           - url: https://github.com/OrtexIsArtem/vortex
             description: "Free, open-source notch app for Mac: a focus timer, clipboard"
           - url: https://github.com/wata/AudioAnchor
             description: "A Mac menu bar app that keeps your sound output anchored to the device"
           - url: https://github.com/argahv/notchflow
-            description: "A native macOS notch workspace for developer activity, music, files"
+            description: "Notch workspace for developer activity, music, and files"
           - url: https://github.com/cordwainersmith/horita
             description: "horita shows your next meeting and a countdown in the menu bar"
           - url: https://github.com/ksterx/MenubarCC
-            description: "Clawd, a menu bar crab that shows your Claude Code sessions at a"
+            description: "Menu-bar crab that shows Claude Code sessions"
           - url: https://github.com/lucasmullikin/ModelStatus
             description: "A macOS menu bar app for monitoring local AI model servers"
           - url: https://github.com/TadelUnso/vuvuzela
@@ -1603,23 +1603,23 @@ categories:
           - url: https://github.com/tr0drigues/TactileBar
             description: "Precision Menu Bar Telemetry & 26-Switch Industrial Command Deck"
           - url: https://github.com/vitaly-kashtalyan/vocula
-            description: "Local dictation for macOS. Hold a key, speak, and the"
+            description: "Hold a key and paste local dictation at the cursor"
           - url: https://github.com/0franco/currency-converter-macos
-            description: "A free lightweight, native macOS menu bar app that"
+            description: "Live currency conversion in the menu bar"
           - url: https://github.com/ananmouaz/claudometer
             description: "Your Claude usage limits in the macOS menu bar - shown exactly"
           - url: https://github.com/Anubhavdxt/scrap
             description: "Free, open-source, keyboard-first scratchpad for macOS"
           - url: https://github.com/gokturkgocen/EqLume
-            description: "Free, open-source system-wide equalizer for macOS that detects each"
+            description: "System equalizer that picks a preset from the track genre"
           - url: https://github.com/guokuaile/tally
             description: "Claude Code & Codex session status and AI usage quotas in your MacBook"
           - url: https://github.com/jordan-cod/pullo
             description: "Your GitHub pull requests and Actions in the MacBook notch"
           - url: https://github.com/krisbradley/clawpypaste
-            description: "macOS menu bar app for grabbing code/text blocks out of your"
+            description: "Copy code blocks out of the active Claude Code session"
           - url: https://github.com/omlahore/bodycam
-            description: "Records what AI coding agents like Claude Code and Codex do on your"
+            description: "Record commands, files, and network use of coding agents"
           - url: https://github.com/RoketrP/QuotaBar
             description: "Free, open-source Codex usage tracker for the macOS menu bar: monitor"
           - url: https://github.com/roypadina/SmartHiddenBar
@@ -1633,7 +1633,7 @@ categories:
           - url: https://github.com/mas-cli/mas
             description: Mac App Store command-line interface
           - url: https://github.com/momenbasel/PureMac
-            description: "Free, open-source macOS cleaner. CleanMyMac alternative with"
+            description: "Open-source Mac cleaner with no telemetry"
           - url: https://github.com/ixiehao/ezNTFS
             description: "Mount external NTFS drives for read and write access"
           - url: https://github.com/ntfstool/ntfstool
@@ -1653,7 +1653,7 @@ categories:
           - url: https://github.com/momenbasel/pesty
             description: "Free, open-source clipboard manager for macOS a native Paste app"
           - url: https://github.com/marcelrgberger/auto-brew
-            description: "Native macOS app for Homebrew: background auto-updates, a"
+            description: "Homebrew app with background updates and app backup"
           - url: https://github.com/jizhi0v0/duo-updater
             description: "Keeps macOS apps up to date through each app's own release"
           - url: https://github.com/tuhage/Cellar
@@ -1681,13 +1681,13 @@ categories:
           - url: https://github.com/adamorad/csv-quick-look
             description: "macOS QuickLook extension for CSV & TSV files - virtual"
           - url: https://github.com/justadityaraj/folderglass
-            description: "Folderglass: press Space on a folder in Finder to see its"
+            description: "Quick Look a folder for its size, types, and recent files"
           - url: https://github.com/armamut/md-quicklook
-            description: "Fast, native Quick Look extension for Markdown on macOS - GFM"
+            description: "Quick Look for Markdown, with highlighting and math"
           - url: https://github.com/Urannimo/hem
             description: "A fast, native Markdown viewer and editor for macOS, with Quick Look"
           - url: https://github.com/kageroumado/coluracetam
-            description: "A native macOS Markdown reader that renders the moment you"
+            description: "Markdown reader that renders when you press Space"
           - url: https://github.com/magicelk235/Spyglass
             description: "Real Quick Look previews for Google Workspace files on macOS"
       - name: System Utilities
@@ -1743,7 +1743,7 @@ categories:
           - url: https://github.com/thoughtbot/laptop
             description: "A shell script to set up a macOS laptop for web and mobile"
           - url: https://github.com/osaurus-ai/osaurus
-            description: "Own your AI. The native macOS harness for AI agents -- any"
+            description: "Run local or cloud models with memory, skills, and tools"
           - url: https://github.com/aonez/Keka
             description: "The macOS & iOS file archiver"
           - url: https://github.com/kean/Pulse
@@ -1753,7 +1753,7 @@ categories:
           - url: https://github.com/Beingpax/VoiceInk
             description: "The best open-source alternative to Superwhisper & Wispr Flow"
           - url: https://github.com/peetzweg/opendisplay
-            description: "Use an iPhone, iPad, or spare Mac as a true second display for"
+            description: "Use an iPhone, iPad, or spare Mac as a second display"
           - url: https://github.com/tombonez/noTunes
             description: "A simple macOS application that will prevent iTunes or Apple Music"
           - url: https://github.com/SwiftyBeaver/SwiftyBeaver
@@ -1767,9 +1767,9 @@ categories:
           - url: https://github.com/SelfControlApp/selfcontrol
             description: "skull: Mac app to block your own access to distracting"
           - url: https://github.com/f/textream
-            description: "Textream is a free macOS teleprompter app for streamers, interviewers"
+            description: "Teleprompter that highlights the script as you speak"
           - url: https://github.com/raullenchai/Rapid-MLX
-            description: "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and"
+            description: "OpenAI-compatible LLM server for Apple Silicon, built on MLX"
           - url: https://github.com/Dimillian/RedditOS
             description: "The product name is Curiosity, a SwiftUI Reddit client for macOS"
           - url: https://github.com/syncthing/syncthing-macos
@@ -1781,7 +1781,7 @@ categories:
           - url: https://github.com/Schlaubischlump/LocationSimulator
             description: "MacOS application to spoof / fake / mock your iOS"
           - url: https://github.com/RoversX/LaunchNext
-            description: "Bring your Launchpad back in MacOS26+ ,highly customizable"
+            description: "Customizable Launchpad replacement for macOS 26"
           - url: https://github.com/steve228uk/YouTube-Music
             description: "musicalnote: A Mac app wrapper for music.youtube.com"
           - url: https://github.com/michaelvillar/timer-app
@@ -1793,7 +1793,7 @@ categories:
           - url: https://github.com/wzh4869/AppPorts
             description: "A macOS utility to seamlessly migrate applications to external"
           - url: https://github.com/Pyroh/Fluor
-            description: "A handy tool for macOS allowing you to switch Fn keys' mode based on"
+            description: "Switch function-key behavior based on the active app"
           - url: https://github.com/dodo-reach/hermes-desktop
             description: "The safest, simplest way to manage Hermes from your Mac"
           - url: https://github.com/amebalabs/TRex
@@ -1825,7 +1825,7 @@ categories:
           - url: https://github.com/yqrashawn/GokuRakuJoudo
             description: "config karabiner with ease"
           - url: https://github.com/DanielStormApps/Fanny
-            description: "Monitor your Mac's fan speed and CPU/GPU temperature from"
+            description: "Fan speed and CPU or GPU temperature in Notification Center"
           - url: https://github.com/Dimillian/CodexSkillManager
             description: "macOS app to manage your Codex skills"
           - url: https://github.com/dmarcotte/easy-move-resize
@@ -1839,7 +1839,7 @@ categories:
           - url: https://github.com/frankea/Whisky
             description: "Active community fork of the archived whisky-app/whisky - a modern"
           - url: https://github.com/kennss/SiliconScope
-            description: "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with"
+            description: "Apple Silicon monitor for the ANE, media engine, and bandwidth"
           - url: https://github.com/kamillobinski/thock
             description: "THOCK your mac keyboard >> new release soon!"
           - url: https://github.com/idawnlight/ShichiZip
@@ -1853,7 +1853,7 @@ categories:
           - url: https://github.com/kageroumado/phosphene
             description: "Video wallpapers for macOS, from your own videos or Wallpaper"
           - url: https://github.com/awaseem/foqos
-            description: "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a"
+            description: "Lock apps until you tap an NFC tag or scan a QR code"
           - url: https://github.com/wozniakpawel/PairPods
             description: "Free and open source app to share audio on macOS"
           - url: https://github.com/ggkevinnnn/LaunchNow
@@ -1873,11 +1873,11 @@ categories:
           - url: https://github.com/vChewing/vChewing-macOS
             description: "macOS macOS Swift Gitee"
           - url: https://github.com/Bengerthelorf/macIconChanger
-            description: "Transform your Mac, one icon at a time - customize app &"
+            description: "Change app and folder icons, and restore them later"
           - url: https://github.com/Sanyam-G/switch
             description: "A keyboard-driven window switcher for macOS. Notarized. Free"
           - url: https://github.com/SaarthurR/atticus-mac
-            description: "Fast, free voice assistant for your Mac. No API key: runs on"
+            description: "Voice assistant for your Mac that needs no API key"
           - url: https://github.com/n0shake/clocker
             description: "macOS app to plan and organize through timezones"
           - url: https://github.com/qunqin24/Pulse
@@ -1887,7 +1887,7 @@ categories:
           - url: https://github.com/BonzaiThePenguin/Loading
             description: "Simple network activity monitor for macOS"
           - url: https://github.com/bwya77/DockAnchor
-            description: "DockAnchor is a simple macOS utility that stops the Dock from"
+            description: "Keep the Dock on one display"
           - url: https://github.com/johnbean393/KeyType
             description: "An open-source Cotypist with macOS system wide AI autocomplete"
           - url: https://github.com/IngmarStein/Monolingual
@@ -1899,11 +1899,11 @@ categories:
           - url: https://github.com/kageroumado/adrafinil
             description: "Keep your Mac awake only while AI coding agents are working"
           - url: https://github.com/kizitonwose/PodsUpdater
-            description: "A macOS app that helps you manage dependency releases in your"
+            description: "See and update CocoaPods releases in your Podfile"
           - url: https://github.com/razzant/claudexor
-            description: "Multi-harness control plane for Claude Code, Codex, Cursor, and"
+            description: "Rotate Claude and Codex accounts and share thread context"
           - url: https://github.com/raphaelhanneken/apple-juice
-            description: "An advanced battery gauge for macOS, that displays the"
+            description: "Battery gauge that shows the time remaining"
           - url: https://github.com/jcm93/jmc
             description: "jmc - a new macOS media organizer"
           - url: https://github.com/opennookorg/betterwispr
@@ -1957,7 +1957,7 @@ categories:
           - url: https://github.com/zoolapp/aime
             description: "An open-source Chinese input method for macOS, built on RIME. Local"
           - url: https://github.com/NullPointerDepressiveDisorder/MiddleDrag
-            description: "Three-finger trackpad gestures for"
+            description: "Middle-click and drag with three fingers"
           - url: https://github.com/wilu222/tripleclick
             description: "Three-finger trackpad click as middle click"
           - url: https://github.com/trey-a-12/LaunchBack
@@ -1975,7 +1975,7 @@ categories:
           - url: https://github.com/nuance-dev/achico
             description: "A minimal free macOS local file compressor app"
           - url: https://github.com/mpereira/macbook-playbook
-            description: "Install all your applications and configure everything the"
+            description: "Install your apps and apply your Mac setup with one command"
           - url: https://github.com/DeromirNeves/DockSeparator
             description: "macOS utility to add multiple separators to Dock"
           - url: https://github.com/jianyintang/find-disk-killer
@@ -2003,7 +2003,7 @@ categories:
           - url: https://github.com/writronic/MaCursor
             description: "Cursor Control for macOS"
           - url: https://github.com/lynnswap/NeoSimulator
-            description: "A lightweight simulator app for iPhone, iPad, Apple Watch"
+            description: "Lightweight simulator for iPhone, iPad, and Apple Watch"
           - url: https://github.com/TheNewNormal/corectl.app
             description: "Controlling app of corectld server daemon for macOS"
           - url: https://github.com/srimanachanta/Stasis
@@ -2011,7 +2011,7 @@ categories:
           - url: https://github.com/fabiusBile/Spotify4BigSur
             description: "Implements a Widget for Spotify in the Notification Center"
           - url: https://github.com/vpeschenkov/Predator
-            description: "Predator is a customizable macOS screensaver that mimics the"
+            description: "Screensaver that mimics the Predator movie countdown"
           - url: https://github.com/jnordberg/irccloudapp
             description: "Standalone IRCCloud desktop client for OS X"
           - url: https://github.com/scgopi/GraphCode
@@ -2021,17 +2021,17 @@ categories:
           - url: https://github.com/CleanCocoa/InfiniteCanvas
             description: "Proof of concept for a vector drawing app without canvas"
           - url: https://github.com/kristof12345/Launchpad
-            description: "A modern macOS Launchpad with enhanced functionality and"
+            description: "A more customizable replacement for Launchpad"
           - url: https://github.com/sunnyyoung/Suohai
             description: "Audio input/output source lock/switcher for macOS"
           - url: https://github.com/mattiarossini/MinimalClock
             description: "MinimalClock: a MacOS screen saver"
           - url: https://github.com/CocoaHeadsBrasil/MuteUnmuteMic
-            description: "macOS app to mute & unmute the input volume of your"
+            description: "Mute and unmute the microphone from a Mac app"
           - url: https://github.com/msvisser/AnnePro-mac
             description: "MacOS application for controlling AnnePro keyboard over bluetooth"
           - url: https://github.com/jaywcjlove/vidwall
-            description: "Set 4K videos as dynamic desktop wallpapers, supporting MP4 and"
+            description: "Set 4K videos as dynamic desktop wallpapers"
           - url: https://github.com/shubhambatra3019/macOrganizer
             description: "A macOS app for organizing folders"
           - url: https://github.com/dcsch/macho-browser
@@ -2043,11 +2043,11 @@ categories:
           - url: https://github.com/NSEvent/xbox-controller-mapper
             description: "Remap Xbox, PlayStation, Nintendo, and 300+"
           - url: https://github.com/fatwang2/Pulse
-            description: "Glanceable market data for you"
+            description: "Stock, index, and crypto prices in the menu bar"
           - url: https://github.com/HasBrain/MacOS-DPIManager
             description: "Enable HiDPI modes and adjust font smoothing for external"
           - url: https://github.com/BarryBarrywu/tutti
-            description: "Multi-output audio and display control for Mac - one panel for"
+            description: "One panel for every audio output, app, and screen"
           - url: https://github.com/chayapats/oliv
             description: "Thai + English voice typing for Mac. Offline speech-to-text that types"
           - url: https://github.com/hieunc229/Pie
@@ -2055,7 +2055,7 @@ categories:
           - url: https://github.com/alterhq/openpets
             description: "One shared macOS desktop pet for AI agents and apps, with MCP/CLI"
           - url: https://github.com/migsilva89/loadout
-            description: "See and manage what your coding assistants load - skills"
+            description: "See the skills, commands, and MCP servers your agents load"
           - url: https://github.com/photangralenphie/MyMedia
             description: "App for displaying your local movies and TV shows for macOS"
           - url: https://github.com/KrisYu/FilterShop
@@ -2071,11 +2071,11 @@ categories:
           - url: https://github.com/alphaArgon/ScrollToZoom
             description: "A Mac utility that emulates zoom gestures using mouse wheel"
           - url: https://github.com/lyc2345/Lyricism
-            description: "macOS app to show you lyric what currently iTunes or Spotify is"
+            description: "Show the lyrics iTunes or Spotify is playing"
           - url: https://github.com/chentao1006/Quitty
             description: "Quitty is a lightweight, modern macOS utility that automatically"
           - url: https://github.com/haplollc/Vesalius
-            description: "A map of your codebase for Claude Code: an on-device code graph with"
+            description: "On-device code graph for Claude Code, with an MCP server"
           - url: https://github.com/JustinFincher/BoardForGitHub
             description: "A small application to monitor your GitHub project web"
           - url: https://github.com/phamfoo/Solid
@@ -2087,9 +2087,9 @@ categories:
           - url: https://github.com/yaroshevych/desktopctl
             description: "OSX launcher and GPU-accelerated CLI tool for AI agents"
           - url: https://github.com/MidZai/aman_check
-            description: "Dated, honest condition report for a used Mac: locks, battery, SSD"
+            description: "Condition report for a used Mac: locks, battery, and SSD"
           - url: https://github.com/AssemblyAI/blurt
-            description: "Open-source macOS dictation that turns speech into polished text in"
+            description: "Mac dictation that turns speech into polished text"
           - url: https://github.com/bocan/bocan-music
             description: "A native macOS music and podcast player and library built with Swift"
           - url: https://github.com/khan-umirzakoff/Mole-GUI
@@ -2103,7 +2103,7 @@ categories:
           - url: https://github.com/jaywcjlove/vidwall-hub
             description: "Vidwall Hub is a tool that allows you to easily import videos"
           - url: https://github.com/larryxiao/openquack
-            description: "Voice dictation menu-bar app for macOS. Press a hotkey, speak"
+            description: "Press a hotkey, speak, and the transcript appears at the cursor"
           - url: https://github.com/ricardoleal/TimeMachineTrimmer
             description: "A lightweight macOS utility to trim old Time Machine"
           - url: https://github.com/nilava/TabType
@@ -2135,7 +2135,7 @@ categories:
           - url: https://github.com/Slllava/gridfy
             description: "Grid Calculator for Mac OS"
           - url: https://github.com/kamjin3086/AppUninstaller
-            description: "A lightweight, native macOS app uninstaller with"
+            description: "Drag an app onto this window to uninstall it"
           - url: https://github.com/lifedever/TabFlick
             description: "An Arc-style most-recently-used tab switcher for Google Chrome"
           - url: https://github.com/netsvetaev/Old-Launchpad
@@ -2153,7 +2153,7 @@ categories:
           - url: https://github.com/tryskilly/skilly
             description: "Skilly : A voice-first AI tutor that watches your screen"
           - url: https://github.com/rimusz/grok-build-desktop
-            description: "GrokBuild Desktop App is a native SwiftUI macOS shell for"
+            description: "Native Mac shell for the grok command-line tool"
           - url: https://github.com/cristibaluta/Localizable.strings
             description: "Mac app to localize your iOS and macOS projects"
           - url: https://github.com/ox01024/MacHead
@@ -2161,7 +2161,7 @@ categories:
           - url: https://github.com/Blinks44/monny
             description: "See what your Mac is doing and keep its battery healthy with a charge"
           - url: https://github.com/xing/calabash-launcher
-            description: "iOS Calabash Launcher is a macOS app that helps you run and"
+            description: "Run and manage Calabash iOS tests from a Mac app"
           - url: https://github.com/klaaspieter/Letters
             description: "Mac app to learn typing and the alphabet"
           - url: https://github.com/ryleighnewman/YapToText
@@ -2199,11 +2199,11 @@ categories:
           - url: https://github.com/larshurrelb/quicktalk-app
             description: "A open source transcription App for Mac using Gemini 3.5"
           - url: https://github.com/wenujacodes/LaunchCorner
-            description: "A lightweight, modern hot-corner app launcher for macOS built"
+            description: "Hot-corner app launcher for macOS"
           - url: https://github.com/Ryware/Headroom
             description: "Free native macOS disk analyzer with a folder tree, treemap, file"
           - url: https://github.com/tiagomoraes/browbro
-            description: "BowBro is a macos application that let's the user select the"
+            description: "Choose which browser opens a link"
           - url: https://github.com/kshah00/zipper
             description: "A simple, elegant and powerful archival tool for macOS"
           - url: https://github.com/mastro993/keyameleon
@@ -2213,7 +2213,7 @@ categories:
           - url: https://github.com/nickustinov/typester-macos
             description: "Dictate anywhere in macOS"
           - url: https://github.com/BitmatchApp/Bitmatch
-            description: "Free, open-source camera-card backups. Copy to multiple drives"
+            description: "Camera-card backups to several drives, verified with SHA-256"
           - url: https://github.com/luke-fairbanks/BatteryHog
             description: "A native macOS app that shows what's draining your battery"
           - url: https://github.com/albertofettucini/Engram
@@ -2225,13 +2225,13 @@ categories:
           - url: https://github.com/nbonamy/trax
             description: "macOS Music management application written in Flutter"
           - url: https://github.com/jedbrnth-eng/lucid-live-wallpaper
-            description: "Free live 4K wallpapers for Mac: about 590 space and"
+            description: "Free live 4K wallpapers, including Apple Aerials"
           - url: https://github.com/melissa-pereira-deel/home-rec
             description: "Capture whatever your Mac is playing as a lossless WAV"
           - url: https://github.com/op7418/AM-Native
             description: "Native macOS settings for the Angry Miao AM Infinity .97 - battery"
           - url: https://github.com/ramazanberkozbek/kaskas
-            description: "A free, open source break reminder and focus tracker for"
+            description: "Break reminder and focus tracker for macOS"
           - url: https://github.com/Zer0codestuff/OpenNaga
             description: "Free, open-source Razer Synapse alternative for the Naga V2"
           - url: https://github.com/Bouliw/earshot
@@ -2241,27 +2241,27 @@ categories:
           - url: https://github.com/DPatrikI/voleq-community
             description: "VolEq - Volume Equilibrium. Lightweight automatic"
           - url: https://github.com/martinrusetski/true-tone-manager
-            description: "A Mac app that auto-switches True Tone based on which"
+            description: "Turn True Tone on or off based on the front app"
           - url: https://github.com/SKbarbon/LaunchpadOG
             description: "The OG Launchpad-like app. View your mac apps with simple and ease"
           - url: https://github.com/FlowPeek/flowpeek
-            description: "See the Mermaid diagram you are looking at, without leaving the"
+            description: "See the Mermaid diagram on the page, from the menu bar"
           - url: https://github.com/kotique123/FnKeyboard
             description: "macOS menu-bar utility for on-screen F1-F12 keys - hardened"
           - url: https://github.com/maoxiaoke/d-switch
-            description: "A small macOS menu-bar utility that moves the mouse cursor between"
+            description: "Move the pointer to another display with a shortcut or tap"
           - url: https://github.com/RoyZhao1991/LingShu
-            description: "Apache-2.0, model-agnostic macOS agent: bring your own model to"
+            description: "macOS agent that uses your model for code, docs, and actions"
           - url: https://github.com/TerrifiedBug/browseroute
             description: "Route each macOS link to the browser you choose"
           - url: https://github.com/yangzichao/JustSessions
             description: "Native macOS app to find, read, and resume Claude Code, Codex"
           - url: https://github.com/zjy4fun/HotkeyLauncher
-            description: "Native macOS hotkey launcher built with SwiftUI, AppKit, and"
+            description: "Launch apps and commands from global hotkeys"
           - url: https://github.com/akinalpfdn/MovApp
-            description: "A lightweight Launchpad alternative and complete app uninstaller for"
+            description: "Launchpad-style app grid and an uninstaller"
           - url: https://github.com/alfital2/FlicKey
-            description: "Fix wrong-keyboard-layout typing on macOS. Auto-detects, converts"
+            description: "Detect a wrong keyboard layout and convert what you typed"
           - url: https://github.com/dmartoon/MacBook-Keyboard-Backlight-Limiter
             description: "Simple macOS app that lets you set ambient"
           - url: https://github.com/leeleelee3264/spyhop
@@ -2279,9 +2279,9 @@ categories:
           - url: https://github.com/sanvibyfish/OwlWhisper
             description: "Local voice input for macOS - hold a hotkey, speak, release"
           - url: https://github.com/sudoHG/AskKey
-            description: "Ask Key: the Mac key manager for AI agents. API keys stay encrypted on"
+            description: "Encrypted API keys for coding agents, with approval on each use"
           - url: https://github.com/Zer0codestuff/whisperdrop-2
-            description: "Free, open-source Mac app for local transcription and"
+            description: "Free Mac app for local transcription and dictation"
           - url: https://github.com/andreygaag/quickbrowser
             description: "Minimalist macOS app for quickly choosing a browser"
           - url: https://github.com/Blinks44/rebind
@@ -2291,9 +2291,9 @@ categories:
           - url: https://github.com/davidullo/magicwall
             description: "Local video wallpapers for macOS - native, lightweight and notarized"
           - url: https://github.com/FinchGram/FinchGram
-            description: "An unofficial, open-source Telegram desktop client with"
+            description: "Unofficial open-source Telegram client for Mac"
           - url: https://github.com/HumbleBee14/LockIn
-            description: "A macOS focus app that blocks distracting websites and apps on a"
+            description: "Block distracting sites and apps on a schedule"
           - url: https://github.com/Malik1942/CalmMouse
             description: "Magic Mouse UX fixes for macOS - stop the page scrolling every time"
           - url: https://github.com/Mason363/Pathstitch
@@ -2301,13 +2301,13 @@ categories:
           - url: https://github.com/renkagod/spacemap
             description: "See what is eating your Mac's disk on a map you can walk through"
           - url: https://github.com/timurverevkin/Melingo
-            description: "AI-powered language learning for macOS. Build vocabulary from"
+            description: "Build vocabulary from real content and practice with flashcards"
           - url: https://github.com/yestoall/tics
-            description: "Make your Mac sound like a mechanical keyboard when you type, and like a"
+            description: "Make the Mac sound like a mechanical keyboard and mouse"
           - url: https://github.com/CheyYuAn/CueTap
             description: "Typo-free typing for live demos, talks and screencasts on macOS"
           - url: https://github.com/loomtable/lumi
-            description: "The light inside your Mac. Free, open-source Mac app that works with"
+            description: "Free Mac app that works with Claude Code"
           - url: https://github.com/PerfectoWeb/Gibson
             description: "macOS screen saver: a hacker-film dashboard driven by real system"
           - url: https://github.com/skundu42/quill
@@ -2317,7 +2317,7 @@ categories:
           - url: https://github.com/Stari-am/griasa
             description: "What was promised, by whom, and what you walk into next - a local-first"
           - url: https://github.com/w20labs/reed
-            description: "Reed Dictation: free, local-only voice dictation for macOS. Hold a"
+            description: "Free local dictation: hold a shortcut, talk, release"
           - url: https://github.com/danielyedaniel/jevme
             description: "Talk to your Mac and it does it - in any app, while you're still"
           - url: https://github.com/fikretkdincer/droplet
@@ -2331,15 +2331,15 @@ categories:
           - url: https://github.com/chengffei/leaf
             description: "Read like a Kindle on your Mac. Open-source EPUB, MOBI and AZW3 reader"
           - url: https://github.com/dendyelo/air-keyboard
-            description: "Use a mobile browser as a local Wi-Fi keyboard and trackpad for"
+            description: "Use a phone browser as a Wi-Fi keyboard and trackpad"
           - url: https://github.com/fratayaydn/nightkeys
-            description: "Turns the MacBook keyboard backlight on only when you type on the"
+            description: "Light the keyboard only while you type on it"
           - url: https://github.com/GianlucaBave/murmury
-            description: "The open-source Cluely alternative for Mac: live answers from your"
+            description: "Live call answers from your docs, hidden from screen sharing"
           - url: https://github.com/itssarthak/eyeshift
             description: "Free, open-source Glance Switch alternative for Mac: keyboard focus"
           - url: https://github.com/jedbrnth-eng/rave-live
-            description: "Festival light show for your Mac that locks to the beat of"
+            description: "Festival light show for your Mac that locks to the beat"
           - url: https://github.com/kotuke/lumilo
             description: "Menu-bar panel for local LLM engines on macOS: run Splash or llama.cpp"
           - url: https://github.com/mxpalm/AerialSwap
@@ -2347,7 +2347,7 @@ categories:
           - url: https://github.com/neural-beat/human-eyes
             description: "Native Mac app that turns your Claude Code and Codex history"
           - url: https://github.com/piedol/tamka
-            description: "Offline dictation and file transcription for the Mac, in Rust. Works with"
+            description: "Offline dictation and file transcription for the Mac"
           - url: https://github.com/Shuail135/CamiTune
             description: "A native macOS app for tuning system audio. Powered by CamillaDSP"
           - url: https://github.com/sviatil0/eyebreak
@@ -2363,11 +2363,11 @@ categories:
           - url: https://github.com/gnachman/iTerm2
             description: Terminal emulator for macOS with many features
           - url: https://github.com/manaflow-ai/cmux
-            description: "Open source Ghostty-based macOS terminal with vertical tabs and"
+            description: "Ghostty terminal with vertical tabs and agent notifications"
           - url: https://github.com/Ji4n1ng/OpenInTerminal
             description: "Finder Toolbar app for macOS to open the current directory"
           - url: https://github.com/yuuichieguchi/Calyx
-            description: "A native macOS terminal app built on Ghostty for running and"
+            description: "Ghostty-based terminal for running coding agents"
           - url: https://github.com/amanfromsolan/enso
             description: "A friendly, native macOS terminal with workspaces, a command"
           - url: https://github.com/AwalTerminal/Awal-terminal
@@ -2375,9 +2375,9 @@ categories:
           - url: https://github.com/vestaterm/Vesta
             description: "A native macOS terminal for running AI coding agents in parallel"
           - url: https://github.com/snowztech/farol
-            description: "A fast macOS terminal for working with coding agents, built on"
+            description: "Native terminal for coding agents, built on libghostty"
           - url: https://github.com/OpenFabrica/aster
-            description: "A native macOS terminal workspace. Tabs, splits, files, editor and"
+            description: "Terminal workspace with tabs, files, and previews"
           - url: https://github.com/achendev/FineTerm
             description: "Connection Manager and Input Enhancer for macOS Terminal"
       - name: Shell Utilities
@@ -2407,11 +2407,11 @@ categories:
       - url: https://github.com/kasper/phoenix
         description: "A lightweight macOS window and app manager scriptable with JavaScript"
       - url: https://github.com/moonbai-studio/tungsten-edge
-        description: "A per-window taskbar for macOS - a Dock replacement that"
+        description: "A per-window taskbar for macOS"
       - url: https://github.com/mocki-toki/barik
         description: "macOS menu bar replacement, with yabai and AeroSpace support"
       - url: https://github.com/antonyshakirov/hop
-        description: "Free, open-source menu bar toolkit for macOS. Eighteen tools in"
+        description: "Eighteen menu-bar tools in one Mac panel"
       - url: https://github.com/nshi/dimsum
         description: "Minimalist active window highlighting mac app"
       - url: https://github.com/mikusnuz/nudge
@@ -2428,7 +2428,7 @@ categories:
       - url: https://github.com/driceroland/Search
         description: "A small, fast WebKit browser for macOS, by Office Commun"
       - url: https://github.com/arnoappenzeller/PiPifier
-        description: "PiPifier is a native macOS 10.12 Safari extension that lets"
+        description: "Put any HTML5 video in Picture in Picture from Safari"
       - url: https://github.com/achiya-automation/safari-mcp
         description: "Native Safari browser automation for AI agents. 98 tools"
       - url: https://github.com/mstcvk/mc-download-manager
@@ -2440,7 +2440,7 @@ categories:
       - url: https://github.com/simple-login/mac-app
         description: "macOS client with Safari extension for SimpleLogin"
       - url: https://github.com/nicojan/Chorus
-        description: "Native macOS app that unifies web services into a single window with"
+        description: "One window for web apps, with a separate session per account"
       - url: https://github.com/Alexays/Lilo
         description: "A Mac browser on WebKit, not another Chromium, that still runs Chrome"
       - url: https://github.com/dortanes/openspatial
