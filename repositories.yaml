@@ -1624,6 +1624,8 @@ categories:
             description: "Free, open-source Codex usage tracker for the macOS menu bar: monitor"
           - url: https://github.com/roypadina/SmartHiddenBar
             description: "Hide, list and open macOS 27 menu bar items - a Hidden Bar"
+          - url: https://github.com/NikOneZ1/cinenotch
+            description: "Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work."
       - name: Package Managers
         repos:
           - url: https://github.com/milanvarady/Applite
