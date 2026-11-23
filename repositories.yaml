@@ -1958,6 +1958,8 @@ categories:
             description: "An open-source Chinese input method for macOS, built on RIME. Local"
           - url: https://github.com/NullPointerDepressiveDisorder/MiddleDrag
             description: "Three-finger trackpad gestures for"
+          - url: https://github.com/wilu222/tripleclick
+            description: "Three-finger trackpad click as middle click, with optional middle-drag."
           - url: https://github.com/trey-a-12/LaunchBack
             description: "A free and open-source re-implementation of the macOS Launchpad"
           - url: https://github.com/Licoy/StrokeMouse
