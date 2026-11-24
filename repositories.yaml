@@ -2382,6 +2382,8 @@ categories:
             description: "Terminal workspace with tabs, files, and previews"
           - url: https://github.com/achendev/FineTerm
             description: "Connection Manager and Input Enhancer for macOS Terminal"
+          - url: https://github.com/novadeck-org/novadeck
+            description: "Runs Claude Code, Codex, Antigravity and opencode side by side"
       - name: Shell Utilities
         repos:
           - url: https://github.com/lihaoyun6/xHistory
