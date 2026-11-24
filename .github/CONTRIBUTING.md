@@ -112,6 +112,7 @@ categories:
 - Focus on what the repository does, not marketing language
 - Use sentence case
 - End with a period if it's a complete sentence
+- Max length is calculated per repository: 95 - 7 - link text - formatted star count. The 7 is the list marker, the dash, and the star. Link text is `owner/repo`, or `name` when set. Stars are the current count with a thousands separator (`1,000`). CI prints this maximum for every changed description.
 
 ## What Happens Next?
 
