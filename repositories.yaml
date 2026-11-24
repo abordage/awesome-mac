@@ -760,6 +760,8 @@ categories:
             description: "Clipboard history for the Mac with saved lists and a paste queue. Free"
           - url: https://github.com/ypankovych/clipward
             description: "Private, native clipboard manager for macOS 10.13+. Encrypted"
+          - url: https://github.com/reathloo/smartClip
+            description: "Encrypted local clipboard history with sensitive-data protection."
       - name: Translation
         repos:
           - url: https://github.com/tisfeng/Easydict
