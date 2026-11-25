@@ -1042,6 +1042,8 @@ categories:
           - url: https://github.com/matthewrball/abendrot
             description: Warms built-in and external Mac displays around local sunset.
           - url: https://github.com/thompsonate/Shifty
+          - url: https://github.com/mopfaff/Safelight
+            description: "Schedule red color filter, DDC brightness, and Light/Dark mode."
           - url: https://github.com/glinford/dns-easy-switcher
           - url: https://github.com/johnste/finicky
           - url: https://github.com/Silvertree2010/ApolloShell
